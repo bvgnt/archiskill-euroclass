@@ -1,7 +1,7 @@
 {
   "_meta": {
     "name": "Euroclass",
-    "version": "0.9",
+    "version": "0.11",
     "source": "https://github.com/bvgnt/archiskill-euroclass",
     "licence": "CC0"
   },
@@ -175,20 +175,6 @@
       "uni_8290": "1.2.1"
     },
     {
-      "code": "EU-E 21",
-      "fr": "Murs",
-      "en": "Walls",
-      "de": "Wände",
-      "es": "Muros",
-      "it": "Murature",
-      "role_struct": "varia",
-      "uniclass_2015": "",
-      "omniclass_t21": "",
-      "uniformat_ii": "",
-      "guBIMClass": "",
-      "uni_8290": ""
-    },
-    {
       "code": "EU-E 21 10",
       "fr": "Murs extérieurs",
       "en": "Exterior walls",
@@ -341,20 +327,6 @@
       "uniformat_ii": "B1010",
       "guBIMClass": "ES.22.10",
       "uni_8290": "1.2.2"
-    },
-    {
-      "code": "EU-E 22 20",
-      "fr": "Planchers poutrelles/hourdis",
-      "en": "Beam-and-block floors",
-      "de": "Decken mit Balken/Hohldielen",
-      "es": "Forjados unidireccionales",
-      "it": "Solai a predalles",
-      "role_struct": "porteur",
-      "uniclass_2015": "EF_30_20",
-      "omniclass_t21": "21-02 10 10",
-      "uniformat_ii": "B1010",
-      "guBIMClass": "ES.22",
-      "uni_8290": ""
     },
     {
       "code": "EU-E 22 30",
@@ -539,20 +511,6 @@
       "uni_8290": "2.1"
     },
     {
-      "code": "EU-E 25 30",
-      "fr": "Volets et protections solaires",
-      "en": "Shutters and solar shading",
-      "de": "Läden und Sonnenschutz",
-      "es": "Persian",
-      "it": "",
-      "role_struct": "",
-      "uniclass_2015": "",
-      "omniclass_t21": "",
-      "uniformat_ii": "",
-      "guBIMClass": "",
-      "uni_8290": ""
-    },
-    {
       "code": "EU-E 25 40",
       "fr": "Enduits et ITE",
       "en": "Render and ETICS",
@@ -707,20 +665,6 @@
       "uni_8290": "2.2"
     },
     {
-      "code": "EU-E 28 10",
-      "fr": "Portes intérieures",
-      "en": "Internal doors",
-      "de": "Innentüren",
-      "es": "Puertas interiores",
-      "it": "Porte",
-      "role_struct": "",
-      "uniclass_2015": "",
-      "omniclass_t21": "",
-      "uniformat_ii": "",
-      "guBIMClass": "",
-      "uni_8290": ""
-    },
-    {
       "code": "EU-E 28 20",
       "fr": "Placards et agencements fixes",
       "en": "Fixed furniture and joinery",
@@ -873,20 +817,6 @@
       "uniformat_ii": "D2090",
       "guBIMClass": "ES.32.30",
       "uni_8290": "3.2"
-    },
-    {
-      "code": "EU-E 33",
-      "fr": "Électricité",
-      "en": "Electrical",
-      "de": "Elektroinstallationen",
-      "es": "Instalaciones eléctricas",
-      "it": "Impianti el",
-      "role_struct": "",
-      "uniclass_2015": "",
-      "omniclass_t21": "",
-      "uniformat_ii": "",
-      "guBIMClass": "",
-      "uni_8290": ""
     },
     {
       "code": "EU-E 33 10",
@@ -1338,6 +1268,19 @@
       "mode_de_mesure": "Linéaire posé, assemblages et traitement fongicide compris"
     },
     {
+      "code": "EU-O 21 05 07",
+      "fr": "Mur ossature bois avec isolation 140 mm",
+      "en": "Timber frame wall with 140mm insulation",
+      "de": "Holzständerwand mit 140 mm Dämmung",
+      "es": "Muro de estructura de madera con aislamiento 140 mm",
+      "it": "Parete a telaio in legno con isolamento 140 mm",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 21 10 05",
+      "lot_fr": "03 GO",
+      "gewerk_de": "Zimmer-/Holzbauarb. (18334)",
+      "mode_de_mesure": "Surface en élévation hors baies >0,50 m2, ossature, isolation, pare-vapeur et pare-pluie compris"
+    },
+    {
       "code": "EU-O 21 10 01",
       "fr": "Mur extérieur remplissage briques 20",
       "en": "Non-loadbearing brick wall 20",
@@ -1733,7 +1676,7 @@
       "en": "Aluminium sliding window double glazed",
       "de": "Schiebefenster Aluminium",
       "es": "Fecha corrediza aluminio",
-      "it": "Finestra alluminio scorrevole",
+      "it": "FINESTRA alluminio scorrevole",
       "unite": "m2",
       "eu_e_parent": "EU-E 25 20",
       "lot_fr": "06 Façades",
@@ -1902,7 +1845,7 @@
       "en": "Loose-fill cellulose insulation 300mm",
       "de": "Zellulose Einblasdämmung 300mm",
       "es": "Aislamiento coladas soplado 300mm",
-      "it": "Isolamento in soffitta con cellulosa soffiata 300mm",
+      "it": "Isolamento in soffitto con cellulosa soffiata 300mm",
       "unite": "m2",
       "eu_e_parent": "EU-E 26 20",
       "lot_fr": "07 Plâtrerie",
@@ -2531,7 +2474,7 @@
       "eu_e_parent": "EU-E 33 30",
       "lot_fr": "18 Électricité",
       "gewerk_de": "Elektroinstallationen",
-      "mode_de_mesure": "Par point lumineux complet (unité), conducteurs + appareil + commande"
+      "mode_de_mesure": "Point lumineux complet (conducteurs + appareil + commande)"
     },
     {
       "code": "EU-O 33 10 02",
@@ -2596,7 +2539,7 @@
       "eu_e_parent": "EU-E 33 30",
       "lot_fr": "18 Électricité",
       "gewerk_de": "Elektroinstallationen",
-      "mode_de_mesure": "Par appareil posé et raccordé (unité), driver dimmable compris"
+      "mode_de_mesure": "Pa... [Content truncated]"
     },
     {
       "code": "EU-O 33 20 01",
@@ -2661,7 +2604,7 @@
       "eu_e_parent": "EU-E 33 10",
       "lot_fr": "18 Électricité",
       "gewerk_de": "Elektroinstallationen",
-      "mode_de_mesure": "Par panneau posé (unité), rails et raccordement CC jusqu'à l'onduleur"
+      "mode_de_mesure": "Par panneau posé, rails et raccordement CC jusqu'à l'onduleur"
     },
     {
       "code": "EU-O 34 01 01",
@@ -2765,7 +2708,7 @@
       "eu_e_parent": "EU-L 40",
       "lot_fr": "40 Aménagements ext.",
       "gewerk_de": "Gartenbau (Landschaftsbau)",
-      "mode_de_mesure": "Par arbre planté (unité), tuteurage, arrosage de reprise et garantie 1 an compris"
+      "mode_de_mesure": "Par arbre planté, tuteurage, arrosage de reprise et garantie 1 an compris"
     },
     {
       "code": "EU-O 40 40 01",
@@ -2779,283 +2722,6 @@
       "lot_fr": "40 Aménagements ext.",
       "gewerk_de": "Mauerarbeiten (18330)",
       "mode_de_mesure": "Surface d'un côté, béton de remplissage et chapeau compris"
-    }
-  ],
-  "lots_pivots": [
-    {
-      "code": "EU-L 01",
-      "pivot_fr": "Démolition / déconstruction",
-      "pivot_en": "Demolition",
-      "pivot_de": "Abbruch",
-      "domaine": "Démolition",
-      "fr_lot_typique": "01 Démolition",
-      "de_gewerk_typique": "Abbrucharbeiten (18459)"
-    },
-    {
-      "code": "EU-L 02",
-      "pivot_fr": "Terrassement / VRD",
-      "pivot_en": "Earthworks & siteworks",
-      "pivot_de": "Erdarbeiten",
-      "domaine": "Extérieur",
-      "fr_lot_typique": "02 Terrassement/VRD",
-      "de_gewerk_typique": "Erdarbeiten (18300)"
-    },
-    {
-      "code": "EU-L 03",
-      "pivot_fr": "Fondations spéciales",
-      "pivot_en": "Special foundations",
-      "pivot_de": "Sondergründungen",
-      "domaine": "Infrastructure",
-      "fr_lot_typique": "03 GO ou lot séparé",
-      "de_gewerk_typique": "Spezialtiefbau"
-    },
-    {
-      "code": "EU-L 10",
-      "pivot_fr": "Structure / gros œuvre",
-      "pivot_en": "Structure",
-      "pivot_de": "Rohbau",
-      "domaine": "Structure",
-      "fr_lot_typique": "03 Gros œuvre",
-      "de_gewerk_typique": "Mauer-/Betonarbeiten"
-    },
-    {
-      "code": "EU-L 11",
-      "pivot_fr": "Charpente",
-      "pivot_en": "Framing / timber structure",
-      "pivot_de": "Holzbau",
-      "domaine": "Structure",
-      "fr_lot_typique": "04 Charpente",
-      "de_gewerk_typique": "Zimmerarbeiten (18334)"
-    },
-    {
-      "code": "EU-L 12",
-      "pivot_fr": "Couverture",
-      "pivot_en": "Roofing",
-      "pivot_de": "Dachdeckung",
-      "domaine": "Clos-couvert",
-      "fr_lot_typique": "05 Couverture",
-      "de_gewerk_typique": "Dachdeckungsarbeiten (18338)"
-    },
-    {
-      "code": "EU-L 13",
-      "pivot_fr": "Étanchéité",
-      "pivot_en": "Waterproofing",
-      "pivot_de": "Abdichtung",
-      "domaine": "Clos-couvert",
-      "fr_lot_typique": "05 Étanchéité",
-      "de_gewerk_typique": "Dach-/Bauabdichtung"
-    },
-    {
-      "code": "EU-L 14",
-      "pivot_fr": "Façades / bardages",
-      "pivot_en": "Facades",
-      "pivot_de": "Fassaden",
-      "domaine": "Clos-couvert",
-      "fr_lot_typique": "06 Façades",
-      "de_gewerk_typique": "VHF (18351)"
-    },
-    {
-      "code": "EU-L 15",
-      "pivot_fr": "Menuiseries extérieures",
-      "pivot_en": "External joinery",
-      "pivot_de": "Fenster und Außentüren",
-      "domaine": "Clos-couvert",
-      "fr_lot_typique": "06 Menuiseries ext.",
-      "de_gewerk_typique": "Tischlerarbeiten (18355)"
-    },
-    {
-      "code": "EU-L 16",
-      "pivot_fr": "Isolation",
-      "pivot_en": "Insulation",
-      "pivot_de": "Isolierungsarbeiten",
-      "domaine": "Transversal",
-      "fr_lot_typique": "redistribué 05/06/07",
-      "de_gewerk_typique": "WDVS (18345)"
-    },
-    {
-      "code": "EU-L 20",
-      "pivot_fr": "Menuiseries intérieures / agencement",
-      "pivot_en": "Internal joinery / fit-out",
-      "pivot_de": "Innenausbau Möbel",
-      "domaine": "Second œuvre",
-      "fr_lot_typique": "07 Menuiseries int.",
-      "de_gewerk_typique": "Tischlerarbeiten (18355)"
-    },
-    {
-      "code": "EU-L 21",
-      "pivot_fr": "Plâtrerie / cloisons / doublages",
-      "pivot_en": "Partitions & linings",
-      "pivot_de": "Trockenbau",
-      "domaine": "Second œuvre",
-      "fr_lot_typique": "07 Plâtrerie",
-      "de_gewerk_typique": "Trockenbauarbeiten (18340)"
-    },
-    {
-      "code": "EU-L 22",
-      "pivot_fr": "Revêtements sols et murs",
-      "pivot_en": "Floor & wall finishes",
-      "pivot_de": "Boden- und Wandbeläge",
-      "domaine": "Finition",
-      "fr_lot_typique": "14 Revêtements",
-      "de_gewerk_typique": "Fliesen-/Bodenbeläge"
-    },
-    {
-      "code": "EU-L 23",
-      "pivot_fr": "Peinture",
-      "pivot_en": "Painting",
-      "pivot_de": "Malerarbeiten",
-      "domaine": "Finition",
-      "fr_lot_typique": "15 Peinture",
-      "de_gewerk_typique": "Malerarbeiten (18363)"
-    },
-    {
-      "code": "EU-L 24",
-      "pivot_fr": "Serrurerie / métallerie",
-      "pivot_en": "Metalwork",
-      "pivot_de": "Metallbau",
-      "domaine": "Second œuvre",
-      "fr_lot_typique": "07 Serrurerie",
-      "de_gewerk_typique": "Metallbauarbeiten"
-    },
-    {
-      "code": "EU-L 30",
-      "pivot_fr": "Plomberie / sanitaire",
-      "pivot_en": "Plumbing",
-      "pivot_de": "Sanitär",
-      "domaine": "Technique",
-      "fr_lot_typique": "16 Plomberie",
-      "de_gewerk_typique": "Gas-/Wasserarb. (18381)"
-    },
-    {
-      "code": "EU-L 31",
-      "pivot_fr": "CVC / chauffage-ventilation",
-      "pivot_en": "HVAC",
-      "pivot_de": "Heizung Lüftung",
-      "domaine": "Technique",
-      "fr_lot_typique": "17 CVC",
-      "de_gewerk_typique": "SHK"
-    },
-    {
-      "code": "EU-L 32",
-      "pivot_fr": "Électricité CFO/CFA",
-      "pivot_en": "Electrical",
-      "pivot_de": "Elektro",
-      "domaine": "Technique",
-      "fr_lot_typique": "18 Électricité",
-      "de_gewerk_typique": "Elektroinstallationen"
-    },
-    {
-      "code": "EU-L 33",
-      "pivot_fr": "Ascenseurs / élévateurs",
-      "pivot_en": "Vertical transport",
-      "pivot_de": "Aufzüge",
-      "domaine": "Technique",
-      "fr_lot_typique": "1",
-      "de_gewerk_typique": ""
-    },
-    {
-      "code": "EU-L 34",
-      "pivot_fr": "SSI / sécurité incendie",
-      "pivot_en": "Fire safety",
-      "pivot_de": "Brandschutz",
-      "domaine": "Technique",
-      "fr_lot_typique": "20 SSI",
-      "de_gewerk_typique": "Brandschutz"
-    },
-    {
-      "code": "EU-L 40",
-      "pivot_fr": "Aménagements extérieurs / paysage",
-      "pivot_en": "Landscaping",
-      "pivot_de": "Aussenanlagen",
-      "domaine": "Extérieur",
-      "fr_lot_typique": "21 Espaces verts",
-      "de_gewerk_typique": "Garten- und Landschaftsbau"
-    }
-  ],
-  "immateriels": [
-    {
-      "code": "EU-W 10",
-      "fr": "Implantation et tracing",
-      "en": "Setting out",
-      "de": "Bauvermessung Absteckung",
-      "es": "Replanteo",
-      "it": "Tracciamento",
-      "ifc_entity": "IfcVirtualElement",
-      "omniclass_t22": "22-01 71",
-      "lot_fr": "00/Généralités",
-      "gewerk_de": "Bauvermessung (18299)"
-    },
-    {
-      "code": "EU-W 20",
-      "fr": "Réservations",
-      "en": "Reservations voids",
-      "de": "Aussparungen",
-      "es": "Resalados",
-      "it": "Fori passanti",
-      "ifc_entity": "IfcOpeningElement",
-      "omniclass_t22": "22-05/08",
-      "lot_fr": "selon lot demandeur",
-      "gewerk_de": "Aussparungen (lot demandeur)"
-    },
-    {
-      "code": "EU-W 30",
-      "fr": "Stocks et dépôts de matériaux",
-      "en": "Material stockpiles",
-      "de": "Materiallager",
-      "es": "Acopios",
-      "it": "Depositi materiali",
-      "ifc_entity": "IfcEarthworksElement",
-      "omniclass_t22": "22-31",
-      "lot_fr": "00/Généralités",
-      "gewerk_de": "Bodenmanagement"
-    },
-    {
-      "code": "EU-W 30 10",
-      "fr": "Stock de terre réemployable",
-      "en": "Reusable soil stock",
-      "de": "Bodenlager Wiederverwendung",
-      "es": "Acopio de tierra reutilizable",
-      "it": "Deposito terra riutilizzabile",
-      "ifc_entity": "IfcEarthworksElement",
-      "omniclass_t22": "22-31 23",
-      "lot_fr": "ACTIF réemploi (EU-L 16)",
-      "gewerk_de": "Kreislaufwirtschaft (actif)"
-    },
-    {
-      "code": "EU-W 40",
-      "fr": "Zones de chantier (base vie grues)",
-      "en": "Site zones welfare cranes",
-      "de": "Baustelleneinrichtung",
-      "es": "Instalaciones de obra",
-      "it": "Aree di cantiere",
-      "ifc_entity": "IfcVirtualElement / IfcSpace",
-      "omniclass_t22": "22-01 50",
-      "lot_fr": "00/Généralités",
-      "gewerk_de": "Baustelleneinrichtung (18299)"
-    },
-    {
-      "code": "EU-W 50",
-      "fr": "Élément de démolition repérage",
-      "en": "Demolition markers",
-      "de": "Abbruchkennzeichnung",
-      "es": "Marcado de demolición",
-      "it": "Marcature demolizione",
-      "ifc_entity": "IfcVirtualElement",
-      "omniclass_t22": "22-02",
-      "lot_fr": "00/Généralités",
-      "gewerk_de": "Abbrucharbeiten (18459)"
-    },
-    {
-      "code": "EU-W 60",
-      "fr": "Chantier provisoires (étaiement)",
-      "en": "Temporary works",
-      "de": "Lehrgerüste und Verbau",
-      "es": "Cimbras y apuntalamientos",
-      "it": "Opere provvisionali",
-      "ifc_entity": "IfcElement / IfcVirtualElement",
-      "omniclass_t22": "22-05 13",
-      "lot_fr": "00/Généralités",
-      "gewerk_de": "Arbeitsgemeinschaft/Verbau"
     }
   ]
 }

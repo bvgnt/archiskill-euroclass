@@ -28,6 +28,7 @@ EU-O 21 05 03;Mur porteur briques 20 (hourdage compris);Tragendes Mauerwerk 20 (
 EU-O 21 05 04;Poteau béton armé 30x30;Stahlbetonstütze 30x30;ml;03 GO;Beton-/Stahlbetonarb. (18331)
 EU-O 21 05 05;Chaînage horizontal de rive;Abmauerung Ringanker;ml;03 GO;Mauerarbeiten (18330)
 EU-O 21 05 06;Poteau bois lamellé-collé 20x40;Brettschichtholz-Stütze 20x40;ml;03 GO;Zimmer-/Holzbauarb. (18334)
+EU-O 21 05 07;Mur ossature bois avec isolation 140 mm;Holzständerwand mit 140 mm Dämmung;m2;03 GO;Zimmer-/Holzbauarb. (18334)
 EU-O 21 10 01;Mur extérieur remplissage briques 20;Nichttragende Wand Ziegel 20;m2;06 Façades;Mauerarbeiten (18330)
 EU-O 21 10 05;Linteau béton armé sur baie;Stahlbetonsturz;ml;03 GO;Beton-/Mauerarbeiten
 EU-O 21 25 01;Cloison plaque de plâtre BA13 sur ossature (ép. 98);Trockenbauwand 98;m2;07 Plâtrerie;Trockenbauarbeiten (18340)
