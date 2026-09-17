@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 TABLES = ROOT / "tables"
 
 CODE_RE = re.compile(r"^EU-(E|O|C|L|W) \d{2}( \d{2})?( \d{2})?$")
-UNITS = {"m2", "m3", "ml", "u", "kg", "L", "l"}
+UNITS = {"m2", "m3", "ml", "u", "kg", "L", "l", "t"}
 
 errors: list[str] = []
 warnings: list[str] = []
