@@ -1,0 +1,21 @@
+code;libelle_fr;libelle_de;unite;lot_fr;gewerk_de
+EU-O 10 10 01;Semelle filante béton armé (fouille comprise);Streifenfundament Stahlbeton (Aushub inkl.);m3;03 GO;Betonarbeiten (18331)
+EU-O 10 30 01;Pieu foré béton armé diam. 600;Bohrpfahl d600;ml;03 GO (fonda. spéciales);Sondergewerk
+EU-O 10 40 01;Radier ép. 25 cm avec treillis soudé;Fundamentplatte 25cm m. Bewehrung;m2;03 GO;Betonarbeiten (18331)
+EU-O 10 70 01;Mur de fondation blocs béton 20;Grundmauer Betonblöcke 20;m2;03 GO;Mauerarbeiten (18330)
+EU-O 21 05 01;Mur porteur blocs béton 20 (hourdage compris);Tragende Wand Betonblöcke 20 (mit Ringanker);m2;03 GO;Mauerarbeiten (18330)
+EU-O 21 05 02;Voile béton armé ép. 18;Stahlbetonwand 18;m2;03 GO;Betonarbeiten (18331)
+EU-O 21 10 01;Mur extérieur remplissage briques 20;Nichttragende Wand Ziegel 20;m2;06 Façades;Mauerarbeiten (18330)
+EU-O 21 25 01;Cloison plaque de plâtre BA13 sur ossature (ép. 98);Trockenbauwand 98;m2;07 Plâtrerie;Trockenbauarbeiten (18340)
+EU-O 22 10 01;Plancher poutrelles-hourdis + dalle compression 20+5;Decke mit Balken 20+5;m2;03 GO;Betonarbeiten (18331)
+EU-O 22 40 01;Chape ciment sculptée ép. 5 cm;Zementestrich 5cm;m2;14 Revêtements;Estricharbeiten (18353)
+EU-O 23 20 01;Couverture tuiles terre cuite sur liteaux;Tondachziegel auf Lattung;m2;05 Couverture;Dachdeckungsarbeiten (18338)
+EU-O 23 30 01;Étanchéité bicouche SBS sur isolant;Dachabdichtung SBS zweilagig;m2;05 Étanchéité;Dachabdichtung
+EU-O 25 20 01;Fenêtre alu coulissante double vitrage;Schiebefenster Aluminium;m2;06 Menuiseries ext.;Tischlerarbeiten (18355)
+EU-O 25 40 01;ITE enduit mince sur polystyrène 140;WDVS Dünnputz auf EPS 140;m2;06 Façades;WDVS (18345)
+EU-O 26 30 01;Faux plafond dalles 60x60 sur ossature;Abgehängte Decke 60x60;m2;07 Plâtrerie;Trockenbauarbeiten (18340)
+EU-O 27 10 01;Carrelage grès cérame 60x60 collé;fliesen 60x60 klebeverfahren;m2;14 Revêtements;Fliesenarbeiten (18352)
+EU-O 27 40 01;Peinture acrylique mate 2 couches sur enduit;Dispersionsfarbe 2 Anstriche;m2;15 Peinture;Malerarbeiten (18363)
+EU-O 28 10 01;Porte intérieure âme alvéolée boisée + bâti;Innentüre Röhrenspan + Zarge;u;07 Menuiseries int.;Tischlerarbeiten (18355)
+EU-O 31 30 01;WC suspendu avec bâti-support;WC hängend mit Vorwandelement;u;16 Plomberie;Gas-/Wasserarb. (18381)
+EU-O 33 10 01;Circuit éclairage (point lumineux);Beleuchtungsstromkreis;u;18 Électricité;Elektroinstallationen

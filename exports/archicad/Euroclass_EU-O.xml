@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationSystem Name="EUROCLASS v0.7 — EU-O Ouvrages" Version="0.7" ID="euroclass-eu-o" Source="Archiskill / Euroclass">
+	<Item ID="1" Name="Groupe 10" Code="EU-O 10">
+	<Item ID="2" Name="Groupe 10 10" Code="EU-O 10 10">
+	<Item ID="3" Name="Semelle filante béton armé (fouille comprise)" Code="EU-O 10 10 01">
+	</Item>
+	</Item>
+	<Item ID="4" Name="Groupe 10 30" Code="EU-O 10 30">
+	<Item ID="5" Name="Pieu foré béton armé diam. 600" Code="EU-O 10 30 01">
+	</Item>
+	</Item>
+	<Item ID="6" Name="Groupe 10 40" Code="EU-O 10 40">
+	<Item ID="7" Name="Radier ép. 25 cm avec treillis soudé" Code="EU-O 10 40 01">
+	</Item>
+	</Item>
+	<Item ID="8" Name="Groupe 10 70" Code="EU-O 10 70">
+	<Item ID="9" Name="Mur de fondation blocs béton 20" Code="EU-O 10 70 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="10" Name="Groupe 21" Code="EU-O 21">
+	<Item ID="11" Name="Groupe 21 05" Code="EU-O 21 05">
+	<Item ID="12" Name="Mur porteur blocs béton 20 (hourdage compris)" Code="EU-O 21 05 01">
+	</Item>
+	<Item ID="13" Name="Voile béton armé ép. 18" Code="EU-O 21 05 02">
+	</Item>
+	</Item>
+	<Item ID="14" Name="Groupe 21 10" Code="EU-O 21 10">
+	<Item ID="15" Name="Mur extérieur remplissage briques 20" Code="EU-O 21 10 01">
+	</Item>
+	</Item>
+	<Item ID="16" Name="Groupe 21 25" Code="EU-O 21 25">
+	<Item ID="17" Name="Cloison plaque de plâtre BA13 sur ossature (ép. 98)" Code="EU-O 21 25 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="18" Name="Groupe 22" Code="EU-O 22">
+	<Item ID="19" Name="Groupe 22 10" Code="EU-O 22 10">
+	<Item ID="20" Name="Plancher poutrelles-hourdis + dalle compression 20+5" Code="EU-O 22 10 01">
+	</Item>
+	</Item>
+	<Item ID="21" Name="Groupe 22 40" Code="EU-O 22 40">
+	<Item ID="22" Name="Chape ciment sculptée ép. 5 cm" Code="EU-O 22 40 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="23" Name="Groupe 23" Code="EU-O 23">
+	<Item ID="24" Name="Groupe 23 20" Code="EU-O 23 20">
+	<Item ID="25" Name="Couverture tuiles terre cuite sur liteaux" Code="EU-O 23 20 01">
+	</Item>
+	</Item>
+	<Item ID="26" Name="Groupe 23 30" Code="EU-O 23 30">
+	<Item ID="27" Name="Étanchéité bicouche SBS sur isolant" Code="EU-O 23 30 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="28" Name="Groupe 25" Code="EU-O 25">
+	<Item ID="29" Name="Groupe 25 20" Code="EU-O 25 20">
+	<Item ID="30" Name="Fenêtre alu coulissante double vitrage" Code="EU-O 25 20 01">
+	</Item>
+	</Item>
+	<Item ID="31" Name="Groupe 25 40" Code="EU-O 25 40">
+	<Item ID="32" Name="ITE enduit mince sur polystyrène 140" Code="EU-O 25 40 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="33" Name="Groupe 26" Code="EU-O 26">
+	<Item ID="34" Name="Groupe 26 30" Code="EU-O 26 30">
+	<Item ID="35" Name="Faux plafond dalles 60x60 sur ossature" Code="EU-O 26 30 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="36" Name="Groupe 27" Code="EU-O 27">
+	<Item ID="37" Name="Groupe 27 10" Code="EU-O 27 10">
+	<Item ID="38" Name="Carrelage grès cérame 60x60 collé" Code="EU-O 27 10 01">
+	</Item>
+	</Item>
+	<Item ID="39" Name="Groupe 27 40" Code="EU-O 27 40">
+	<Item ID="40" Name="Peinture acrylique mate 2 couches sur enduit" Code="EU-O 27 40 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="41" Name="Groupe 28" Code="EU-O 28">
+	<Item ID="42" Name="Groupe 28 10" Code="EU-O 28 10">
+	<Item ID="43" Name="Porte intérieure âme alvéolée boisée + bâti" Code="EU-O 28 10 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="44" Name="Groupe 31" Code="EU-O 31">
+	<Item ID="45" Name="Groupe 31 30" Code="EU-O 31 30">
+	<Item ID="46" Name="WC suspendu avec bâti-support" Code="EU-O 31 30 01">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="47" Name="Groupe 33" Code="EU-O 33">
+	<Item ID="48" Name="Groupe 33 10" Code="EU-O 33 10">
+	<Item ID="49" Name="Circuit éclairage (point lumineux)" Code="EU-O 33 10 01">
+	</Item>
+	</Item>
+	</Item>
+</ClassificationSystem>

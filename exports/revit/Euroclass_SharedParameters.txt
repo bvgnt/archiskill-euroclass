@@ -1,0 +1,11 @@
+*META	1	MINVERSION	0
+*META	1	MAXVERSION	1
+*META	1	CURRENCY	euro
+*GROUP	1	EUROCLASS
+*PARAM	1	3c4f2a109e57b0000000000dabcdef00	EuroclassCode	TEXT		EUROCLASS	1	Code EU-E de l'élément (ex. EU-E 21 10 05)	1
+*PARAM	1	3c4f2a109e57b0010000010eabcdef1f	EuroclassRoleStruct	TEXT		EUROCLASS	1	Rôle structurel : porteur / non-porteur / variable	1
+*PARAM	1	3c4f2a109e57b0020000020fabcdef3e	EuroclassOuvrage	TEXT		EUROCLASS	1	Code EU-O de l'ouvrage chiffrable (ex. EU-O 10 10 01)	1
+*PARAM	1	3c4f2a109e57b00300000310abcdef5d	EuroclassUnite	TEXT		EUROCLASS	1	Unité de mesure de l'ouvrage (m2, ml, m3, u)	1
+*PARAM	1	3c4f2a109e57b00400000411abcdef7c	EuroclassLotFR	TEXT		EUROCLASS	1	Lot français pivot (profil FR v2026)	1
+*PARAM	1	3c4f2a109e57b00500000512abcdef9b	EuroclassGewerkDE	TEXT		EUROCLASS	1	Gewerk allemand (profil DE v2026)	1
+*PARAM	1	3c4f2a109e57b00600000613abcdefba	EuroclassMesure	TEXT		EUROCLASS	1	Règle de mesure (mode_de_mesure EU-O)	1

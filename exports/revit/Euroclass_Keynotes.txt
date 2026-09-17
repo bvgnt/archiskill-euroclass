@@ -1,0 +1,147 @@
+10	EU-E 10 — Fondations et infrastructure / Foundations and substructure
+10 10	EU-E 10 10 — Semelles filantes / Strip footings
+10 20	EU-E 10 20 — Semelles isolées / Pad footings
+10 30	EU-E 10 30 — Pieux et micropieux / Piles and micropiles
+10 40	EU-E 10 40 — Radier général / Raft foundation
+10 50	EU-E 10 50 — Parois moulées et soutènements / Diaphragm walls and retaining
+10 60	EU-E 10 60 — Longrines / Ground beams
+10 70	EU-E 10 70 — Murs de fondation / Foundation walls
+10 80	EU-E 10 80 — Cuvelage (bassin enterré) / Tanked basement
+15	EU-E 15 — Élévations et superstructure / Superstructure
+15 10	EU-E 15 10 — Ossatures (frames) / Framed structures
+15 20	EU-E 15 20 — Structures massives / Solid structures
+21	EU-E 21 — Murs / Walls
+21 10	EU-E 21 10 — Murs extérieurs / Exterior walls
+21 10 5	EU-E 21 10 05 — Murs extérieurs porteurs / Loadbearing exterior walls
+21 10 10	EU-E 21 10 10 — Murs extérieurs de remplissage / Non-loadbearing exterior walls
+21 10 15	EU-E 21 10 15 — Murs rideaux / Curtain walls
+21 10 20	EU-E 21 10 20 — Refends intérieurs porteurs / Interior loadbearing crosswalls
+21 10 25	EU-E 21 10 25 — Cloisons intérieures / Interior partitions
+21 30	EU-E 21 30 — Poteaux / Columns
+21 40	EU-E 21 40 — Poutres et linteaux / Beams and lintels
+21 50	EU-E 21 50 — Chaînages et renforts / Ring beams and stiffeners
+22	EU-E 22 — Planchers et dalles / Floors and slabs
+22 10	EU-E 22 10 — Planchers béton armé / Reinforced concrete floors
+22 20	EU-E 22 20 — Planchers poutrelles/hourdis / Beam-and-block floors
+22 30	EU-E 22 30 — Dallages / Slab on grade
+22 40	EU-E 22 40 — Chapes / Screeds
+23	EU-E 23 — Toitures / Roofs
+23 10	EU-E 23 10 — Charpentes / Roof framing
+23 20	EU-E 23 20 — Couvertures (revêtement) / Roof coverings
+23 30	EU-E 23 30 — Étanchéité toiture-terrasse / Roof waterproofing
+23 40	EU-E 23 40 — Zinguerie (gouttières descentes) / Gutters and downpipes
+24	EU-E 24 — Escaliers et rampes / Stairs and ramps
+24 10	EU-E 24 10 — Escaliers principaux / Main stairs
+24 20	EU-E 24 20 — Rampes / Ramps
+25	EU-E 25 — Façades et enveloppe / Facade and envelope
+25 10	EU-E 25 10 — Bardages et façades ventilées / Cladding and rainscreen
+25 20	EU-E 25 20 — Menuiseries extérieures / External windows and doors
+25 30	EU-E 25 30 — Volets et protections solaires / Shutters and solar shading
+25 40	EU-E 25 40 — Enduits et ITE / Render and ETICS
+26	EU-E 26 — Cloisons et doublages / Partitions and linings
+26 10	EU-E 26 10 — Cloisons sèches / Drywall partitions
+26 20	EU-E 26 20 — Doublages et isolation intérieure / Linings and internal insulation
+26 30	EU-E 26 30 — Faux plafonds / Suspended ceilings
+27	EU-E 27 — Revêtements et finitions / Finishes
+27 10	EU-E 27 10 — Revêtements de sol durs / Hard floor finishes
+27 20	EU-E 27 20 — Revêtements de sol souples / Soft floor finishes
+27 30	EU-E 27 30 — Revêtements muraux / Wall finishes
+27 40	EU-E 27 40 — Peintures et laques / Painting and coating
+28	EU-E 28 — Menuiseries intérieures et agencement / Internal joinery and fit-out
+28 10	EU-E 28 10 — Portes intérieures / Internal doors
+28 20	EU-E 28 20 — Placards et agencements fixes / Fixed furniture and joinery
+29	EU-E 29 — Ouvrages métalliques (serrurerie) / Metalwork and ironmongery
+30	EU-E 30 — Vitrerie et miroiterie / Glazing
+31	EU-E 31 — Plomberie et sanitaire / Plumbing and sanitary
+31 10	EU-E 31 10 — Réseaux d'eau potable / Potable water networks
+31 20	EU-E 31 20 — Réseaux d'évacuation / Drainage networks
+31 30	EU-E 31 30 — Appareils sanitaires / Sanitary fixtures
+32	EU-E 32 — Chauffage ventilation climatisation / HVAC
+32 10	EU-E 32 10 — Production de chaleur / Heat generation
+32 20	EU-E 32 20 — Distribution et émission / Distribution and emission
+32 30	EU-E 32 30 — Ventilation et désenfumage / Ventilation and smoke extract
+33	EU-E 33 — Électricité / Electrical
+33 10	EU-E 33 10 — Courant fort / Power installation
+33 20	EU-E 33 20 — Courant faible et ICTA / Low current and containment
+33 30	EU-E 33 30 — Éclairage / Lighting
+34	EU-E 34 — Ascenseurs et élévateurs / Lifts and vertical transport
+35	EU-E 35 — Sécurité incendie (SSI) / Fire safety systems
+60	EU-O 10 — Ouvrages (groupe)
+60 10	EU-O 10 10 — Ouvrages (groupe)
+60 10 1	EU-O 10 10 01 — Semelle filante béton armé (fouille comprise) [m3]
+60 30	EU-O 10 30 — Ouvrages (groupe)
+60 30 1	EU-O 10 30 01 — Pieu foré béton armé diam. 600 [ml]
+60 40	EU-O 10 40 — Ouvrages (groupe)
+60 40 1	EU-O 10 40 01 — Radier ép. 25 cm avec treillis soudé [m2]
+60 70	EU-O 10 70 — Ouvrages (groupe)
+60 70 1	EU-O 10 70 01 — Mur de fondation blocs béton 20 [m2]
+71	EU-O 21 — Ouvrages (groupe)
+71 5	EU-O 21 05 — Ouvrages (groupe)
+71 5 1	EU-O 21 05 01 — Mur porteur blocs béton 20 (hourdage compris) [m2]
+71 5 2	EU-O 21 05 02 — Voile béton armé ép. 18 [m2]
+71 10	EU-O 21 10 — Ouvrages (groupe)
+71 10 1	EU-O 21 10 01 — Mur extérieur remplissage briques 20 [m2]
+71 25	EU-O 21 25 — Ouvrages (groupe)
+71 25 1	EU-O 21 25 01 — Cloison plaque de plâtre BA13 sur ossature (ép. 98) [m2]
+72	EU-O 22 — Ouvrages (groupe)
+72 10	EU-O 22 10 — Ouvrages (groupe)
+72 10 1	EU-O 22 10 01 — Plancher poutrelles-hourdis + dalle compression 20+5 [m2]
+72 40	EU-O 22 40 — Ouvrages (groupe)
+72 40 1	EU-O 22 40 01 — Chape ciment sculptée ép. 5 cm [m2]
+73	EU-O 23 — Ouvrages (groupe)
+73 20	EU-O 23 20 — Ouvrages (groupe)
+73 20 1	EU-O 23 20 01 — Couverture tuiles terre cuite sur liteaux [m2]
+73 30	EU-O 23 30 — Ouvrages (groupe)
+73 30 1	EU-O 23 30 01 — Étanchéité bicouche SBS sur isolant [m2]
+75	EU-O 25 — Ouvrages (groupe)
+75 20	EU-O 25 20 — Ouvrages (groupe)
+75 20 1	EU-O 25 20 01 — Fenêtre alu coulissante double vitrage [m2]
+75 40	EU-O 25 40 — Ouvrages (groupe)
+75 40 1	EU-O 25 40 01 — ITE enduit mince sur polystyrène 140 [m2]
+76	EU-O 26 — Ouvrages (groupe)
+76 30	EU-O 26 30 — Ouvrages (groupe)
+76 30 1	EU-O 26 30 01 — Faux plafond dalles 60x60 sur ossature [m2]
+77	EU-O 27 — Ouvrages (groupe)
+77 10	EU-O 27 10 — Ouvrages (groupe)
+77 10 1	EU-O 27 10 01 — Carrelage grès cérame 60x60 collé [m2]
+77 40	EU-O 27 40 — Ouvrages (groupe)
+77 40 1	EU-O 27 40 01 — Peinture acrylique mate 2 couches sur enduit [m2]
+78	EU-O 28 — Ouvrages (groupe)
+78 10	EU-O 28 10 — Ouvrages (groupe)
+78 10 1	EU-O 28 10 01 — Porte intérieure âme alvéolée boisée + bâti [u]
+81	EU-O 31 — Ouvrages (groupe)
+81 30	EU-O 31 30 — Ouvrages (groupe)
+81 30 1	EU-O 31 30 01 — WC suspendu avec bâti-support [u]
+83	EU-O 33 — Ouvrages (groupe)
+83 10	EU-O 33 10 — Ouvrages (groupe)
+83 10 1	EU-O 33 10 01 — Circuit éclairage (point lumineux) [u]
+90	90 — EUROCLASS EU-L — Lots pivots
+90 1	EU-L 01 — Démolition / déconstruction
+90 2	EU-L 02 — Terrassement / VRD
+90 3	EU-L 03 — Fondations spéciales
+90 10	EU-L 10 — Structure / gros œuvre
+90 11	EU-L 11 — Charpente
+90 12	EU-L 12 — Couverture
+90 13	EU-L 13 — Étanchéité
+90 14	EU-L 14 — Façades / bardages
+90 15	EU-L 15 — Menuiseries extérieures
+90 16	EU-L 16 — Isolation
+90 20	EU-L 20 — Menuiseries intérieures / agencement
+90 21	EU-L 21 — Plâtrerie / cloisons / doublages
+90 22	EU-L 22 — Revêtements sols et murs
+90 23	EU-L 23 — Peinture
+90 24	EU-L 24 — Serrurerie / métallerie
+90 30	EU-L 30 — Plomberie / sanitaire
+90 31	EU-L 31 — CVC / chauffage-ventilation
+90 32	EU-L 32 — Électricité CFO/CFA
+90 33	EU-L 33 — Ascenseurs / élévateurs
+90 34	EU-L 34 — SSI / sécurité incendie
+90 40	EU-L 40 — Aménagements extérieurs / paysage
+95	95 — EUROCLASS EU-W — Ouvrages immatériels
+95 10	EU-W 10 — Implantation et tracing
+95 20	EU-W 20 — Réservations
+95 30	EU-W 30 — Stocks et dépôts de matériaux
+95 30 10	EU-W 30 10 — Stock de terre réemployable
+95 40	EU-W 40 — Zones de chantier (base vie grues)
+95 50	EU-W 50 — Élément de démolition repérage
+95 60	EU-W 60 — Chantier provisoires (étaiement)

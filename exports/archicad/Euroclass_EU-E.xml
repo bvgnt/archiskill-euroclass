@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassificationSystem Name="EUROCLASS v0.7 — EU-E Elements" Version="0.7" ID="euroclass-eu-e" Source="Archiskill / Euroclass">
+	<Item ID="1" Name="Fondations et infrastructure" Code="EU-E 10">
+	<Item ID="2" Name="Semelles filantes" Code="EU-E 10 10">
+	</Item>
+	<Item ID="3" Name="Semelles isolées" Code="EU-E 10 20">
+	</Item>
+	<Item ID="4" Name="Pieux et micropieux" Code="EU-E 10 30">
+	</Item>
+	<Item ID="5" Name="Radier général" Code="EU-E 10 40">
+	</Item>
+	<Item ID="6" Name="Parois moulées et soutènements" Code="EU-E 10 50">
+	</Item>
+	<Item ID="7" Name="Longrines" Code="EU-E 10 60">
+	</Item>
+	<Item ID="8" Name="Murs de fondation" Code="EU-E 10 70">
+	</Item>
+	<Item ID="9" Name="Cuvelage (bassin enterré)" Code="EU-E 10 80">
+	</Item>
+	</Item>
+	<Item ID="10" Name="Élévations et superstructure" Code="EU-E 15">
+	<Item ID="11" Name="Ossatures (frames)" Code="EU-E 15 10">
+	</Item>
+	<Item ID="12" Name="Structures massives" Code="EU-E 15 20">
+	</Item>
+	</Item>
+	<Item ID="13" Name="Murs" Code="EU-E 21">
+	<Item ID="14" Name="Murs extérieurs" Code="EU-E 21 10">
+	<Item ID="15" Name="Murs extérieurs porteurs" Code="EU-E 21 10 05">
+	</Item>
+	<Item ID="16" Name="Murs extérieurs de remplissage" Code="EU-E 21 10 10">
+	</Item>
+	<Item ID="17" Name="Murs rideaux" Code="EU-E 21 10 15">
+	</Item>
+	<Item ID="18" Name="Refends intérieurs porteurs" Code="EU-E 21 10 20">
+	</Item>
+	<Item ID="19" Name="Cloisons intérieures" Code="EU-E 21 10 25">
+	</Item>
+	</Item>
+	<Item ID="20" Name="Poteaux" Code="EU-E 21 30">
+	</Item>
+	<Item ID="21" Name="Poutres et linteaux" Code="EU-E 21 40">
+	</Item>
+	<Item ID="22" Name="Chaînages et renforts" Code="EU-E 21 50">
+	</Item>
+	</Item>
+	<Item ID="23" Name="Planchers et dalles" Code="EU-E 22">
+	<Item ID="24" Name="Planchers béton armé" Code="EU-E 22 10">
+	</Item>
+	<Item ID="25" Name="Planchers poutrelles/hourdis" Code="EU-E 22 20">
+	</Item>
+	<Item ID="26" Name="Dallages" Code="EU-E 22 30">
+	</Item>
+	<Item ID="27" Name="Chapes" Code="EU-E 22 40">
+	</Item>
+	</Item>
+	<Item ID="28" Name="Toitures" Code="EU-E 23">
+	<Item ID="29" Name="Charpentes" Code="EU-E 23 10">
+	</Item>
+	<Item ID="30" Name="Couvertures (revêtement)" Code="EU-E 23 20">
+	</Item>
+	<Item ID="31" Name="Étanchéité toiture-terrasse" Code="EU-E 23 30">
+	</Item>
+	<Item ID="32" Name="Zinguerie (gouttières descentes)" Code="EU-E 23 40">
+	</Item>
+	</Item>
+	<Item ID="33" Name="Escaliers et rampes" Code="EU-E 24">
+	<Item ID="34" Name="Escaliers principaux" Code="EU-E 24 10">
+	</Item>
+	<Item ID="35" Name="Rampes" Code="EU-E 24 20">
+	</Item>
+	</Item>
+	<Item ID="36" Name="Façades et enveloppe" Code="EU-E 25">
+	<Item ID="37" Name="Bardages et façades ventilées" Code="EU-E 25 10">
+	</Item>
+	<Item ID="38" Name="Menuiseries extérieures" Code="EU-E 25 20">
+	</Item>
+	<Item ID="39" Name="Volets et protections solaires" Code="EU-E 25 30">
+	</Item>
+	<Item ID="40" Name="Enduits et ITE" Code="EU-E 25 40">
+	</Item>
+	</Item>
+	<Item ID="41" Name="Cloisons et doublages" Code="EU-E 26">
+	<Item ID="42" Name="Cloisons sèches" Code="EU-E 26 10">
+	</Item>
+	<Item ID="43" Name="Doublages et isolation intérieure" Code="EU-E 26 20">
+	</Item>
+	<Item ID="44" Name="Faux plafonds" Code="EU-E 26 30">
+	</Item>
+	</Item>
+	<Item ID="45" Name="Revêtements et finitions" Code="EU-E 27">
+	<Item ID="46" Name="Revêtements de sol durs" Code="EU-E 27 10">
+	</Item>
+	<Item ID="47" Name="Revêtements de sol souples" Code="EU-E 27 20">
+	</Item>
+	<Item ID="48" Name="Revêtements muraux" Code="EU-E 27 30">
+	</Item>
+	<Item ID="49" Name="Peintures et laques" Code="EU-E 27 40">
+	</Item>
+	</Item>
+	<Item ID="50" Name="Menuiseries intérieures et agencement" Code="EU-E 28">
+	<Item ID="51" Name="Portes intérieures" Code="EU-E 28 10">
+	</Item>
+	<Item ID="52" Name="Placards et agencements fixes" Code="EU-E 28 20">
+	</Item>
+	</Item>
+	<Item ID="53" Name="Ouvrages métalliques (serrurerie)" Code="EU-E 29">
+	</Item>
+	<Item ID="54" Name="Vitrerie et miroiterie" Code="EU-E 30">
+	</Item>
+	<Item ID="55" Name="Plomberie et sanitaire" Code="EU-E 31">
+	<Item ID="56" Name="Réseaux d'eau potable" Code="EU-E 31 10">
+	</Item>
+	<Item ID="57" Name="Réseaux d'évacuation" Code="EU-E 31 20">
+	</Item>
+	<Item ID="58" Name="Appareils sanitaires" Code="EU-E 31 30">
+	</Item>
+	</Item>
+	<Item ID="59" Name="Chauffage ventilation climatisation" Code="EU-E 32">
+	<Item ID="60" Name="Production de chaleur" Code="EU-E 32 10">
+	</Item>
+	<Item ID="61" Name="Distribution et émission" Code="EU-E 32 20">
+	</Item>
+	<Item ID="62" Name="Ventilation et désenfumage" Code="EU-E 32 30">
+	</Item>
+	</Item>
+	<Item ID="63" Name="Électricité" Code="EU-E 33">
+	<Item ID="64" Name="Courant fort" Code="EU-E 33 10">
+	</Item>
+	<Item ID="65" Name="Courant faible et ICTA" Code="EU-E 33 20">
+	</Item>
+	<Item ID="66" Name="Éclairage" Code="EU-E 33 30">
+	</Item>
+	</Item>
+	<Item ID="67" Name="Ascenseurs et élévateurs" Code="EU-E 34">
+	</Item>
+	<Item ID="68" Name="Sécurité incendie (SSI)" Code="EU-E 35">
+	</Item>
+</ClassificationSystem>
