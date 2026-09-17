@@ -1,1 +1,8 @@
-[object Object]
+code,fr,en,de,es,it,ifc_entity,omniclass_t22,lot_fr,gewerk_de
+EU-W 10,Implantation et tracing,Setting out,Bauvermessung Absteckung,Replanteo,Tracciamento,IfcVirtualElement,22-01 71,00/Généralités,Bauvermessung (18299)
+EU-W 20,Réservations,Reservations voids,Aussparungen,Resalados,Fori passanti,IfcOpeningElement,22-05/08,selon lot demandeur,Aussparungen (lot demandeur)
+EU-W 30,Stocks et dépôts de matériaux,Material stockpiles,Materiallager,Acopios,Depositi materiali,IfcEarthworksElement,22-31,00/Généralités,Bodenmanagement
+EU-W 30 10,Stock de terre réemployable,Reusable soil stock,Bodenlager Wiederverwendung,Acopio de tierra reutilizable,Deposito terra riutilizzabile,IfcEarthworksElement,22-31 23,ACTIF réemploi (EU-L 16),Kreislaufwirtschaft (actif)
+EU-W 40,Zones de chantier (base vie grues),Site zones welfare cranes,Baustelleneinrichtung,Instalaciones de obra,Aree di cantiere,IfcVirtualElement / IfcSpace,22-01 50,00/Généralités,Baustelleneinrichtung (18299)
+EU-W 50,Élément de démolition repérage,Demolition markers,Abbruchkennzeichnung,Marcado de demolición,Marcature demolizione,IfcVirtualElement,22-02,00/Généralités,Abbrucharbeiten (18459)
+EU-W 60,Chantier provisoires (étaiement),Temporary works,Lehrgerüste und Verbau,Cimbras y apuntalamientos,Opere provvisionali,IfcElement / IfcVirtualElement,22-05 13,00/Généralités,Arbeitsgemeinschaft/Verbau

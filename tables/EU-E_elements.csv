@@ -1,1 +1,69 @@
-[object Object]
+code,fr,en,de,es,it,role_struct,uniclass_2015,omniclass_t21,uniformat_ii,guBIMClass,uni_8290
+EU-E 10,Fondations et infrastructure,Foundations and substructure,Gründung und Untergeschoss,Cimentación y subsuelo,Fondazioni e infrastruttura,porteur,EF_20_05,21-01 10,A10,ES.10,1.1
+EU-E 10 10,Semelles filantes,Strip footings,Streifenfundamente,Zapatas corridas,Plinti continui,porteur,EF_20_05_30,21-01 10 10,A1010,ES.10.10,1.1.1
+EU-E 10 20,Semelles isolées,Pad footings,Einzelfundamente,Zapatas aisladas,Plinti isolati,porteur,EF_20_05_30,21-01 10 10,A1010,ES.10.10,1.1.1
+EU-E 10 30,Pieux et micropieux,Piles and micropiles,Pfähle und Mikropfähle,Pilotes,Pali e micropali,porteur,EF_20_05_30,21-01 10 20,A1020,ES.10.30,1.1.2
+EU-E 10 40,Radier général,Raft foundation,Plattengründung,Losa de cimentación,Platea fondale,porteur,EF_20_05_30,21-01 10 90,A1010,ES.10.20,1.1.1
+EU-E 10 50,Parois moulées et soutènements,Diaphragm walls and retaining,Schlitzwände und Verbau,Pantallas y contención,Paratie diaframmi,porteur,EF_20_05,21-01 10 30,A1010,ES.10.40,1.1.2
+EU-E 10 60,Longrines,Ground beams,Grundbalken,Vigas de cimentación,Travi rovesce,porteur,EF_20_05_30,21-01 15 10,A1010,ES.10.10,1.1.1
+EU-E 10 70,Murs de fondation,Foundation walls,Grundmauern,Muros de cimentación,Muri di fondazione,porteur,EF_20_05,21-01 10 10 10,A1010,ES.10.10,1.1.1
+EU-E 10 80,Cuvelage (bassin enterré),Tanked basement,Weiße Wanne,Vasca estanca interrata,Vasca interrata,porteur,EF_20_05,21-01 40,A20,ES.10.40,1.1
+EU-E 15,Élévations et superstructure,Superstructure,Superstruktur,Elevación y superestructura,Elevazioni e sovrastruttura,porteur,EF_20_10,21-02 10,B10,ES.20,1.2
+EU-E 15 10,Ossatures (frames),Framed structures,Skelettbau,Estructuras aporticadas,Strutture a telaio,porteur,EF_20_10_30,21-02 10 10,B1010,ES.20.10,1.2.1
+EU-E 15 20,Structures massives,Solid structures,Massivbau,Estructuras masivas,Strutture massicce,porteur,EF_20_10_80,21-02 10 10,B1010,ES.20.10,1.2.1
+EU-E 21,Murs,Walls,Wände,Muros,Murature,variable,EF_25_10,21-02 20,B2010,ES.21,1.2
+EU-E 21 10,Murs extérieurs,Exterior walls,Außenwände,Muros exteriores,Murature esterne,variable,EF_25_10_25,21-02 20 10,B2010,ES.21.10,1.2
+EU-E 21 10 05,Murs extérieurs porteurs,Loadbearing exterior walls,Tragende Außenwände,Muros exteriores portantes,Murature esterne portanti,porteur,EF_25_10_25,21-02 20 10,B2010,ES.21.10,1.2
+EU-E 21 10 10,Murs extérieurs de remplissage,Non-loadbearing exterior walls,Nichttragende Außenwände,Muros exteriores no portantes,Murature esterne non portanti,non-porteur,EF_25_10_25,21-02 20 10,B2010,ES.21.10,1.2
+EU-E 21 10 15,Murs rideaux,Curtain walls,Vorhangfassaden,Muros cortina,Pareti curtain wall,non-porteur,EF_25_10_25,21-02 20 20,B2010,ES.21.30,1.2
+EU-E 21 10 20,Refends intérieurs porteurs,Interior loadbearing crosswalls,Tragende Innenwände,Muros interiores portantes,Murature interne portanti,porteur,EF_25_10,21-03 20 10,C1010,ES.21.20,1.2
+EU-E 21 10 25,Cloisons intérieures,Interior partitions,Trennwände,Tabiques interiores,Tramezzi interni,non-porteur,EF_25_10_35,21-03 20 10,C1010,ES.21.20,2.2
+EU-E 21 30,Poteaux,Columns,Stützen,Pilares,Pilastri,porteur,EF_20_10_30,21-02 10 10,B1010,ES.20.20,1.2.1
+EU-E 21 40,Poutres et linteaux,Beams and lintels,Balken und Stürze,Vigas y dinteles,Travi e architravi,porteur,EF_20_10_30,21-02 10 10,B1010,ES.20.20,1.2.1
+EU-E 21 50,Chaînages et renforts,Ring beams and stiffeners,Ringe und Verstärkungen,Cadenas y refuerzos,Cordoli e rinforzi,porteur,EF_20_10_30,21-02 10 10,B1010,ES.20.20,1.2.1
+EU-E 22,Planchers et dalles,Floors and slabs,Decken und Platten,Forjados y losas,Solai e lastre,porteur,EF_30_20,21-02 10 10,B1010,ES.22,1.2.2
+EU-E 22 10,Planchers béton armé,Reinforced concrete floors,Stahlbetondecken,Forjados de hormigón,Solai in c.a.,porteur,EF_30_20,21-02 10 10 10,B1010,ES.22.10,1.2.2
+EU-E 22 20,Planchers poutrelles/hourdis,Beam-and-block floors,Decken mit Balken/Hohldielen,Forjados unidireccionales,Solai a predalles,porteur,EF_30_20,21-02 10 10,B1010,ES.22.20,1.2.2
+EU-E 22 30,Dallages,Slab on grade,Bodenplatte,Soleras,Pavimenti su terra,porteur,EF_30_20,21-01 40 30,A1030,ES.22.30,1.2.2
+EU-E 22 40,Chapes,Screeds,Estriche,Capas de regularización,Massetti,non-porteur,EF_30_20,21-03 40,C,ES.22.40,2.2
+EU-E 23,Toitures,Roofs,Dächer,Cubiertas,Coperture,variable,EF_30_10,21-02 30,B1020,ES.23,1.2.3
+EU-E 23 10,Charpentes,Roof framing,Dachkonstruktion,Estructura de cubierta,Struttura di copertura,porteur,EF_30_10,21-02 30 10,B1020,ES.23.10,1.2.3
+EU-E 23 20,Couvertures (revêtement),Roof coverings,Dachdeckungen,Revestimiento de cubierta,Manto di copertura,non-porteur,EF_30_10,21-02 30 10,B30,ES.23.20,2.1.1
+EU-E 23 30,Étanchéité toiture-terrasse,Roof waterproofing,Dachabdichtung,Impermeabilización de cubierta,Impermeabilizzazione di copertura,non-porteur,EF_30_10,21-02 30 40,B30,ES.23.30,2.1.1
+EU-E 23 40,Zinguerie (gouttières descentes),Gutters and downpipes,Dachrinnen und Fallrohre,Canalones y bajantes,Gronde e pluviali,non-porteur,EF_30_10,21-02 30 50,B30,ES.23.40,2.1.1
+EU-E 24,Escaliers et rampes,Stairs and ramps,Treppen und Rampen,Escaleras y rampas,Scale e rampe,porteur,EF_35_10,21-02 15,B1030,ES.24,1.2
+EU-E 24 10,Escaliers principaux,Main stairs,Haupttreppen,Escaleras principales,Scale principali,porteur,EF_35_10_40,21-02 15 10,B1030,ES.24.10,1.2
+EU-E 24 20,Rampes,Ramps,Rampen,Rampas,Rampe,porteur,EF_35_20,21-02 15,B1030,ES.24.20,1.2
+EU-E 25,Façades et enveloppe,Facade and envelope,Fassade und Hülle,Fachada y envolvente,Facciata e involucro,variable,EF_40,21-02 20,B20,ES.25,2.1
+EU-E 25 10,Bardages et façades ventilées,Cladding and rainscreen,Bekleidungen / VHF,Revestimientos ventilados,Rivestimenti ventilati,non-porteur,EF_40,21-02 20 60,B2050,ES.25.10,2.1
+EU-E 25 20,Menuiseries extérieures,External windows and doors,Fenster und Außentüren,Carpintería exterior,Infissi esterni,non-porteur,EF_25_30,21-02 20 20,B2020,ES.25.20,2.1
+EU-E 25 30,Volets et protections solaires,Shutters and solar shading,Läden und Sonnenschutz,Persianas y protecciones,Oscuranti e schermature,non-porteur,EF_25_30,21-02 20 70,B2020,ES.25.30,2.1
+EU-E 25 40,Enduits et ITE,Render and ETICS,Putz und WDVS,Revestimientos continuos,Intonaci e cappotto,non-porteur,EF_40,21-02 20 10,B2050,ES.25.40,2.1
+EU-E 26,Cloisons et doublages,Partitions and linings,Trockenbau Innenausbau,Tabiquería y guarnecidos,Tramezzi e contropareti,non-porteur,EF_25_10_35,21-03 20,C1010,ES.26,2.2
+EU-E 26 10,Cloisons sèches,Drywall partitions,Trockenbauwände,Tabiques de placa,Tramezzi in cartongesso,non-porteur,EF_25_10_35,21-03 20 10,C1010,ES.26.10,2.2
+EU-E 26 20,Doublages et isolation intérieure,Linings and internal insulation,Dämmung und Verkleidung innen,Guarnecidos y aislamiento,Contropareti e coibentazione,non-porteur,EF_25_10_35,21-03 20 10,C1010,ES.26.20,2.2
+EU-E 26 30,Faux plafonds,Suspended ceilings,Abgehängte Decken,Falsos techos,Controsoffitti,non-porteur,EF_30_25,21-03 50,C3020,ES.26.30,2.2
+EU-E 27,Revêtements et finitions,Finishes,Beläge und Oberflächen,Acabados,Rivestimenti e finiture,non-porteur,EF_30_20,21-03,C,ES.27,2.3
+EU-E 27 10,Revêtements de sol durs,Hard floor finishes,Bodenbeläge hart,Alicatados de suelo,Pavimenti duri,non-porteur,EF_30_20,21-03 40,C,ES.27.10,2.3
+EU-E 27 20,Revêtements de sol souples,Soft floor finishes,Bodenbeläge weich,Suelos flexibles,Pavimenti morbidi,non-porteur,EF_30_20,21-03 40,C,ES.27.20,2.3
+EU-E 27 30,Revêtements muraux,Wall finishes,Wandbeläge,Revestimientos de pared,Rivestimenti murali,non-porteur,EF_30_20,21-03 20 10,C,ES.27.30,2.3
+EU-E 27 40,Peintures et laques,Painting and coating,Maler- und Lackierarbeiten,Pinturas y barnices,Pitture e vernici,non-porteur,EF_30_20,21-03 20 10 70,C,ES.27.40,2.3
+EU-E 28,Menuiseries intérieures et agencement,Internal joinery and fit-out,Innenausbau und Tischlerarbeiten,Carpintería interior y amueblamiento,Infissi interni e arredi fissi,non-porteur,EF_25_30,21-03 10 30,C1030,ES.28,2.2
+EU-E 28 10,Portes intérieures,Internal doors,Innentüren,Puertas interiores,Porte interne,non-porteur,EF_25_30,21-03 10 30 10,C1030,ES.28.10,2.2
+EU-E 28 20,Placards et agencements fixes,Fixed furniture and joinery,Einbaumöbel,Carpintería fija,Arredi fissi,non-porteur,EF_25_30,21-03 10 60,C,ES.28.20,2.2
+EU-E 29,Ouvrages métalliques (serrurerie),Metalwork and ironmongery,Metallbau und Schlosserarbeiten,Metalistería y cerrajería,Metallica e serramentaria,non-porteur,EF_25_55,21-02 20 80,B,ES.29,2.2
+EU-E 30,Vitrerie et miroiterie,Glazing,Verglasungsarbeiten,Acristalamientos,Vetrate e specchi,non-porteur,EF_25_30,21-02 20 20,B2020,ES.30,2.1
+EU-E 31,Plomberie et sanitaire,Plumbing and sanitary,Sanitärinstallationen,Instalaciones de fontanería,Impianti idrosanitari,technique,EF_65,21-05 30,D2010,ES.31,3
+EU-E 31 10,Réseaux d'eau potable,Potable water networks,Trinkwassernetze,Redes de agua potabile,Reti acqua potabile,technique,EF_65_10,21-05 30 30,D2010,ES.31.10,3.1
+EU-E 31 20,Réseaux d'évacuation,Drainage networks,Abwassernetze,Redes de evacuación,Reti di scarico,technique,EF_65_20,21-05 30 60,D2010,ES.31.20,3.1
+EU-E 31 30,Appareils sanitaires,Sanitary fixtures,Sanitärobjekte,Aparatos sanitarios,Apparecchi sanitari,technique,EF_65_30,21-05 30 90,D2010,ES.31.30,3.1
+EU-E 32,Chauffage ventilation climatisation,HVAC,Heizung Lüftung Klimatechnik,Instalaciones de climatización,Impianti termici e di ventilazione,technique,EF_65,21-05 30,D2030,ES.32,3
+EU-E 32 10,Production de chaleur,Heat generation,Wärmeerzeugung,Producción de calor,Produzione di calore,technique,EF_65_10,21-05 30 10,D2030,ES.32.10,3.2
+EU-E 32 20,Distribution et émission,Distribution and emission,Verteilung und Abgabe,Distribución y emisión,Distribuzione ed emissione,technique,EF_65_20,21-05 30 40,D2030,ES.32.20,3.2
+EU-E 32 30,Ventilation et désenfumage,Ventilation and smoke extract,Lüftung und Entrauchung,Ventilación y humos,Ventilazione e evacuazione fumi,technique,EF_65,21-05 30 50,D2090,ES.32.30,3.2
+EU-E 33,Électricité,Electrical,Elektroinstallationen,Instalaciones eléctricas,Impianti elettrici,technique,EF_70,21-05 40,D50,ES.33,3
+EU-E 33 10,Courant fort,Power installation,Starkstrom,Corriente fuerte,Corrente forte,technique,EF_70_10,21-05 40 10,D5010,ES.33.10,3.3
+EU-E 33 20,Courant faible et ICTA,Low current and containment,Schwachstrom und Leerrohre,Corriente débil e ICTA,Corrente debole e canali,technique,EF_70_20,21-05 40 20,D5090,ES.33.20,3.3
+EU-E 33 30,Éclairage,Lighting,Beleuchtung,Alumbrado,Illuminazione,technique,EF_70,21-05 40 40,D5020,ES.33.30,3.3
+EU-E 34,Ascenseurs et élévateurs,Lifts and vertical transport,Aufzüge und Förderanlagen,Ascensores y elevadores,Ascensori e trasporti verticali,technique,EF_75,21-05 50,D1090,ES.34,3
+EU-E 35,Sécurité incendie (SSI),Fire safety systems,Brandschutzanlagen,Seguridad contra incendios,Sistemi antincendio,technique,EF_70,21-05 40,D40,ES.35,3

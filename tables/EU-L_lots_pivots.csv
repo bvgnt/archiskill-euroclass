@@ -1,1 +1,22 @@
-[object Object]
+code,pivot_fr,pivot_en,pivot_de,domaine,fr_lot_typique,de_gewerk_typique
+EU-L 01,Démolition / déconstruction,Demolition,Abbruch,Démolition,01 Démolition,Abbrucharbeiten (18459)
+EU-L 02,Terrassement / VRD,Earthworks & siteworks,Erdarbeiten,Extérieur,02 Terrassement/VRD,Erdarbeiten (18300)
+EU-L 03,Fondations spéciales,Special foundations,Sondergründungen,Infrastructure,03 GO ou lot séparé,Spezialtiefbau
+EU-L 10,Structure / gros œuvre,Structure,Rohbau,Structure,03 Gros œuvre,Mauer-/Betonarbeiten
+EU-L 11,Charpente,Framing / timber structure,Holzbau,Structure,04 Charpente,Zimmerarbeiten (18334)
+EU-L 12,Couverture,Roofing,Dachdeckung,Clos-couvert,05 Couverture,Dachdeckungsarbeiten (18338)
+EU-L 13,Étanchéité,Waterproofing,Abdichtung,Clos-couvert,05 Étanchéité,Dach-/Bauabdichtung
+EU-L 14,Façades / bardages,Facades,Fassaden,Clos-couvert,06 Façades,VHF (18351)
+EU-L 15,Menuiseries extérieures,External joinery,Fenster und Außentüren,Clos-couvert,06 Menuiseries ext.,Tischlerarbeiten (18355)
+EU-L 16,Isolation,Insulation,Isolierungsarbeiten,Transversal,redistribué 05/06/07,WDVS (18345)
+EU-L 20,Menuiseries intérieures / agencement,Internal joinery / fit-out,Innenausbau Möbel,Second œuvre,07 Menuiseries int.,Tischlerarbeiten (18355)
+EU-L 21,Plâtrerie / cloisons / doublages,Partitions & linings,Trockenbau,Second œuvre,07 Plâtrerie,Trockenbauarbeiten (18340)
+EU-L 22,Revêtements sols et murs,Floor & wall finishes,Boden- und Wandbeläge,Finition,14 Revêtements,Fliesen-/Bodenbeläge
+EU-L 23,Peinture,Painting,Malerarbeiten,Finition,15 Peinture,Malerarbeiten (18363)
+EU-L 24,Serrurerie / métallerie,Metalwork,Metallbau,Second œuvre,07 Serrurerie,Metallbauarbeiten
+EU-L 30,Plomberie / sanitaire,Plumbing,Sanitär,Technique,16 Plomberie,Gas-/Wasserarb. (18381)
+EU-L 31,CVC / chauffage-ventilation,HVAC,Heizung Lüftung,Technique,17 CVC,SHK
+EU-L 32,Électricité CFO/CFA,Electrical,Elektro,Technique,18 Électricité,Elektroinstallationen
+EU-L 33,Ascenseurs / élévateurs,Vertical transport,Aufzüge,Technique,19 Ascenseurs,Aufzugsarbeiten
+EU-L 34,SSI / sécurité incendie,Fire safety,Brandschutz,Technique,20 SSI,Brandschutz
+EU-L 40,Aménagements extérieurs / paysage,Landscaping,Aussenanlagen,Extérieur,21 Espaces verts,Garten- und Landschaftsbau

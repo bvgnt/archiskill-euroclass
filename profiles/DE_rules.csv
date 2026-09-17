@@ -1,1 +1,8 @@
-[object Object]
+euroclass_code,condition,gewerk_de
+EU-E 21 10 05,toujours,Mauer-/Betonarbeiten (Rohbau)
+EU-E 21 10 25,toujours,Trockenbauarbeiten (18340)
+EU-E 22 40,toujours,Estricharbeiten (18353 — Gewerk séparé)
+EU-E 25 40,technique=ITE,WDVS (18345)
+EU-E 23 20,toujours,Dachdeckungsarbeiten (18338)
+EU-E 23 30,toujours,Dachabdichtung
+EU-W 40,toujours,Baustelleneinrichtung (DIN 18299)

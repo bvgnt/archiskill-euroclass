@@ -1,1 +1,10 @@
-[object Object]
+euroclass_code,condition,lot_fr
+EU-E 10 30,toujours,03 GO (ou lot fondations spéciales)
+EU-E 21 10 05,role=porteur,03 GO
+EU-E 21 10 10,role=non-porteur,06 Façades
+EU-E 25 40,technique=ITE,06 Façades
+EU-E 25 40,technique=enduit hydraulique,06 Façades
+EU-E 23 30,toujours,05 Étanchéité
+EU-E 22 40,toujours,14 Revêtements
+EU-W 20,selon attribut requester,ventilation sur lot demandeur
+EU-W 30 10,toujours,ACTIF — non ventilé (économie circulaire)
