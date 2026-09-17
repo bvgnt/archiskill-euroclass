@@ -1,0 +1,21 @@
+ouvrage_code,composant_code,coefficient,unite_composant,note
+EU-O 21 25 01,EU-C 01 01,3.3,ml,"Montants esp. 600 mm + rails haut/bas, par m2 de cloison"
+EU-O 21 25 01,EU-C 03 01,4.0,m2,Double plaque chaque face par m2 de cloison
+EU-O 21 25 01,EU-C 04 02,1.0,m2,Remplissage laine 45 entre montants
+EU-O 21 25 01,EU-C 05 01,30.0,u,Vis TTPC 25 par m2 de cloison
+EU-O 21 25 01,EU-C 05 02,12.0,u,Vis TTPC 35 pour 2e plaque
+EU-O 21 25 01,EU-C 07 01,1.3,ml,Bande à joint par m2 de cloison
+EU-O 21 25 01,EU-C 07 02,2.0,kg,Enduit par m2 de cloison
+EU-O 26 20 02,EU-C 01 02,2.5,ml,Fourrures verticales esp. 600 mm + rails
+EU-O 26 20 02,EU-C 03 01,1.0,m2,1 plaque BA13 par m2 de parement
+EU-O 26 20 02,EU-C 04 03,1.0,m2,PSE 100 collé entre fourrures
+EU-O 26 20 02,EU-C 05 01,13.0,u,Vis TTPC 25 esp. 200 mm
+EU-O 26 20 02,EU-C 07 01,0.65,ml,Bande à joint par plaque
+EU-O 26 20 02,EU-C 07 02,0.5,kg,Enduit par m2 de parement
+EU-O 26 30 02,EU-C 01 02,3.0,ml,Fourrures croisées esp. 500 mm
+EU-O 26 30 02,EU-C 01 03,1.0,u,Suspendes esp. 1200 mm
+EU-O 26 30 02,EU-C 03 01,1.0,m2,1 plaque BA13 par m2 de faux plafond
+EU-O 26 30 02,EU-C 05 01,17.0,u,Vis TTPC 25 esp. 150 mm
+EU-O 26 30 02,EU-C 07 01,0.65,ml,Bande à joint par plaque
+EU-O 26 30 02,EU-C 07 02,0.5,kg,Enduit par m2
+EU-O 27 30 02,EU-C 02 03,2.5,ml,Tasseaux horizontaux esp. 400 mm

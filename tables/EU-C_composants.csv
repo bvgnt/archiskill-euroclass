@@ -1,0 +1,25 @@
+code,fr,en,de,es,it,unite,famille,description
+EU-C 01 01,Montant/rail acier R48 48 mm,Steel stud/track R48 48 mm,Metallprofil R48 48 mm,Perfil metálico R48 48 mm,Profilo metallico R48 48 mm,ml,Ossature métallique,"Ossature cloison/doublage, mise en œuvre comprise"
+EU-C 01 02,Fourrure F47 avec cavalier,Furring F47 with bracket,Unterkonstruktion F47,Rastrel F47 con clip,Listello F47 con distanziale,ml,Ossature métallique,Doublage et faux plafond sur fourrure
+EU-C 01 03,Suspende à tige filetée,Ceiling hanger with threaded rod,Abhängung mit Gewindestange,Colgador con varilla roscada,Pendente filettato,u,Ossature métallique,Fixation ossature plafond
+EU-C 02 01,Montant bois C24 45x145,Timber stud C24 45x145,Holzstiel C24 45x145,Montante madera C24 45x145,Montante legno C24 45x145,ml,Ossature bois,"Mur ossature bois, aboutés par clavetage"
+EU-C 02 02,Lisse basse/haute bois C24 45x145,Timber bottom/top plate C24 45x145,Schwelle/Rähm C24 45x145,Zapata/cordón C24 45x145,Fermata inferiore/superiore C24,ml,Ossature bois,Entrait bas et haut de mur ossature
+EU-C 02 03,Tasseau bois 27x40,Timber batten 27x40,Lattung 27x40,Listón madera 27x40,Listello legno 27x40,ml,Ossature bois,Support lambris et doublage sur tasseaux
+EU-C 03 01,Plaque de plâtre BA13 standard 1200x2500,Standard gypsum board 1200x2500,Gipsplatte 1200x2500,Placa de yeso 1200x2500,Lastra in gesso 1200x2500,m2,Panneaux,Droit à carreler/plâtrerie, coupe à blanc
+EU-C 03 02,Plaque de plâtre BA13 hydrofuge,Moisture-resistant gypsum board,Feuchtraumplatte BA13,Placa hidrófuga BA13,Lastra idrofuga BA13,m2,Panneaux,Locaux humides
+EU-C 03 03,Plaque de plâtre BA13 coupe-feu,Fire-rated gypsum board,Brandschutzplatte BA13,Placa RF BA13,Lastra tagliafuoco BA13,m2,Panneaux,Cloisonnement coupe-feu
+EU-C 03 04,Panneau OSB 3 ép. 12 mm,OSB 3 board 12 mm,OSB-3-Platte 12 mm,Tablero OSB 3 12 mm,Pannello OSB 3 12 mm,m2,Panneaux,Contreventement mur ossature bois
+EU-C 03 05,Dalle de plafond minérale 60x60,Mineral ceiling tile 60x60,Mineralfaserplatte 60x60,Placa de techo mineral 60x60,Pannello minerale 60x60,u,Panneaux,Faux plafond démontable
+EU-C 04 01,Laine minérale semi-rigide GR32 100 mm,Semi-rigid mineral wool GR32 100 mm,Mineralfaser GR32 100 mm,Lana mineral GR32 100 mm,Lana minerale GR32 100 mm,m2,Isolants,Isolation thermique mur/combles
+EU-C 04 02,Laine minérale souple ép. 45 mm,Flexible mineral wool 45 mm,Mineralfaser flexibel 45 mm,Lana mineral flexible 45 mm,Lana minerale flessibile 45 mm,m2,Isolants,Remplissage cloisons placo
+EU-C 04 03,Polystyrène expansé PSE Th31 100 mm,EPS board Th31 100 mm,EPS-Platte Th31 100 mm,Poliestireno expandido Th31,Polistirene espanso Th31,m2,Isolants,Doublage isolant périphérique
+EU-C 05 01,Vis TTPC 25 mm,Drywall screw 25 mm,Trockbauschraube 25 mm,Tornillo plaster 25 mm,Vite cartongesso 25 mm,u,Fixations,Fixation plaque sur ossature
+EU-C 05 02,Vis TTPC 35 mm,Drywall screw 35 mm,Trockbauschraube 35 mm,Tornillo plaster 35 mm,Vite cartongesso 35 mm,u,Fixations,Fixation double plaque sur ossature
+EU-C 05 03,Vis à bois structurelle 6x120,Structural timber screw 6x120,Holzbauschraube 6x120,Tornillo madera estructural 6x120,Vite legno strutturale 6x120,u,Fixations,Assemblage ossature bois
+EU-C 05 04,Vis OSB 4x40,OSB screw 4x40,OSB-Schraube 4x40,Tornillo OSB 4x40,Vite OSB 4x40,u,Fixations,Fixation panneaux OSB sur ossature
+EU-C 05 05,Clou torsadé 90 mm,Twisted nail 90 mm,Rillennagel 90 mm,Clavo anular 90 mm,Chiodo elicoidale 90 mm,u,Fixations,Fixation lisses et contreventement
+EU-C 06 01,Membrane pare-vapeur,Vapour barrier membrane,Dampfsperrbahn,Membrana de vapor,Barriera al vapore,m2,Membranes,Face intérieure mur ossature
+EU-C 06 02,Pare-pluie HDPE,Breather membrane HDPE,diffusionsoffene Bahn,Membrana transpirable,Membrana traspirante,m2,Membranes,Face extérieure mur ossature
+EU-C 06 03,Ruban adhésif aluminium 75 mm,Aluminium tape 75 mm,Aluklebeband 75 mm,Cinta de aluminio 75 mm,Nastro alluminio 75 mm,ml,Membranes,Etanchéité des recouvrements membranes
+EU-C 07 01,Bande à joint papier 50 mm,Joint tape 50 mm,Gipsfasierband 50 mm,Cinta de papel 50 mm,Nastro giunto 50 mm,ml,Finitions,Jointoiement plaques de plâtre
+EU-C 07 02,Enduit à joint poudre,Joint compound powder,Gips-Spachtelmasse,Masilla para juntas,Stucco per giunti,kg,Finitions,Enduisage des bandes
