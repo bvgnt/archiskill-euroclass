@@ -32,8 +32,7 @@
 23 40	EU-E 23 40 - Zinguerie (gouttières descentes) / Gutters and downpipes
 24	EU-E 24 - Escaliers et rampes / Stairs and ramps
 24 10	EU-E 24 10 - Escaliers principaux / Main stairs
-24 20	EU-E
- 24 20 - Rampes / Ramps
+24 20	EU-E 24 20 - Rampes / Ramps
 25	EU-E 25 - Façades et enveloppe / Facade and envelope
 25 10	EU-E 25 10 - Bardages et façades ventilées / Cladding and rainscreen
 25 20	EU-E 25 20 - Menuiseries extérieures / External windows and doors
@@ -65,8 +64,7 @@
 33 10	EU-E 33 10 - Courant fort / Power installation
 33 20	EU-E 33 20 - Courant faible et ICTA / Low current and containment
 33 30	EU-E 33 30 - Éclairage / Lighting
-34	EU-E 34 - Ascenseurs et élévateu
-rs / Lifts and vertical transport
+34	EU-E 34 - Ascenseurs et élévateurs / Lifts and vertical transport
 35	EU-E 35 - Sécurité incendie (SSI) / Fire safety systems
 51	EU-O 01 - Ouvrages (groupe)
 51 1	EU-O 01 01 - Ouvrages (groupe)
@@ -107,8 +105,7 @@ rs / Lifts and vertical transport
 60 50	EU-O 10 50 - Ouvrages (groupe)
 60 50 1	EU-O 10 50 01 - Mur de soutènement béton armé ép. 30 [m2]
 60 60	EU-O 10 60 - Ouvrages (groupe)
-60 60 1	EU-O 10
- 60 01 - Longrine béton armé 20x40 [ml]
+60 60 1	EU-O 10 60 01 - Longrine béton armé 20x40 [ml]
 60 70	EU-O 10 70 - Ouvrages (groupe)
 60 70 1	EU-O 10 70 01 - Mur de fondation blocs béton 20 [m2]
 60 80	EU-O 10 80 - Ouvrages (groupe)
@@ -146,8 +143,7 @@ rs / Lifts and vertical transport
 72 30 1	EU-O 22 30 01 - Dallage béton armé ép. 12 avec treillis soudé [m2]
 72 40	EU-O 22 40 - Ouvrages (groupe)
 72 40 1	EU-O 22 40 01 - Chape ciment sculptée ép. 5 cm [m2]
-72 40 2	EU-O 22 40 02 - Chape fluide anhydrite ép. 5
- cm [m2]
+72 40 2	EU-O 22 40 02 - Chape fluide anhydrite ép. 5 cm [m2]
 72 40 3	EU-O 22 40 03 - Isolation sous chape PSE ép. 30 [m2]
 73	EU-O 23 - Ouvrages (groupe)
 73 10	EU-O 23 10 - Ouvrages (groupe)
@@ -183,8 +179,7 @@ rs / Lifts and vertical transport
 75 20 5	EU-O 25 20 05 - Fenêtre de toit VR 78x118 rotation [u]
 75 20 6	EU-O 25 20 06 - Porte de garage sectionnelle motorisée 240x200 [u]
 75 20 7	EU-O 25 20 07 - Baie vitrée coulissante alu 2 vantaux grand format [m2]
-75 30	E
-U-O 25 30 - Ouvrages (groupe)
+75 30	EU-O 25 30 - Ouvrages (groupe)
 75 30 1	EU-O 25 30 01 - Volet roulant aluminium motorisé [u]
 75 30 2	EU-O 25 30 02 - Store banne motorisé 4,0 x 2,0 m [u]
 75 30 3	EU-O 25 30 03 - Brise-soleil orientables lames aluminium [m2]
@@ -220,8 +215,7 @@ U-O 25 30 - Ouvrages (groupe)
 77 40 2	EU-O 27 40 02 - Enduit de finition à la chaux 2 mm [m2]
 77 40 3	EU-O 27 40 03 - Peinture de finition sur radiateur [u]
 78	EU-O 28 - Ouvrages (groupe)
-78 10	E
-U-O 28 10 - Ouvrages (groupe)
+78 10	EU-O 28 10 - Ouvrages (groupe)
 78 10 1	EU-O 28 10 01 - Porte intérieure âme alvéolée boisée + bâti [u]
 78 10 2	EU-O 28 10 02 - Porte intérieure à âme pleine + bâti [u]
 78 10 3	EU-O 28 10 03 - Bloc-porte pare-flammes 1/2 h [u]
@@ -257,8 +251,7 @@ U-O 28 10 - Ouvrages (groupe)
 82 10 3	EU-O 32 10 03 - Ballon ECS accumulé 300 L [u]
 82 10 4	EU-O 32 10 04 - Chauffe-eau thermodynamique 200 L [u]
 82 20	EU-O 32 20 - Ouvrages (groupe)
-82 20 1	EU-O 32 20 01 - Radiateur acier type 22 avec robinet thermosta
-tique [u]
+82 20 1	EU-O 32 20 01 - Radiateur acier type 22 avec robinet thermostatique [u]
 82 20 2	EU-O 32 20 02 - Plancher chauffant hydraulique [m2]
 82 20 3	EU-O 32 20 03 - Radiateur électrique à inertie 1500 W [u]
 82 20 4	EU-O 32 20 04 - Radiateur sèche-serviettes mixte [u]
@@ -297,8 +290,7 @@ tique [u]
 90 3	EU-L 03 - Fondations spéciales
 90 10	EU-O 40 10 - Ouvrages (groupe)
 90 10 1	EU-O 40 10 01 - Dalle extérieure grès cérame 60x60 sur lit de sable [m2]
-90 11	EU-L 11 - 
-Charpente
+90 11	EU-L 11 - Charpente
 90 12	EU-L 12 - Couverture
 90 13	EU-L 13 - Étanchéité
 90 14	EU-L 14 - Façades / bardages
