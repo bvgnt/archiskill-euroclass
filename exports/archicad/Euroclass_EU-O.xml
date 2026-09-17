@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationSystem Name="EUROCLASS v0.7 — EU-O Ouvrages" Version="0.7" ID="euroclass-eu-o" Source="Archiskill / Euroclass">
+<ClassificationSystem Name="EUROCLASS v0.8 — EU-O Ouvrages" Version="0.8" ID="euroclass-eu-o" Source="Archiskill / Euroclass">
 	<Item ID="1" Name="Groupe 10" Code="EU-O 10">
 	<Item ID="2" Name="Groupe 10 10" Code="EU-O 10 10">
 	<Item ID="3" Name="Semelle filante béton armé (fouille comprise)" Code="EU-O 10 10 01">

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "name": "Euroclass",
-    "version": "0.7.1",
+    "version": "0.8",
     "source": "https://github.com/bvgnt/archiskill-euroclass",
     "licence": "CC0"
   },
@@ -181,12 +181,12 @@
       "de": "Wände",
       "es": "Muros",
       "it": "Murature",
-      "role_struct": "variable",
-      "uniclass_2015": "EF_25_10",
-      "omniclass_t21": "21-02 20",
-      "uniformat_ii": "B2010",
-      "guBIMClass": "ES.21",
-      "uni_8290": "1.2"
+      "role_struct": "varia",
+      "uniclass_2015": "",
+      "omniclass_t21": "",
+      "uniformat_ii": "",
+      "guBIMClass": "",
+      "uni_8290": ""
     },
     {
       "code": "EU-E 21 10",
@@ -353,8 +353,8 @@
       "uniclass_2015": "EF_30_20",
       "omniclass_t21": "21-02 10 10",
       "uniformat_ii": "B1010",
-      "guBIMClass": "ES.22.20",
-      "uni_8290": "1.2.2"
+      "guBIMClass": "ES.22",
+      "uni_8290": ""
     },
     {
       "code": "EU-E 22 30",
@@ -543,14 +543,14 @@
       "fr": "Volets et protections solaires",
       "en": "Shutters and solar shading",
       "de": "Läden und Sonnenschutz",
-      "es": "Persianas y protecciones",
-      "it": "Oscuranti e schermature",
-      "role_struct": "non-porteur",
-      "uniclass_2015": "EF_25_30",
-      "omniclass_t21": "21-02 20 70",
-      "uniformat_ii": "B2020",
-      "guBIMClass": "ES.25.30",
-      "uni_8290": "2.1"
+      "es": "Persian",
+      "it": "",
+      "role_struct": "",
+      "uniclass_2015": "",
+      "omniclass_t21": "",
+      "uniformat_ii": "",
+      "guBIMClass": "",
+      "uni_8290": ""
     },
     {
       "code": "EU-E 25 40",
@@ -712,13 +712,13 @@
       "en": "Internal doors",
       "de": "Innentüren",
       "es": "Puertas interiores",
-      "it": "Porte interne",
-      "role_struct": "non-porteur",
-      "uniclass_2015": "EF_25_30",
-      "omniclass_t21": "21-03 10 30 10",
-      "uniformat_ii": "C1030",
-      "guBIMClass": "ES.28.10",
-      "uni_8290": "2.2"
+      "it": "Porte",
+      "role_struct": "",
+      "uniclass_2015": "",
+      "omniclass_t21": "",
+      "uniformat_ii": "",
+      "guBIMClass": "",
+      "uni_8290": ""
     },
     {
       "code": "EU-E 28 20",
@@ -880,13 +880,13 @@
       "en": "Electrical",
       "de": "Elektroinstallationen",
       "es": "Instalaciones eléctricas",
-      "it": "Impianti elettrici",
-      "role_struct": "technique",
-      "uniclass_2015": "EF_70",
-      "omniclass_t21": "21-05 40",
-      "uniformat_ii": "D50",
-      "guBIMClass": "ES.33",
-      "uni_8290": "3"
+      "it": "Impianti el",
+      "role_struct": "",
+      "uniclass_2015": "",
+      "omniclass_t21": "",
+      "uniformat_ii": "",
+      "guBIMClass": "",
+      "uni_8290": ""
     },
     {
       "code": "EU-E 33 10",
@@ -1055,14 +1055,14 @@
       "code": "EU-O 21 25 01",
       "fr": "Cloison plaque de plâtre BA13 sur ossature (ép. 98)",
       "en": "Drywall partition 98 (double BA13)",
-      "de": "Trockenbauwand 98",
-      "es": "Gypsum board partition 98",
-      "it": "Tramezzo cartongesso 98",
-      "unite": "m2",
-      "eu_e_parent": "EU-E 21 10 25",
-      "lot_fr": "07 Plâtrerie",
-      "gewerk_de": "Trockenbauarbeiten (18340)",
-      "mode_de_mesure": "Surface de parement des deux faces"
+      "de": "",
+      "es": "",
+      "it": "",
+      "unite": "",
+      "eu_e_parent": "",
+      "lot_fr": "",
+      "gewerk_de": "",
+      "mode_de_mesure": ""
     },
     {
       "code": "EU-O 22 10 01",
@@ -1159,14 +1159,14 @@
       "code": "EU-O 27 10 01",
       "fr": "Carrelage grès cérame 60x60 collé",
       "en": "Ceramic floor tiling 60x60",
-      "de": "fliesen 60x60 klebeverfahren",
-      "es": "Alicatado gres 60x60",
-      "it": "Pavimento gres 60x60",
-      "unite": "m2",
-      "eu_e_parent": "EU-E 27 10",
-      "lot_fr": "14 Revêtements",
-      "gewerk_de": "Fliesenarbeiten (18352)",
-      "mode_de_mesure": "Surface au nu des murs, seuils et joints compris"
+      "de": "fliesen 60x60 k",
+      "es": "",
+      "it": "",
+      "unite": "",
+      "eu_e_parent": "",
+      "lot_fr": "",
+      "gewerk_de": "",
+      "mode_de_mesure": ""
     },
     {
       "code": "EU-O 27 40 01",
@@ -1390,8 +1390,8 @@
       "pivot_en": "Vertical transport",
       "pivot_de": "Aufzüge",
       "domaine": "Technique",
-      "fr_lot_typique": "19 Ascenseurs",
-      "de_gewerk_typique": "Aufzugsarbeiten"
+      "fr_lot_typique": "1",
+      "de_gewerk_typique": ""
     },
     {
       "code": "EU-L 34",

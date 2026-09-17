@@ -1,6 +1,6 @@
 # Exports Euroclass — testez dans votre logiciel CAO
 
-Fichiers générés automatiquement depuis les tables CSV de la v0.7
+Fichiers générés automatiquement depuis les tables CSV de la v0.8
 (68 éléments EU-E, 20 ouvrages EU-O, 21 lots pivots EU-L, 7 ouvrages immatériels EU-W).
 
 | Logiciel | Fichier | Comment l'utiliser |

@@ -82,7 +82,7 @@
 71 10	EU-O 21 10 — Ouvrages (groupe)
 71 10 1	EU-O 21 10 01 — Mur extérieur remplissage briques 20 [m2]
 71 25	EU-O 21 25 — Ouvrages (groupe)
-71 25 1	EU-O 21 25 01 — Cloison plaque de plâtre BA13 sur ossature (ép. 98) [m2]
+71 25 1	EU-O 21 25 01 — Cloison plaque de plâtre BA13 sur ossature (ép. 98) []
 72	EU-O 22 — Ouvrages (groupe)
 72 10	EU-O 22 10 — Ouvrages (groupe)
 72 10 1	EU-O 22 10 01 — Plancher poutrelles-hourdis + dalle compression 20+5 [m2]
@@ -103,7 +103,7 @@
 76 30 1	EU-O 26 30 01 — Faux plafond dalles 60x60 sur ossature [m2]
 77	EU-O 27 — Ouvrages (groupe)
 77 10	EU-O 27 10 — Ouvrages (groupe)
-77 10 1	EU-O 27 10 01 — Carrelage grès cérame 60x60 collé [m2]
+77 10 1	EU-O 27 10 01 — Carrelage grès cérame 60x60 collé []
 77 40	EU-O 27 40 — Ouvrages (groupe)
 77 40 1	EU-O 27 40 01 — Peinture acrylique mate 2 couches sur enduit [m2]
 78	EU-O 28 — Ouvrages (groupe)
