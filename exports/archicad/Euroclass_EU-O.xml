@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationSystem Name="EUROCLASS v0.8 — EU-O Ouvrages" Version="0.8" ID="euroclass-eu-o" Source="Archiskill / Euroclass">
+<ClassificationSystem Name="EUROCLASS v0.9 — EU-O Ouvrages" Version="0.9" ID="euroclass-eu-o" Source="Archiskill / Euroclass">
 	<Item ID="1" Name="Groupe 01" Code="EU-O 01">
 	<Item ID="2" Name="Groupe 01 01" Code="EU-O 01 01">
 	<Item ID="3" Name="Dépose de menuiseries existantes" Code="EU-O 01 01 01">
@@ -122,77 +122,77 @@
 	<Item ID="61" Name="Groupe 21 25" Code="EU-O 21 25">
 	<Item ID="62" Name="Cloison plaque de plâtre BA13 sur ossature (ép. 98)" Code="EU-O 21 25 01">
 	</Item>
-	<Item ID="63" Name="Doublage BA13 sur rail avec PSE 100" Code="EU-O 21 25 02">
-	</Item>
-	<Item ID="64" Name="Cloison hydrofuge BA13 sur ossature (locaux humides)" Code="EU-O 21 25 03">
+	<Item ID="63" Name="Cloison hydrofuge BA13 sur ossature (locaux humides)" Code="EU-O 21 25 03">
 	</Item>
 	</Item>
-	<Item ID="65" Name="Groupe 21 40" Code="EU-O 21 40">
-	<Item ID="66" Name="Poutre béton armé 20x40" Code="EU-O 21 40 01">
+	<Item ID="64" Name="Groupe 21 40" Code="EU-O 21 40">
+	<Item ID="65" Name="Poutre béton armé 20x40" Code="EU-O 21 40 01">
 	</Item>
 	</Item>
 	</Item>
-	<Item ID="67" Name="Groupe 22" Code="EU-O 22">
-	<Item ID="68" Name="Groupe 22 10" Code="EU-O 22 10">
-	<Item ID="69" Name="Plancher poutrelles-hourdis + dalle compression 20+5" Code="EU-O 22 10 01">
+	<Item ID="66" Name="Groupe 22" Code="EU-O 22">
+	<Item ID="67" Name="Groupe 22 10" Code="EU-O 22 10">
+	<Item ID="68" Name="Plancher poutrelles-hourdis + dalle compression 20+5" Code="EU-O 22 10 01">
 	</Item>
-	<Item ID="70" Name="Dalle pleine béton armé ép. 15 cm" Code="EU-O 22 10 02">
+	<Item ID="69" Name="Dalle pleine béton armé ép. 15 cm" Code="EU-O 22 10 02">
 	</Item>
-	<Item ID="71" Name="Plancher collaborant acier-béton sur bac" Code="EU-O 22 10 03">
-	</Item>
-	</Item>
-	<Item ID="72" Name="Groupe 22 20" Code="EU-O 22 20">
-	<Item ID="73" Name="Plancher prédalles précontraintes ép. 15+5" Code="EU-O 22 20 02">
+	<Item ID="70" Name="Plancher collaborant acier-béton sur bac" Code="EU-O 22 10 03">
 	</Item>
 	</Item>
-	<Item ID="74" Name="Groupe 22 30" Code="EU-O 22 30">
-	<Item ID="75" Name="Dallage béton armé ép. 12 avec treillis soudé" Code="EU-O 22 30 01">
+	<Item ID="71" Name="Groupe 22 20" Code="EU-O 22 20">
+	<Item ID="72" Name="Plancher prédalles précontraintes ép. 15+5" Code="EU-O 22 20 02">
 	</Item>
 	</Item>
-	<Item ID="76" Name="Groupe 22 40" Code="EU-O 22 40">
-	<Item ID="77" Name="Chape ciment sculptée ép. 5 cm" Code="EU-O 22 40 01">
-	</Item>
-	<Item ID="78" Name="Chape fluide anhydrite ép. 5 cm" Code="EU-O 22 40 02">
-	</Item>
-	<Item ID="79" Name="Isolation sous chape PSE ép. 30" Code="EU-O 22 40 03">
+	<Item ID="73" Name="Groupe 22 30" Code="EU-O 22 30">
+	<Item ID="74" Name="Dallage béton armé ép. 12 avec treillis soudé" Code="EU-O 22 30 01">
 	</Item>
 	</Item>
+	<Item ID="75" Name="Groupe 22 40" Code="EU-O 22 40">
+	<Item ID="76" Name="Chape ciment sculptée ép. 5 cm" Code="EU-O 22 40 01">
 	</Item>
-	<Item ID="80" Name="Groupe 23" Code="EU-O 23">
-	<Item ID="81" Name="Groupe 23 10" Code="EU-O 23 10">
-	<Item ID="82" Name="Charpente industrialisée fermettes" Code="EU-O 23 10 01">
+	<Item ID="77" Name="Chape fluide anhydrite ép. 5 cm" Code="EU-O 22 40 02">
 	</Item>
-	<Item ID="83" Name="Charpente traditionnelle bois massif" Code="EU-O 23 10 02">
-	</Item>
-	</Item>
-	<Item ID="84" Name="Groupe 23 20" Code="EU-O 23 20">
-	<Item ID="85" Name="Couverture tuiles terre cuite sur liteaux" Code="EU-O 23 20 01">
-	</Item>
-	<Item ID="86" Name="Couverture ardoises naturelles sur voliges" Code="EU-O 23 20 02">
-	</Item>
-	<Item ID="87" Name="Couverture bac acier laqué" Code="EU-O 23 20 03">
-	</Item>
-	<Item ID="88" Name="Faîtage et rives en tuiles spéciales" Code="EU-O 23 20 04">
-	</Item>
-	</Item>
-	<Item ID="89" Name="Groupe 23 30" Code="EU-O 23 30">
-	<Item ID="90" Name="Étanchéité bicouche SBS sur isolant" Code="EU-O 23 30 01">
-	</Item>
-	<Item ID="91" Name="Étanchéité bicouche sur terrasse accessible" Code="EU-O 23 30 02">
-	</Item>
-	<Item ID="92" Name="Isolation sous étanchéité PIR ép. 120" Code="EU-O 23 30 03">
-	</Item>
-	</Item>
-	<Item ID="93" Name="Groupe 23 40" Code="EU-O 23 40">
-	<Item ID="94" Name="Gouttière aluminium développé 100" Code="EU-O 23 40 02">
-	</Item>
-	<Item ID="95" Name="Descente EP diam. 100" Code="EU-O 23 40 03">
+	<Item ID="78" Name="Isolation sous chape PSE ép. 30" Code="EU-O 22 40 03">
 	</Item>
 	</Item>
 	</Item>
-	<Item ID="96" Name="Groupe 24" Code="EU-O 24">
-	<Item ID="97" Name="Groupe 24 10" Code="EU-O 24 10">
-	<Item ID="98" Name="Escalier béton deux volées avec palier" Code="EU-O 24 10 01">
+	<Item ID="79" Name="Groupe 23" Code="EU-O 23">
+	<Item ID="80" Name="Groupe 23 10" Code="EU-O 23 10">
+	<Item ID="81" Name="Charpente industrialisée fermettes" Code="EU-O 23 10 01">
+	</Item>
+	<Item ID="82" Name="Charpente traditionnelle bois massif" Code="EU-O 23 10 02">
+	</Item>
+	</Item>
+	<Item ID="83" Name="Groupe 23 20" Code="EU-O 23 20">
+	<Item ID="84" Name="Couverture tuiles terre cuite sur liteaux" Code="EU-O 23 20 01">
+	</Item>
+	<Item ID="85" Name="Couverture ardoises naturelles sur voliges" Code="EU-O 23 20 02">
+	</Item>
+	<Item ID="86" Name="Couverture bac acier laqué" Code="EU-O 23 20 03">
+	</Item>
+	<Item ID="87" Name="Faîtage et rives en tuiles spéciales" Code="EU-O 23 20 04">
+	</Item>
+	</Item>
+	<Item ID="88" Name="Groupe 23 30" Code="EU-O 23 30">
+	<Item ID="89" Name="Étanchéité bicouche SBS sur isolant" Code="EU-O 23 30 01">
+	</Item>
+	<Item ID="90" Name="Étanchéité bicouche sur terrasse accessible" Code="EU-O 23 30 02">
+	</Item>
+	<Item ID="91" Name="Isolation sous étanchéité PIR ép. 120" Code="EU-O 23 30 03">
+	</Item>
+	</Item>
+	<Item ID="92" Name="Groupe 23 40" Code="EU-O 23 40">
+	<Item ID="93" Name="Gouttière aluminium développé 100" Code="EU-O 23 40 02">
+	</Item>
+	<Item ID="94" Name="Descente EP diam. 100" Code="EU-O 23 40 03">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="95" Name="Groupe 24" Code="EU-O 24">
+	<Item ID="96" Name="Groupe 24 10" Code="EU-O 24 10">
+	<Item ID="97" Name="Escalier béton deux volées avec palier" Code="EU-O 24 10 01">
+	</Item>
+	<Item ID="98" Name="Escalier hélicoïdal métal-bois" Code="EU-O 24 10 02">
 	</Item>
 	</Item>
 	<Item ID="99" Name="Groupe 24 20" Code="EU-O 24 20">
@@ -216,109 +216,109 @@
 	</Item>
 	<Item ID="109" Name="Porte d'entrée aluminium à rupture de pont thermique" Code="EU-O 25 20 03">
 	</Item>
-	<Item ID="110" Name="Remplacement vitrage isolant 4/16/4 FE" Code="EU-O 25 20 04">
+	<Item ID="110" Name="Fenêtre de toit VR 78x118 rotation" Code="EU-O 25 20 05">
 	</Item>
-	<Item ID="111" Name="Fenêtre de toit VR 78x118 rotation" Code="EU-O 25 20 05">
+	<Item ID="111" Name="Porte de garage sectionnelle motorisée 240x200" Code="EU-O 25 20 06">
 	</Item>
-	<Item ID="112" Name="Porte de garage sectionnelle motorisée 240x200" Code="EU-O 25 20 06">
-	</Item>
-	<Item ID="113" Name="Baie vitrée coulissante alu 2 vantaux grand format" Code="EU-O 25 20 07">
+	<Item ID="112" Name="Baie vitrée coulissante alu 2 vantaux grand format" Code="EU-O 25 20 07">
 	</Item>
 	</Item>
-	<Item ID="114" Name="Groupe 25 30" Code="EU-O 25 30">
-	<Item ID="115" Name="Volet roulant aluminium motorisé" Code="EU-O 25 30 01">
+	<Item ID="113" Name="Groupe 25 30" Code="EU-O 25 30">
+	<Item ID="114" Name="Volet roulant aluminium motorisé" Code="EU-O 25 30 01">
 	</Item>
-	<Item ID="116" Name="Store banne motorisé 4,0 x 2,0 m" Code="EU-O 25 30 02">
+	<Item ID="115" Name="Store banne motorisé 4,0 x 2,0 m" Code="EU-O 25 30 02">
 	</Item>
-	<Item ID="117" Name="Brise-soleil orientables lames aluminium" Code="EU-O 25 30 03">
+	<Item ID="116" Name="Brise-soleil orientables lames aluminium" Code="EU-O 25 30 03">
 	</Item>
 	</Item>
-	<Item ID="118" Name="Groupe 25 40" Code="EU-O 25 40">
-	<Item ID="119" Name="ITE enduit mince sur polystyrène 140" Code="EU-O 25 40 01">
+	<Item ID="117" Name="Groupe 25 40" Code="EU-O 25 40">
+	<Item ID="118" Name="ITE enduit mince sur polystyrène 140" Code="EU-O 25 40 01">
 	</Item>
-	<Item ID="120" Name="Enduit hydraulique 3 couches sur maçonnerie" Code="EU-O 25 40 02">
+	<Item ID="119" Name="Enduit hydraulique 3 couches sur maçonnerie" Code="EU-O 25 40 02">
 	</Item>
-	<Item ID="121" Name="ITE enduit mince sur laine de roche 140" Code="EU-O 25 40 03">
+	<Item ID="120" Name="ITE enduit mince sur laine de roche 140" Code="EU-O 25 40 03">
 	</Item>
-	<Item ID="122" Name="Lasure façade 2 couches sur bois" Code="EU-O 25 40 04">
+	<Item ID="121" Name="Lasure façade 2 couches sur bois" Code="EU-O 25 40 04">
 	</Item>
 	</Item>
 	</Item>
-	<Item ID="123" Name="Groupe 26" Code="EU-O 26">
-	<Item ID="124" Name="Groupe 26 20" Code="EU-O 26 20">
-	<Item ID="125" Name="Isolation combles perdus ouate de cellulose ép. 300" Code="EU-O 26 20 01">
+	<Item ID="122" Name="Groupe 26" Code="EU-O 26">
+	<Item ID="123" Name="Groupe 26 20" Code="EU-O 26 20">
+	<Item ID="124" Name="Isolation combles perdus ouate de cellulose ép. 300" Code="EU-O 26 20 01">
+	</Item>
+	<Item ID="125" Name="Doublage BA13 sur rail avec PSE 100" Code="EU-O 26 20 02">
 	</Item>
 	</Item>
 	<Item ID="126" Name="Groupe 26 30" Code="EU-O 26 30">
-	<Item ID="127" Name="Faux plafond BA13 sur fourrure" Code="EU-O 26 30 02">
+	<Item ID="127" Name="Faux plafond dalles 60x60 sur ossature" Code="EU-O 26 30 01">
 	</Item>
-	<Item ID="128" Name="Faux plafond acoustique perforé" Code="EU-O 26 30 03">
+	<Item ID="128" Name="Faux plafond BA13 sur fourrure" Code="EU-O 26 30 02">
 	</Item>
-	</Item>
-	</Item>
-	<Item ID="129" Name="Groupe 27" Code="EU-O 27">
-	<Item ID="130" Name="Groupe 27 10" Code="EU-O 27 10">
-	<Item ID="131" Name="Carrelage grès cérame 60x60 collé" Code="EU-O 27 10 01">
-	</Item>
-	<Item ID="132" Name="Parquet contrecollé chêne collé plein surface" Code="EU-O 27 10 02">
-	</Item>
-	<Item ID="133" Name="Revêtement de sol LVT clipsé" Code="EU-O 27 10 03">
-	</Item>
-	<Item ID="134" Name="Faïence murale 25x33 collée" Code="EU-O 27 10 04">
-	</Item>
-	<Item ID="135" Name="Marche d'escalier chêne + contremarche" Code="EU-O 27 10 05">
-	</Item>
-	</Item>
-	<Item ID="136" Name="Groupe 27 20" Code="EU-O 27 20">
-	<Item ID="137" Name="Moquette tuftée posée collée" Code="EU-O 27 20 01">
-	</Item>
-	<Item ID="138" Name="Sol PVC en lés soudés" Code="EU-O 27 20 02">
-	</Item>
-	<Item ID="139" Name="Revêtement résine époxy 2 mm" Code="EU-O 27 20 03">
-	</Item>
-	</Item>
-	<Item ID="140" Name="Groupe 27 30" Code="EU-O 27 30">
-	<Item ID="141" Name="Revêtement mural papier peint intissé" Code="EU-O 27 30 01">
-	</Item>
-	<Item ID="142" Name="Lambris bois mur sur tasseaux" Code="EU-O 27 30 02">
-	</Item>
-	</Item>
-	<Item ID="143" Name="Groupe 27 40" Code="EU-O 27 40">
-	<Item ID="144" Name="Peinture acrylique mate 2 couches sur enduit" Code="EU-O 27 40 01">
-	</Item>
-	<Item ID="145" Name="Enduit de finition à la chaux 2 mm" Code="EU-O 27 40 02">
-	</Item>
-	<Item ID="146" Name="Peinture de finition sur radiateur" Code="EU-O 27 40 03">
+	<Item ID="129" Name="Faux plafond acoustique perforé" Code="EU-O 26 30 03">
 	</Item>
 	</Item>
 	</Item>
-	<Item ID="147" Name="Groupe 28" Code="EU-O 28">
-	<Item ID="148" Name="Groupe 28 10" Code="EU-O 28 10">
-	<Item ID="149" Name="Porte intérieure âme alvéolée boisée + bâti" Code="EU-O 28 10 01">
+	<Item ID="130" Name="Groupe 27" Code="EU-O 27">
+	<Item ID="131" Name="Groupe 27 10" Code="EU-O 27 10">
+	<Item ID="132" Name="Carrelage grès cérame 60x60 collé" Code="EU-O 27 10 01">
 	</Item>
-	<Item ID="150" Name="Porte intérieure à âme pleine + bâti" Code="EU-O 28 10 02">
+	<Item ID="133" Name="Parquet contrecollé chêne collé plein surface" Code="EU-O 27 10 02">
 	</Item>
-	<Item ID="151" Name="Bloc-porte pare-flammes 1/2 h" Code="EU-O 28 10 03">
+	<Item ID="134" Name="Revêtement de sol LVT clipsé" Code="EU-O 27 10 03">
 	</Item>
-	<Item ID="152" Name="Bloc-porte coupe-feu EI 60" Code="EU-O 28 10 04">
+	<Item ID="135" Name="Faïence murale 25x33 collée" Code="EU-O 27 10 04">
 	</Item>
-	</Item>
-	<Item ID="153" Name="Groupe 28 20" Code="EU-O 28 20">
-	<Item ID="154" Name="Placard 2 vantaux mélaminé" Code="EU-O 28 20 01">
-	</Item>
-	<Item ID="155" Name="Cuisine équipée (meubles + plan de travail + façades)" Code="EU-O 28 20 02">
-	</Item>
-	<Item ID="156" Name="Plan de travail stratifié ép. 38 post-formé" Code="EU-O 28 20 03">
+	<Item ID="136" Name="Marche d'escalier chêne + contremarche" Code="EU-O 27 10 05">
 	</Item>
 	</Item>
+	<Item ID="137" Name="Groupe 27 20" Code="EU-O 27 20">
+	<Item ID="138" Name="Moquette tuftée posée collée" Code="EU-O 27 20 01">
 	</Item>
-	<Item ID="157" Name="Groupe 29" Code="EU-O 29">
-	<Item ID="158" Name="Groupe 29 01" Code="EU-O 29 01">
-	<Item ID="159" Name="Main courante inox" Code="EU-O 29 01 01">
+	<Item ID="139" Name="Sol PVC en lés soudés" Code="EU-O 27 20 02">
 	</Item>
-	<Item ID="160" Name="Garde-corps verre feuilleté sur potelets" Code="EU-O 29 01 02">
+	<Item ID="140" Name="Revêtement résine époxy 2 mm" Code="EU-O 27 20 03">
 	</Item>
-	<Item ID="161" Name="Escalier hélicoïdal métal-bois" Code="EU-O 29 01 03">
+	</Item>
+	<Item ID="141" Name="Groupe 27 30" Code="EU-O 27 30">
+	<Item ID="142" Name="Revêtement mural papier peint intissé" Code="EU-O 27 30 01">
+	</Item>
+	<Item ID="143" Name="Lambris bois mur sur tasseaux" Code="EU-O 27 30 02">
+	</Item>
+	</Item>
+	<Item ID="144" Name="Groupe 27 40" Code="EU-O 27 40">
+	<Item ID="145" Name="Peinture acrylique mate 2 couches sur enduit" Code="EU-O 27 40 01">
+	</Item>
+	<Item ID="146" Name="Enduit de finition à la chaux 2 mm" Code="EU-O 27 40 02">
+	</Item>
+	<Item ID="147" Name="Peinture de finition sur radiateur" Code="EU-O 27 40 03">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="148" Name="Groupe 28" Code="EU-O 28">
+	<Item ID="149" Name="Groupe 28 10" Code="EU-O 28 10">
+	<Item ID="150" Name="Porte intérieure âme alvéolée boisée + bâti" Code="EU-O 28 10 01">
+	</Item>
+	<Item ID="151" Name="Porte intérieure à âme pleine + bâti" Code="EU-O 28 10 02">
+	</Item>
+	<Item ID="152" Name="Bloc-porte pare-flammes 1/2 h" Code="EU-O 28 10 03">
+	</Item>
+	<Item ID="153" Name="Bloc-porte coupe-feu EI 60" Code="EU-O 28 10 04">
+	</Item>
+	</Item>
+	<Item ID="154" Name="Groupe 28 20" Code="EU-O 28 20">
+	<Item ID="155" Name="Placard 2 vantaux mélaminé" Code="EU-O 28 20 01">
+	</Item>
+	<Item ID="156" Name="Cuisine équipée (meubles + plan de travail + façades)" Code="EU-O 28 20 02">
+	</Item>
+	<Item ID="157" Name="Plan de travail stratifié ép. 38 post-formé" Code="EU-O 28 20 03">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="158" Name="Groupe 29" Code="EU-O 29">
+	<Item ID="159" Name="Groupe 29 01" Code="EU-O 29 01">
+	<Item ID="160" Name="Main courante inox" Code="EU-O 29 01 01">
+	</Item>
+	<Item ID="161" Name="Garde-corps verre feuilleté sur potelets" Code="EU-O 29 01 02">
 	</Item>
 	</Item>
 	</Item>
@@ -326,43 +326,43 @@
 	<Item ID="163" Name="Groupe 30 01" Code="EU-O 30 01">
 	<Item ID="164" Name="Miroir ép. 6 mm collé sur panneau" Code="EU-O 30 01 01">
 	</Item>
-	</Item>
-	</Item>
-	<Item ID="165" Name="Groupe 31" Code="EU-O 31">
-	<Item ID="166" Name="Groupe 31 10" Code="EU-O 31 10">
-	<Item ID="167" Name="Réseau d'alimentation PER diam. 20" Code="EU-O 31 10 01">
-	</Item>
-	</Item>
-	<Item ID="168" Name="Groupe 31 20" Code="EU-O 31 20">
-	<Item ID="169" Name="Réseau d'évacuation PVC diam. 100" Code="EU-O 31 20 01">
-	</Item>
-	</Item>
-	<Item ID="170" Name="Groupe 31 30" Code="EU-O 31 30">
-	<Item ID="171" Name="WC suspendu avec bâti-support" Code="EU-O 31 30 01">
-	</Item>
-	<Item ID="172" Name="Douche à l'italienne (receveur extra-plat + robinetterie)" Code="EU-O 31 30 02">
-	</Item>
-	<Item ID="173" Name="Lavabo sur colonne + mitigeur" Code="EU-O 31 30 03">
-	</Item>
-	<Item ID="174" Name="Évier inox 2 bacs encastré + mitigeur" Code="EU-O 31 30 04">
-	</Item>
-	<Item ID="175" Name="Baignoire acrylique + mitigeur thermostatique" Code="EU-O 31 30 05">
-	</Item>
-	<Item ID="176" Name="Colonne de douche thermostatique encastrée" Code="EU-O 31 30 06">
-	</Item>
-	</Item>
-	<Item ID="177" Name="Groupe 31 40" Code="EU-O 31 40">
-	<Item ID="178" Name="Chauffe-eau thermodynamique 200 L" Code="EU-O 31 40 01">
+	<Item ID="165" Name="Remplacement vitrage isolant 4/16/4 FE" Code="EU-O 30 01 02">
 	</Item>
 	</Item>
 	</Item>
-	<Item ID="179" Name="Groupe 32" Code="EU-O 32">
-	<Item ID="180" Name="Groupe 32 10" Code="EU-O 32 10">
-	<Item ID="181" Name="Chaudière gaz à condensation 24 kW" Code="EU-O 32 10 01">
+	<Item ID="166" Name="Groupe 31" Code="EU-O 31">
+	<Item ID="167" Name="Groupe 31 10" Code="EU-O 31 10">
+	<Item ID="168" Name="Réseau d'alimentation PER diam. 20" Code="EU-O 31 10 01">
 	</Item>
-	<Item ID="182" Name="Pompe à chaleur air/eau 8 kW" Code="EU-O 32 10 02">
 	</Item>
-	<Item ID="183" Name="Ballon ECS accumulé 300 L" Code="EU-O 32 10 03">
+	<Item ID="169" Name="Groupe 31 20" Code="EU-O 31 20">
+	<Item ID="170" Name="Réseau d'évacuation PVC diam. 100" Code="EU-O 31 20 01">
+	</Item>
+	</Item>
+	<Item ID="171" Name="Groupe 31 30" Code="EU-O 31 30">
+	<Item ID="172" Name="WC suspendu avec bâti-support" Code="EU-O 31 30 01">
+	</Item>
+	<Item ID="173" Name="Douche à l'italienne (receveur extra-plat + robinetterie)" Code="EU-O 31 30 02">
+	</Item>
+	<Item ID="174" Name="Lavabo sur colonne + mitigeur" Code="EU-O 31 30 03">
+	</Item>
+	<Item ID="175" Name="Évier inox 2 bacs encastré + mitigeur" Code="EU-O 31 30 04">
+	</Item>
+	<Item ID="176" Name="Baignoire acrylique + mitigeur thermostatique" Code="EU-O 31 30 05">
+	</Item>
+	<Item ID="177" Name="Colonne de douche thermostatique encastrée" Code="EU-O 31 30 06">
+	</Item>
+	</Item>
+	</Item>
+	<Item ID="178" Name="Groupe 32" Code="EU-O 32">
+	<Item ID="179" Name="Groupe 32 10" Code="EU-O 32 10">
+	<Item ID="180" Name="Chaudière gaz à condensation 24 kW" Code="EU-O 32 10 01">
+	</Item>
+	<Item ID="181" Name="Pompe à chaleur air/eau 8 kW" Code="EU-O 32 10 02">
+	</Item>
+	<Item ID="182" Name="Ballon ECS accumulé 300 L" Code="EU-O 32 10 03">
+	</Item>
+	<Item ID="183" Name="Chauffe-eau thermodynamique 200 L" Code="EU-O 32 10 04">
 	</Item>
 	</Item>
 	<Item ID="184" Name="Groupe 32 20" Code="EU-O 32 20">

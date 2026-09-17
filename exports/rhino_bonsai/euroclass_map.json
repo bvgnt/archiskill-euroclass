@@ -1,7 +1,7 @@
 {
   "_meta": {
     "name": "Euroclass",
-    "version": "0.8.1",
+    "version": "0.9",
     "source": "https://github.com/bvgnt/archiskill-euroclass",
     "licence": "CC0"
   },
@@ -1016,7 +1016,7 @@
       "code": "EU-O 01 40 01",
       "fr": "Curage complet de bâtiment",
       "en": "Full building strip-out",
-      "de": "Komplettkernsanierung/Rückbau",
+      "de": "Komplettrückbau Innenraum",
       "es": "Vaciado completo de edificio",
       "it": "Spoglio completo dell'edificio",
       "unite": "m2",
@@ -1114,7 +1114,7 @@
       "eu_e_parent": "EU-L 02",
       "lot_fr": "02 Terrassement/VRD",
       "gewerk_de": "Erd-/Strassenbau",
-      "mode_de_mesure": "Linéaire posé, fondation et pente compris"
+      "mode_de_mesure": "Linéaire posé, fondation et pente comprise"
     },
     {
       "code": "EU-O 02 80 01",
@@ -1166,7 +1166,7 @@
       "eu_e_parent": "EU-E 10 30",
       "lot_fr": "03 GO (fonda. spéciales)",
       "gewerk_de": "Sondergewerk",
-      "mode_de_mesure": "Longueur hors tout du pieu, y c. tête de pieu"
+      "mode_de_mesure": "Linéaire hors tout du pieu, y compris tête de pieu"
     },
     {
       "code": "EU-O 10 40 01",
@@ -1192,7 +1192,7 @@
       "eu_e_parent": "EU-E 10 50",
       "lot_fr": "03 GO",
       "gewerk_de": "Betonarbeiten (18331)",
-      "mode_de_mesure": "Surface d'un côté, cuvelage et drainage compris"
+      "mode_de_mesure": "Surface d'un côté, drainage et cuvelage exclus"
     },
     {
       "code": "EU-O 10 60 01",
@@ -1210,21 +1210,21 @@
     {
       "code": "EU-O 10 70 01",
       "fr": "Mur de fondation blocs béton 20",
-      "en": "Foundation wall concre",
-      "de": "",
-      "es": "",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "en": "Foundation wall concrete blocks 20",
+      "de": "Grundmauer Betonblöcke 20",
+      "es": "Muro cimentación bloque 20",
+      "it": "Muro fondazione blocchi 20",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 10 70",
+      "lot_fr": "03 GO",
+      "gewerk_de": "Mauerarbeiten (18330)",
+      "mode_de_mesure": "Surface de mur en élévation, hors encastrement"
     },
     {
       "code": "EU-O 10 80 01",
       "fr": "Cuvelage étanche bicouche en sous-sol",
       "en": "Tanked basement waterproofing double layer",
-      "de": "Weiße Wanne / Bauabdichtung zweilagig",
+      "de": "Bauabdichtung zweilagig",
       "es": "Vasca estanca bicapa en sótano",
       "it": "Vasca impermeabilizzata bistrato interrata",
       "unite": "m2",
@@ -1367,40 +1367,27 @@
       "code": "EU-O 21 25 01",
       "fr": "Cloison plaque de plâtre BA13 sur ossature (ép. 98)",
       "en": "Drywall partition 98 (double BA13)",
-      "de": "",
-      "es": "",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
-    },
-    {
-      "code": "EU-O 21 25 02",
-      "fr": "Doublage BA13 sur rail avec PSE 100",
-      "en": "Drywall lining on stud with EPS 100",
-      "de": "Trockenbau-Vorsatzschale mit EPS 100",
-      "es": "Trasdosado placa con EPS 100",
-      "it": "Controparete in cartongesso con EPS 100",
+      "de": "Trockenbauwand 98",
+      "es": "Gypsum board partition 98",
+      "it": "Tramezzo cartongesso 98",
       "unite": "m2",
-      "eu_e_parent": "EU-E 26 20",
-      "lot_fr": "07 Second œuvre",
-      "gewerk_de": "Trockenbauarb. (18340)",
-      "mode_de_mesure": "Surface de parement, ouvertures déduites, fourrures et visseries comprises"
+      "eu_e_parent": "EU-E 21 10 25",
+      "lot_fr": "07 Plâtrerie",
+      "gewerk_de": "Trockenbauarbeiten (18340)",
+      "mode_de_mesure": "Surface de parement des deux faces"
     },
     {
       "code": "EU-O 21 25 03",
       "fr": "Cloison hydrofuge BA13 sur ossature (locaux humides)",
       "en": "Moisture-resistant drywall partition (wet rooms)",
-      "de": "Feucht",
-      "es": "",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "de": "Feuchtraum-Trockenbauwand",
+      "es": "Tabique placa hidrófuga (cuartos húmedos)",
+      "it": "Tramezzo idrofugo cartongesso (ambienti umidi)",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 21 10 25",
+      "lot_fr": "07 Plâtrerie",
+      "gewerk_de": "Trockenbauarb. (18340)",
+      "mode_de_mesure": "Surface de parement des deux faces, profilés et visseries compris"
     },
     {
       "code": "EU-O 21 40 01",
@@ -1554,7 +1541,7 @@
       "it": "Copertura coppi in cotto",
       "unite": "m2",
       "eu_e_parent": "EU-E 23 20",
-      "lot_fr": "05 Couverture",
+      "lot_fr": "05 Couverture-étanchéité",
       "gewerk_de": "Dachdeckungsarbeiten (18338)",
       "mode_de_mesure": "Surface en plan de projection au rampant"
     },
@@ -1590,12 +1577,12 @@
       "en": "Ridge and verge special tiles",
       "de": "First und Ortgang mit Formziegeln",
       "es": "Cumbrera y limatesa con tejas especiales",
-      "it": "Co",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "it": "Colmo e costole con coppi speciali",
+      "unite": "ml",
+      "eu_e_parent": "EU-E 23 20",
+      "lot_fr": "05 Couverture-étanchéité",
+      "gewerk_de": "Dachdeckungsarb. (18338)",
+      "mode_de_mesure": "Linéaire posé, mortier et crochets compris"
     },
     {
       "code": "EU-O 23 30 01",
@@ -1606,7 +1593,7 @@
       "it": "Impermeabilizzazione SBS due strati",
       "unite": "m2",
       "eu_e_parent": "EU-E 23 30",
-      "lot_fr": "05 Étanchéité",
+      "lot_fr": "05 Couverture-étanchéité",
       "gewerk_de": "Dachabdichtung",
       "mode_de_mesure": "Étanche surface + relevés <30 cm comptés en ml"
     },
@@ -1676,6 +1663,19 @@
       "mode_de_mesure": "Par volée complète y compris palier, finitions exclues"
     },
     {
+      "code": "EU-O 24 10 02",
+      "fr": "Escalier hélicoïdal métal-bois",
+      "en": "Spiral stair steel-wood",
+      "de": "Wendeltreppe Stahl-Holz",
+      "es": "Escalera helicoidal metal-madera",
+      "it": "Scala a chiocciola metallo-legno",
+      "unite": "u",
+      "eu_e_parent": "EU-E 24 10",
+      "lot_fr": "07 Menuiseries int.",
+      "gewerk_de": "Metall-/Tischlerbau",
+      "mode_de_mesure": "Par unité posée, ancrage et garde-corps compris"
+    },
+    {
       "code": "EU-O 24 20 01",
       "fr": "Main courante double PMR",
       "en": "Double handrail accessibility",
@@ -1684,7 +1684,7 @@
       "it": "Corrimano doppio accessibile",
       "unite": "ml",
       "eu_e_parent": "EU-E 24",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "12 Serrurerie-métallerie",
       "gewerk_de": "Metallbauarb.",
       "mode_de_mesure": "Linéaire posé, deux hauteurs, fixations comprises"
     },
@@ -1725,7 +1725,7 @@
       "eu_e_parent": "EU-E 25 10",
       "lot_fr": "06 Façades",
       "gewerk_de": "VHF (18351)",
-      "mode_de_mesure": "Surface de parement, montants, isolation ventilée comprise, angles au ml"
+      "mode_de_mesure": "Surface de parement, montants et lame d'air comprises, angles au ml"
     },
     {
       "code": "EU-O 25 20 01",
@@ -1733,10 +1733,10 @@
       "en": "Aluminium sliding window double glazed",
       "de": "Schiebefenster Aluminium",
       "es": "Fecha corrediza aluminio",
-      "it": "FINESTRA alluminio scorrevole",
+      "it": "Finestra alluminio scorrevole",
       "unite": "m2",
       "eu_e_parent": "EU-E 25 20",
-      "lot_fr": "06 Menuiseries ext.",
+      "lot_fr": "06 Façades",
       "gewerk_de": "Tischlerarbeiten (18355)",
       "mode_de_mesure": "Surface de baie (tableau extérieur)"
     },
@@ -1767,19 +1767,6 @@
       "mode_de_mesure": "Par unité posée, seuil et serrurerie de sécurité comprises"
     },
     {
-      "code": "EU-O 25 20 04",
-      "fr": "Remplacement vitrage isolant 4/16/4 FE",
-      "en": "Replacement double glazing 4/16/4 low-E",
-      "de": "Austausch Isolierverglasung 4/16/4",
-      "es": "Sustitución acristalamiento 4/16/4 bajo emisivo",
-      "it": "Sostituzione vetro camera 4/16/4 basso emissivo",
-      "unite": "m2",
-      "eu_e_parent": "EU-E 30",
-      "lot_fr": "06 Façades",
-      "gewerk_de": "Glaserei",
-      "mode_de_mesure": "Surface de vitrage posé, calage et joint périphérique compris"
-    },
-    {
       "code": "EU-O 25 20 05",
       "fr": "Fenêtre de toit VR 78x118 rotation",
       "en": "Roof window 78x118 pivot",
@@ -1788,22 +1775,22 @@
       "it": "Finestra per tetto 78x118 basculante",
       "unite": "u",
       "eu_e_parent": "EU-E 25 20",
-      "lot_fr": "05 Couverture",
+      "lot_fr": "05 Couverture-étanchéité",
       "gewerk_de": "Dachdeckungs-/Tischlerarb.",
-      "mode_de_mesure": "Par unité posée, flashed d'étanchéité et habillage intérieur compris"
+      "mode_de_mesure": "Par unité posée, solin d'étanchéité et habillage intérieur compris"
     },
     {
       "code": "EU-O 25 20 06",
       "fr": "Porte de garage sectionnelle motorisée 240x200",
       "en": "Motorised sectional garage door 240x200",
-      "de": "Sektionaltor motori",
-      "es": "",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "de": "Sektionaltor motorisch 240x200",
+      "es": "Puerta de garaje seccional motorizada 240x200",
+      "it": "Porta da garage sezionale motorizzata 240x200",
+      "unite": "u",
+      "eu_e_parent": "EU-E 25 20",
+      "lot_fr": "06 Façades",
+      "gewerk_de": "Tore/Metallbau",
+      "mode_de_mesure": "Par unité posée, moteur, rails et sécurité anti-pincement compris"
     },
     {
       "code": "EU-O 25 20 07",
@@ -1879,7 +1866,7 @@
       "it": "Intonaco civile 3 strati",
       "unite": "m2",
       "eu_e_parent": "EU-E 25 40",
-      "lot_fr": "06 Façade / 05",
+      "lot_fr": "05/06 selon technique (enduit/ITE)",
       "gewerk_de": "Putzarbeiten (18350)",
       "mode_de_mesure": "Surface enduite, baies déduites, gorge et baguettes d'angle comprises"
     },
@@ -1892,7 +1879,7 @@
       "it": "Cappotto intonaco sottile lana di roccia 140",
       "unite": "m2",
       "eu_e_parent": "EU-E 25 40",
-      "lot_fr": "06 Façade",
+      "lot_fr": "06 Façades",
       "gewerk_de": "WDVS (18345)",
       "mode_de_mesure": "Surface isolée, collage et chevillage compris, menuiseries déduites"
     },
@@ -1905,7 +1892,7 @@
       "it": "Lasureura facciata 2 mani",
       "unite": "m2",
       "eu_e_parent": "EU-E 25 40",
-      "lot_fr": "06 Façade / 15",
+      "lot_fr": "15 Peinture",
       "gewerk_de": "Malerarb. (18363)",
       "mode_de_mesure": "Surface traitée, ponçage et préparation compris"
     },
@@ -1915,12 +1902,38 @@
       "en": "Loose-fill cellulose insulation 300mm",
       "de": "Zellulose Einblasdämmung 300mm",
       "es": "Aislamiento coladas soplado 300mm",
-      "it": "Isolamento in soffitto con cellulosa soffiata 300mm",
+      "it": "Isolamento in soffitta con cellulosa soffiata 300mm",
       "unite": "m2",
       "eu_e_parent": "EU-E 26 20",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "07 Plâtrerie",
       "gewerk_de": "Dämmarbeiten",
       "mode_de_mesure": "Surface projetée insufflée, pare-vapeur et réglage d'épaisseur compris"
+    },
+    {
+      "code": "EU-O 26 20 02",
+      "fr": "Doublage BA13 sur rail avec PSE 100",
+      "en": "Drywall lining on stud with EPS 100",
+      "de": "Trockenbau-Vorsatzschale mit EPS 100",
+      "es": "Trasdosado placa con EPS 100",
+      "it": "Controparete in cartongesso con EPS 100",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 26 20",
+      "lot_fr": "07 Plâtrerie",
+      "gewerk_de": "Trockenbauarb. (18340)",
+      "mode_de_mesure": "Surface de parement, ouvertures déduites, fourrures et visseries comprises"
+    },
+    {
+      "code": "EU-O 26 30 01",
+      "fr": "Faux plafond dalles 60x60 sur ossature",
+      "en": "Suspended ceiling tiles 60x60",
+      "de": "Abgehängte Decke 60x60",
+      "es": "Falso techo 60x60",
+      "it": "Controsoffitto 60x60",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 26 30",
+      "lot_fr": "07 Plâtrerie",
+      "gewerk_de": "Trockenbauarbeiten (18340)",
+      "mode_de_mesure": "Surface au nu des plinthes de rive"
     },
     {
       "code": "EU-O 26 30 02",
@@ -1931,7 +1944,7 @@
       "it": "Controsoffitto in cartongesso",
       "unite": "m2",
       "eu_e_parent": "EU-E 26 30",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "07 Plâtrerie",
       "gewerk_de": "Trockenbauarb. (18340)",
       "mode_de_mesure": "Surface projetée, regards et trémies déduits"
     },
@@ -1944,7 +1957,7 @@
       "it": "Controsoffitto acustico perforato",
       "unite": "m2",
       "eu_e_parent": "EU-E 26 30",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "07 Plâtrerie",
       "gewerk_de": "Trockenbauarb. (18340)",
       "mode_de_mesure": "Surface projetée, laine acoustique et ossature comprises"
     },
@@ -1952,14 +1965,14 @@
       "code": "EU-O 27 10 01",
       "fr": "Carrelage grès cérame 60x60 collé",
       "en": "Ceramic floor tiling 60x60",
-      "de": "fliesen 60x60 k",
-      "es": "",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "de": "fliesen 60x60 klebeverfahren",
+      "es": "Alicatado gres 60x60",
+      "it": "Pavimento gres 60x60",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 27 10",
+      "lot_fr": "14 Revêtements",
+      "gewerk_de": "Fliesenarbeiten (18352)",
+      "mode_de_mesure": "Surface au nu des murs, seuils et joints compris"
     },
     {
       "code": "EU-O 27 10 02",
@@ -2011,7 +2024,7 @@
       "eu_e_parent": "EU-E 27 10",
       "lot_fr": "14 Revêtements",
       "gewerk_de": "Bodenbelags-/Tischlerarb.",
-      "mode_de_mesure": "Par marche posée, nez de marche antidérapant compris"
+      "mode_de_mesure": "Par marche posée (unité), nez de marche antidérapant compris"
     },
     {
       "code": "EU-O 27 20 01",
@@ -2074,7 +2087,7 @@
       "it": "Rivestimento in legno su listelli",
       "unite": "m2",
       "eu_e_parent": "EU-E 27 30",
-      "lot_fr": "14 Revêtements / 07",
+      "lot_fr": "14 Revêtements",
       "gewerk_de": "Tischlerarb.",
       "mode_de_mesure": "Surface de parement, tasseaux et lasure comprises"
     },
@@ -2107,15 +2120,15 @@
     {
       "code": "EU-O 27 40 03",
       "fr": "Peinture de finition sur radiateur",
-      "en": "",
-      "de": "",
-      "es": "",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "en": "Radiator finish paint",
+      "de": "Heizkörperlack",
+      "es": "Pintura para radiador",
+      "it": "Pittura per termosifoni",
+      "unite": "u",
+      "eu_e_parent": "EU-E 27 40",
+      "lot_fr": "15 Peinture",
+      "gewerk_de": "Malerarb. (18363)",
+      "mode_de_mesure": "Par radiateur (unité), préparation et 2 couches comprises"
     },
     {
       "code": "EU-O 28 10 01",
@@ -2139,7 +2152,7 @@
       "it": "Porta interna a battente pieno + telaio",
       "unite": "u",
       "eu_e_parent": "EU-E 28 10",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "07 Menuiseries int.",
       "gewerk_de": "Tischlerarb. (18355)",
       "mode_de_mesure": "Par unité posée, poignée et butée comprises"
     },
@@ -2152,7 +2165,7 @@
       "it": "Porta tagliafuoco EI30",
       "unite": "u",
       "eu_e_parent": "EU-E 28 10",
-      "lot_fr": "07 Second œuvre / SSI",
+      "lot_fr": "SSI",
       "gewerk_de": "Tischler-/Metallbauarb.",
       "mode_de_mesure": "Par unité posée, ferme-porte, joints intumescents et plaque de certification comprises"
     },
@@ -2165,7 +2178,7 @@
       "it": "Porta tagliafuoco REI60",
       "unite": "u",
       "eu_e_parent": "EU-E 28 10",
-      "lot_fr": "SSI / 07 Second œuvre",
+      "lot_fr": "SSI",
       "gewerk_de": "Tischler-/Metallbauarb.",
       "mode_de_mesure": "Par unité posée, ferme-porte, joints intumescents et PV d'essai compris"
     },
@@ -2178,7 +2191,7 @@
       "it": "Armadio 2 ante in melamminico",
       "unite": "u",
       "eu_e_parent": "EU-E 28 20",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "07 Menuiseries int.",
       "gewerk_de": "Tischlerarb. (18355)",
       "mode_de_mesure": "Par unité posée, structure, tablettes et quincaillerie comprises"
     },
@@ -2191,7 +2204,7 @@
       "it": "Cucina attrezzata (mobili + top)",
       "unite": "ml",
       "eu_e_parent": "EU-E 28 20",
-      "lot_fr": "07 Agencement",
+      "lot_fr": "07 Menuiseries int.",
       "gewerk_de": "Tischlerarb. (18355)",
       "mode_de_mesure": "Linéaire de façade posée, tiroirs, charnières et poignées comprises, électroménager exclu"
     },
@@ -2204,7 +2217,7 @@
       "it": "Piano di lavoro in laminato 38mm postformato",
       "unite": "ml",
       "eu_e_parent": "EU-E 28 20",
-      "lot_fr": "07 Agencement",
+      "lot_fr": "07 Menuiseries int.",
       "gewerk_de": "Tischlerarb. (18355)",
       "mode_de_mesure": "Linéaire posé, joint et encoignures compris"
     },
@@ -2217,7 +2230,7 @@
       "it": "Corrimano in acciaio inox",
       "unite": "ml",
       "eu_e_parent": "EU-E 29",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "12 Serrurerie-métallerie",
       "gewerk_de": "Metallbauarb.",
       "mode_de_mesure": "Linéaire posé, fixations comprises"
     },
@@ -2230,22 +2243,9 @@
       "it": "Parapetto in vetro stratificato su montanti",
       "unite": "ml",
       "eu_e_parent": "EU-E 29",
-      "lot_fr": "07 Second œuvre",
+      "lot_fr": "12 Serrurerie-métallerie",
       "gewerk_de": "Metall-/Glasbauarb.",
       "mode_de_mesure": "Linéaire en plan, potelets, main courante et ancrages compris"
-    },
-    {
-      "code": "EU-O 29 01 03",
-      "fr": "Escalier hélicoïdal métal-bois",
-      "en": "Spiral stair steel-wood",
-      "de": "Wendeltreppe Stahl-Holz",
-      "es": "Escalera helicoidal metal-madera",
-      "it": "Scala a chiocciola metallo-legno",
-      "unite": "u",
-      "eu_e_parent": "EU-E 24 10",
-      "lot_fr": "07 Second œuvre",
-      "gewerk_de": "Metall-/Tischlerbau",
-      "mode_de_mesure": "Par unité posée, ancrage et garde-corps compris"
     },
     {
       "code": "EU-O 30 01 01",
@@ -2259,6 +2259,19 @@
       "lot_fr": "07 Second œuvre",
       "gewerk_de": "Glaserei",
       "mode_de_mesure": "Surface posée, encollage et fixations anti-chute comprises"
+    },
+    {
+      "code": "EU-O 30 01 02",
+      "fr": "Remplacement vitrage isolant 4/16/4 FE",
+      "en": "Replacement double glazing 4/16/4 low-E",
+      "de": "Austausch Isolierverglasung 4/16/4",
+      "es": "Sustitución acristalamiento 4/16/4 bajo emisivo",
+      "it": "Sostituzione vetro camera 4/16/4 basso emissivo",
+      "unite": "m2",
+      "eu_e_parent": "EU-E 30",
+      "lot_fr": "06 Façades",
+      "gewerk_de": "Glaserei",
+      "mode_de_mesure": "Surface de vitrage posé, calage et joint périphérique compris"
     },
     {
       "code": "EU-O 31 10 01",
@@ -2292,12 +2305,12 @@
       "en": "Wall-hung WC with frame",
       "de": "WC hängend mit Vorwandelement",
       "es": "Vatera suspendido con estructura",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "it": "WC sospeso con incasso",
+      "unite": "u",
+      "eu_e_parent": "EU-E 31 30",
+      "lot_fr": "16 Plomberie",
+      "gewerk_de": "Gas-/Wasserarb. (18381)",
+      "mode_de_mesure": "Unité complète raccordée et essayée"
     },
     {
       "code": "EU-O 31 30 02",
@@ -2365,19 +2378,6 @@
       "mode_de_mesure": "Par unité posée, nourrices et entraxe de robinetterie compris"
     },
     {
-      "code": "EU-O 31 40 01",
-      "fr": "Chauffe-eau thermodynamique 200 L",
-      "en": "Heat pump water heater 200L",
-      "de": "Warmwasserwärmepumpe 200L",
-      "es": "Termo eléctrico con bomba de calor 200L",
-      "it": "Scaldacqua in pompa di calore 200L",
-      "unite": "u",
-      "eu_e_parent": "EU-E 32 10",
-      "lot_fr": "16 Plomberie",
-      "gewerk_de": "SHK",
-      "mode_de_mesure": "Par unité posée, raccordements hydrauliques et électriques, mise en service comprise"
-    },
-    {
       "code": "EU-O 32 10 01",
       "fr": "Chaudière gaz à condensation 24 kW",
       "en": "Gas condensing boiler 24 kW",
@@ -2417,6 +2417,19 @@
       "mode_de_mesure": "Par unité posée, isolation, anode et raccordements compris"
     },
     {
+      "code": "EU-O 32 10 04",
+      "fr": "Chauffe-eau thermodynamique 200 L",
+      "en": "Heat pump water heater 200L",
+      "de": "Warmwasserwärmepumpe 200L",
+      "es": "Termo eléctrico con bomba de calor 200L",
+      "it": "Scaldacqua in pompa di calore 200L",
+      "unite": "u",
+      "eu_e_parent": "EU-E 32 10",
+      "lot_fr": "16 Plomberie",
+      "gewerk_de": "SHK",
+      "mode_de_mesure": "Par unité posée, raccordements hydrauliques et électriques, mise en service comprise"
+    },
+    {
       "code": "EU-O 32 20 01",
       "fr": "Radiateur acier type 22 avec robinet thermostatique",
       "en": "Steel radiator type 22 with TRV",
@@ -2451,7 +2464,7 @@
       "it": "Termoconvettore a inerzia 1500W",
       "unite": "u",
       "eu_e_parent": "EU-E 32 20",
-      "lot_fr": "17 CVC / 18 Élec",
+      "lot_fr": "17 CVC",
       "gewerk_de": "Elektroinstallationen",
       "mode_de_mesure": "Par unité posée, support et raccordement électrique compris"
     },
@@ -2459,7 +2472,7 @@
       "code": "EU-O 32 20 04",
       "fr": "Radiateur sèche-serviettes mixte",
       "en": "Towel radiator dual fuel",
-      "de": "Handtuchheizkörper elektrisch/zhentral",
+      "de": "Handtuchheizkörper elektrisch/zentral",
       "es": "Radiador toallero mixto",
       "it": "Termoarredo misto",
       "unite": "u",
@@ -2479,7 +2492,7 @@
       "eu_e_parent": "EU-E 32 30",
       "lot_fr": "17 CVC",
       "gewerk_de": "Lüftungsbau",
-      "mode_de_mesure": "Par uni\nté posée, réseau jusqu'à 5 ml, bouches, réglage et PV compris"
+      "mode_de_mesure": "Par unité posée, réseau jusqu'à 5 ml, bouches, réglage et PV compris"
     },
     {
       "code": "EU-O 32 30 02",
@@ -2518,7 +2531,7 @@
       "eu_e_parent": "EU-E 33 30",
       "lot_fr": "18 Électricité",
       "gewerk_de": "Elektroinstallationen",
-      "mode_de_mesure": "Point lumineux complet (conducteurs + appareil + commande)"
+      "mode_de_mesure": "Par point lumineux complet (unité), conducteurs + appareil + commande"
     },
     {
       "code": "EU-O 33 10 02",
@@ -2583,7 +2596,7 @@
       "eu_e_parent": "EU-E 33 30",
       "lot_fr": "18 Électricité",
       "gewerk_de": "Elektroinstallationen",
-      "mode_de_mesure": "Par appareil posé et raccordé, driver dimmable compris"
+      "mode_de_mesure": "Par appareil posé et raccordé (unité), driver dimmable compris"
     },
     {
       "code": "EU-O 33 20 01",
@@ -2642,13 +2655,13 @@
       "fr": "Panneau photovoltaïque 400 Wc sur rails",
       "en": "PV panel 400Wp on rails",
       "de": "PV-Modul 400Wp auf Montageschienen",
-      "es": "Panel",
-      "it": "",
-      "unite": "",
-      "eu_e_parent": "",
-      "lot_fr": "",
-      "gewerk_de": "",
-      "mode_de_mesure": ""
+      "es": "Panel fotovoltaico 400Wc sobre guías",
+      "it": "Pannello fotovoltaico 400Wp su binari",
+      "unite": "u",
+      "eu_e_parent": "EU-E 33 10",
+      "lot_fr": "18 Électricité",
+      "gewerk_de": "Elektroinstallationen",
+      "mode_de_mesure": "Par panneau posé (unité), rails et raccordement CC jusqu'à l'onduleur"
     },
     {
       "code": "EU-O 34 01 01",
@@ -2752,7 +2765,7 @@
       "eu_e_parent": "EU-L 40",
       "lot_fr": "40 Aménagements ext.",
       "gewerk_de": "Gartenbau (Landschaftsbau)",
-      "mode_de_mesure": "Par arbre planté, tuteurage, arrosage de reprise et garantie 1 an compris"
+      "mode_de_mesure": "Par arbre planté (unité), tuteurage, arrosage de reprise et garantie 1 an compris"
     },
     {
       "code": "EU-O 40 40 01",

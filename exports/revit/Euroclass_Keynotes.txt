@@ -107,7 +107,7 @@
 60 60	EU-O 10 60 — Ouvrages (groupe)
 60 60 1	EU-O 10 60 01 — Longrine béton armé 20x40 [ml]
 60 70	EU-O 10 70 — Ouvrages (groupe)
-60 70 1	EU-O 10 70 01 — Mur de fondation blocs béton 20 []
+60 70 1	EU-O 10 70 01 — Mur de fondation blocs béton 20 [m2]
 60 80	EU-O 10 80 — Ouvrages (groupe)
 60 80 1	EU-O 10 80 01 — Cuvelage étanche bicouche en sous-sol [m2]
 65	EU-O 15 — Ouvrages (groupe)
@@ -127,9 +127,8 @@
 71 10 1	EU-O 21 10 01 — Mur extérieur remplissage briques 20 [m2]
 71 10 5	EU-O 21 10 05 — Linteau béton armé sur baie [ml]
 71 25	EU-O 21 25 — Ouvrages (groupe)
-71 25 1	EU-O 21 25 01 — Cloison plaque de plâtre BA13 sur ossature (ép. 98) []
-71 25 2	EU-O 21 25 02 — Doublage BA13 sur rail avec PSE 100 [m2]
-71 25 3	EU-O 21 25 03 — Cloison hydrofuge BA13 sur ossature (locaux humides) []
+71 25 1	EU-O 21 25 01 — Cloison plaque de plâtre BA13 sur ossature (ép. 98) [m2]
+71 25 3	EU-O 21 25 03 — Cloison hydrofuge BA13 sur ossature (locaux humides) [m2]
 71 40	EU-O 21 40 — Ouvrages (groupe)
 71 40 1	EU-O 21 40 01 — Poutre béton armé 20x40 [ml]
 72	EU-O 22 — Ouvrages (groupe)
@@ -153,7 +152,7 @@
 73 20 1	EU-O 23 20 01 — Couverture tuiles terre cuite sur liteaux [m2]
 73 20 2	EU-O 23 20 02 — Couverture ardoises naturelles sur voliges [m2]
 73 20 3	EU-O 23 20 03 — Couverture bac acier laqué [m2]
-73 20 4	EU-O 23 20 04 — Faîtage et rives en tuiles spéciales []
+73 20 4	EU-O 23 20 04 — Faîtage et rives en tuiles spéciales [ml]
 73 30	EU-O 23 30 — Ouvrages (groupe)
 73 30 1	EU-O 23 30 01 — Étanchéité bicouche SBS sur isolant [m2]
 73 30 2	EU-O 23 30 02 — Étanchéité bicouche sur terrasse accessible [m2]
@@ -164,6 +163,7 @@
 74	EU-O 24 — Ouvrages (groupe)
 74 10	EU-O 24 10 — Ouvrages (groupe)
 74 10 1	EU-O 24 10 01 — Escalier béton deux volées avec palier [u]
+74 10 2	EU-O 24 10 02 — Escalier hélicoïdal métal-bois [u]
 74 20	EU-O 24 20 — Ouvrages (groupe)
 74 20 1	EU-O 24 20 01 — Main courante double PMR [ml]
 75	EU-O 25 — Ouvrages (groupe)
@@ -175,9 +175,8 @@
 75 20 1	EU-O 25 20 01 — Fenêtre alu coulissante double vitrage [m2]
 75 20 2	EU-O 25 20 02 — Fenêtre PVC 2 vantaux oscillo-battante [u]
 75 20 3	EU-O 25 20 03 — Porte d'entrée aluminium à rupture de pont thermique [u]
-75 20 4	EU-O 25 20 04 — Remplacement vitrage isolant 4/16/4 FE [m2]
 75 20 5	EU-O 25 20 05 — Fenêtre de toit VR 78x118 rotation [u]
-75 20 6	EU-O 25 20 06 — Porte de garage sectionnelle motorisée 240x200 []
+75 20 6	EU-O 25 20 06 — Porte de garage sectionnelle motorisée 240x200 [u]
 75 20 7	EU-O 25 20 07 — Baie vitrée coulissante alu 2 vantaux grand format [m2]
 75 30	EU-O 25 30 — Ouvrages (groupe)
 75 30 1	EU-O 25 30 01 — Volet roulant aluminium motorisé [u]
@@ -191,12 +190,14 @@
 76	EU-O 26 — Ouvrages (groupe)
 76 20	EU-O 26 20 — Ouvrages (groupe)
 76 20 1	EU-O 26 20 01 — Isolation combles perdus ouate de cellulose ép. 300 [m2]
+76 20 2	EU-O 26 20 02 — Doublage BA13 sur rail avec PSE 100 [m2]
 76 30	EU-O 26 30 — Ouvrages (groupe)
+76 30 1	EU-O 26 30 01 — Faux plafond dalles 60x60 sur ossature [m2]
 76 30 2	EU-O 26 30 02 — Faux plafond BA13 sur fourrure [m2]
 76 30 3	EU-O 26 30 03 — Faux plafond acoustique perforé [m2]
 77	EU-O 27 — Ouvrages (groupe)
 77 10	EU-O 27 10 — Ouvrages (groupe)
-77 10 1	EU-O 27 10 01 — Carrelage grès cérame 60x60 collé []
+77 10 1	EU-O 27 10 01 — Carrelage grès cérame 60x60 collé [m2]
 77 10 2	EU-O 27 10 02 — Parquet contrecollé chêne collé plein surface [m2]
 77 10 3	EU-O 27 10 03 — Revêtement de sol LVT clipsé [m2]
 77 10 4	EU-O 27 10 04 — Faïence murale 25x33 collée [m2]
@@ -211,7 +212,7 @@
 77 40	EU-O 27 40 — Ouvrages (groupe)
 77 40 1	EU-O 27 40 01 — Peinture acrylique mate 2 couches sur enduit [m2]
 77 40 2	EU-O 27 40 02 — Enduit de finition à la chaux 2 mm [m2]
-77 40 3	EU-O 27 40 03 — Peinture de finition sur radiateur []
+77 40 3	EU-O 27 40 03 — Peinture de finition sur radiateur [u]
 78	EU-O 28 — Ouvrages (groupe)
 78 10	EU-O 28 10 — Ouvrages (groupe)
 78 10 1	EU-O 28 10 01 — Porte intérieure âme alvéolée boisée + bâti [u]
@@ -226,29 +227,28 @@
 79 1	EU-O 29 01 — Ouvrages (groupe)
 79 1 1	EU-O 29 01 01 — Main courante inox [ml]
 79 1 2	EU-O 29 01 02 — Garde-corps verre feuilleté sur potelets [ml]
-79 1 3	EU-O 29 01 03 — Escalier hélicoïdal métal-bois [u]
 80	EU-O 30 — Ouvrages (groupe)
 80 1	EU-O 30 01 — Ouvrages (groupe)
 80 1 1	EU-O 30 01 01 — Miroir ép. 6 mm collé sur panneau [m2]
+80 1 2	EU-O 30 01 02 — Remplacement vitrage isolant 4/16/4 FE [m2]
 81	EU-O 31 — Ouvrages (groupe)
 81 10	EU-O 31 10 — Ouvrages (groupe)
 81 10 1	EU-O 31 10 01 — Réseau d'alimentation PER diam. 20 [ml]
 81 20	EU-O 31 20 — Ouvrages (groupe)
 81 20 1	EU-O 31 20 01 — Réseau d'évacuation PVC diam. 100 [ml]
 81 30	EU-O 31 30 — Ouvrages (groupe)
-81 30 1	EU-O 31 30 01 — WC suspendu avec bâti-support []
+81 30 1	EU-O 31 30 01 — WC suspendu avec bâti-support [u]
 81 30 2	EU-O 31 30 02 — Douche à l'italienne (receveur extra-plat + robinetterie) [u]
 81 30 3	EU-O 31 30 03 — Lavabo sur colonne + mitigeur [u]
 81 30 4	EU-O 31 30 04 — Évier inox 2 bacs encastré + mitigeur [u]
 81 30 5	EU-O 31 30 05 — Baignoire acrylique + mitigeur thermostatique [u]
 81 30 6	EU-O 31 30 06 — Colonne de douche thermostatique encastrée [u]
-81 40	EU-O 31 40 — Ouvrages (groupe)
-81 40 1	EU-O 31 40 01 — Chauffe-eau thermodynamique 200 L [u]
 82	EU-O 32 — Ouvrages (groupe)
 82 10	EU-O 32 10 — Ouvrages (groupe)
 82 10 1	EU-O 32 10 01 — Chaudière gaz à condensation 24 kW [u]
 82 10 2	EU-O 32 10 02 — Pompe à chaleur air/eau 8 kW [u]
 82 10 3	EU-O 32 10 03 — Ballon ECS accumulé 300 L [u]
+82 10 4	EU-O 32 10 04 — Chauffe-eau thermodynamique 200 L [u]
 82 20	EU-O 32 20 — Ouvrages (groupe)
 82 20 1	EU-O 32 20 01 — Radiateur acier type 22 avec robinet thermostatique [u]
 82 20 2	EU-O 32 20 02 — Plancher chauffant hydraulique [m2]
@@ -273,7 +273,7 @@
 83 30 2	EU-O 33 30 02 — Réglette LED encastrée 1200 mm 36 W [u]
 83 30 3	EU-O 33 30 03 — Applique extérieure IP65 avec détection [u]
 83 40	EU-O 33 40 — Ouvrages (groupe)
-83 40 1	EU-O 33 40 01 — Panneau photovoltaïque 400 Wc sur rails []
+83 40 1	EU-O 33 40 01 — Panneau photovoltaïque 400 Wc sur rails [u]
 84	EU-O 34 — Ouvrages (groupe)
 84 1	EU-O 34 01 — Ouvrages (groupe)
 84 1 1	EU-O 34 01 01 — Ascenseur 6 personnes / 4 arrêts [u]

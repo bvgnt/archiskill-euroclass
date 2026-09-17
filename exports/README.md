@@ -1,7 +1,7 @@
 # Exports Euroclass — testez dans votre logiciel CAO
 
-Fichiers générés automatiquement depuis les tables CSV de la v0.7
-(68 éléments EU-E, 139 ouvrages EU-O, 21 lots pivots EU-L, 7 ouvrages immatériels EU-W).
+Fichiers générés automatiquement depuis les tables CSV de la v0.9
+(68 éléments EU-E, 140 ouvrages EU-O, 21 lots pivots EU-L, 7 ouvrages immatériels EU-W).
 
 | Logiciel | Fichier | Comment l'utiliser |
 |---|---|---|
@@ -27,3 +27,6 @@ Revit n'accepte que des clés numériques (pas de zéro de tête) :
 1. La hiérarchie des codes est-elle lisible et assignable dans votre outil ?
 2. Le couple élément (EU-E) × lot (EU-L) se retrouve-t-il dans les nomenclatures ?
 3. L'IFC démo valide le chemin buildingSMART : classification `EUROCLASS` + propriétés — le flux cible « maquette IFC classée EU-E → profil EU-L → DPGF ».
+## Convention de codification EU-O (v0.9)
+
+La racine d'un code EU-O reflète le chapitre EU-E de son élément parent (21 = murs, 22 = planchers, 23 = toitures…), sauf pour les travaux sans chapitre EU-E : 01 démolition, 02 terrassement, 40 aménagements extérieurs. Le champ `lot_fr` relève de la dévolution (profil FR) et peut donc différer de la racine (ex. EU-O 32 10 04 chauffe-eau thermodynamique : racine 32 CVC, lot 16 Plomberie).
