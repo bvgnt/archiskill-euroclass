@@ -1,4 +1,4 @@
-﻿10	EU-E 10 - Fondations et infrastructure / Foundations and substructure
+10	EU-E 10 - Fondations et infrastructure / Foundations and substructure
 10 10	EU-E 10 10 - Semelles filantes / Strip footings
 10 20	EU-E 10 20 - Semelles isolees / Pad footings
 10 30	EU-E 10 30 - Pieux et micropieux / Piles and micropiles
