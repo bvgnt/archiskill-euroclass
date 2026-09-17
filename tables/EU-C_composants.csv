@@ -9,7 +9,8 @@ EU-C 02 03,Tasseau bois 27x40,Timber batten 27x40,Lattung 27x40,Listón madera 2
 EU-C 02 04,Chevron sapin C24 63x75,Rafterspruce C24 63x75,Sprichtholz C24 63x75,Parihuela sapo C24 63x75,Corrente abete C24 63x75,ml,Ossature bois,Charpente traditionnelle et voliges
 EU-C 02 05,Lame de bardage MTH douglas 27x140,MTH larch cladding 27x140,Brettschichtholz Fassade 27x140,Revestimiento MTH pino 27x140,Rivestimento MTH douglas 27x140,m2,Ossature bois,Bardage bois à claire-voie
 EU-C 03 01,Plaque de plâtre BA13 standard 1200x2500,Standard gypsum board 1200x2500,Gipsplatte 1200x2500,Placa de yeso 1200x2500,Lastra in gesso 1200x2500,m2,Panneaux,Plâtrerie sèche
-EU-C 03 02,Plaque de plâtre BA13 hydrofuge,Moisture-resistant gypsum board,Feuchtraumplatte BA13,Placa hidrófuga BA13,Lastra idrofuga BA13,m2,Panneaux,Locaux humides
+EU-C 03 02,Plaque de plâtre BA13 hydro
+fuge,Moisture-resistant gypsum board,Feuchtraumplatte BA13,Placa hidrófuga BA13,Lastra idrofuga BA13,m2,Panneaux,Locaux humides
 EU-C 03 03,Plaque de plâtre BA13 coupe-feu,Fire-rated gypsum board,Brandschutzplatte BA13,Placa RF BA13,Lastra tagliafuoco BA13,m2,Panneaux,Cloisonnement coupe-feu
 EU-C 03 04,Panneau OSB 3 ép. 12 mm,OSB 3 board 12 mm,OSB-3-Platte 12 mm,Tablero OSB 3 12 mm,Pannello OSB 3 12 mm,m2,Panneaux,Contreventement mur ossature bois
 EU-C 03 05,Dalle de plafond minérale 60x60,Mineral ceiling tile 60x60,Mineralfaserplatte 60x60,Placa de techo mineral 60x60,Pannello minerale 60x60,u,Panneaux,Faux plafond démontable
@@ -20,7 +21,8 @@ EU-C 04 04,Polystyrène expansé PSE Th31 140 mm,EPS board Th31 140 mm,EPS-Platt
 EU-C 04 05,Ouate de cellulose vrac,Blown cellulose wadding,Celluloseflocken,Celulosa proyectada,Cellulosa sfusa,kg,Isolants,Isolation combles perdus soufflée
 EU-C 05 01,Vis TTPC 25 mm,Drywall screw 25 mm,Trockbauschraube 25 mm,Tornillo plaster 25 mm,Vite cartongesso 25 mm,u,Fixations,Fixation plaque sur ossature
 EU-C 05 02,Vis TTPC 35 mm,Drywall screw 35 mm,Trockbauschraube 35 mm,Tornillo plaster 35 mm,Vite cartongesso 35 mm,u,Fixations,Fixation double plaque sur ossature
-EU-C 05 03,Vis à bois structurelle 6x120,Structural timber screw 6x120,Holzbauschraube 6x120,Tornillo madera estructural 6x120,Vite legno strutturale 6x120,u,Fixations,Assemblage ossature bois
+EU-C 05 03,Vis à bois structurelle 6x120,Structural timber screw 6x120,Holzbauschraube 6x120,Tornillo madera estructu
+ral 6x120,Vite legno strutturale 6x120,u,Fixations,Assemblage ossature bois
 EU-C 05 04,Vis OSB 4x40,OSB screw 4x40,OSB-Schraube 4x40,Tornillo OSB 4x40,Vite OSB 4x40,u,Fixations,Fixation panneaux OSB sur ossature
 EU-C 05 05,Clou torsadé 90 mm,Twisted nail 90 mm,Rillennagel 90 mm,Clavo anular 90 mm,Chiodo elicoidale 90 mm,u,Fixations,Fixation lisses et contreventement
 EU-C 05 06,Vis autoperceuse toiture 5,5x76,Self-drilling roofing screw 5,5x76,Dachschraube 5,5x76,Tornillo techo 5,5x76,Vite tetto autoforante 5,5x76,u,Fixations,Fixation bac acier et rives
@@ -32,7 +34,8 @@ EU-C 06 03,Ruban adhésif aluminium 75 mm,Aluminium tape 75 mm,Aluklebeband 75 m
 EU-C 07 01,Bande à joint papier 50 mm,Joint tape 50 mm,Gipsfasierband 50 mm,Cinta de papel 50 mm,Nastro giunto 50 mm,ml,Finitions,Jointoiement plaques de plâtre
 EU-C 07 02,Enduit à joint poudre,Joint compound powder,Gips-Spachtelmasse,Masilla para juntas,Stucco per giunti,kg,Finitions,Enduisage des bandes
 EU-C 08 01,Bloc béton creux 20x20x50,Hollow concrete block 20x20x50,Hohlblockstein 20x20x50,Bloque hormigón 20x20x50,Blocco cemento 20x20x50,u,Maçonnerie,Murs de fondation et élévation
-EU-C 08 02,Mortier de montage ciment,Masonry mortar cement,Mauermörtel,Mortero de montaje,Malta di allettamento,kg,Maçonnerie,Montage blocs et briques
+EU-C 08 02,Mortier de montage ciment,Masonry mortar cement,Mauermörtel,Mortero de montaje,Malta di allettamento,kg,Maçonnerie,Mo
+ntage blocs et briques
 EU-C 08 03,Béton armé C25/XC2 prêt à l'emploi,Ready-mix reinforced concrete C25/XC2,Betong C25/XC2,Hormigón armado C25/XC2,Calcestruzzo armato C25/XC2,m3,Maçonnerie,Fondations, voiles, dalles
 EU-C 08 04,Treillis soudé ST25C,Welded mesh ST25C,Betonstahlmatte ST25C,Malla electrosoldada ST25C,Rete elettrosaldata ST25C,m2,Maçonnerie,Dallages, dalles, chapes
 EU-C 08 05,Acier HA armatures,Rebar steel HA,Betonstahl BStB500,Acero corrugado B500S,Acciaio corrugato B450C,kg,Maçonnerie,Armatures fondations, voiles, poteaux
@@ -44,7 +47,8 @@ EU-C 08 10,Film polyane 150 µm,Polyethylene sheet 150 µm,PE-Folie 150 µm,Lám
 EU-C 09 01,Tuile terre cuite grand moule,Plain clay roof tile,Tondachziegel,Teja curva grande molde,Coppi in cotto,u,Couverture,Couverture tuiles sur liteaux
 EU-C 09 02,Ardoise naturelle 32x22,Natural slate 32x22,Naturschiefer 32x22,Pizarra natural 32x22,Ardesia naturale 32x22,u,Couverture,Couverture ardoises clouées
 EU-C 09 03,Crochet ardoise inox,Slate hook stainless,Schieferhaken inox,Gancho de pizarra inox,Gancio ardesia inox,u,Couverture,Fixation ardoises sur voliges
-EU-C 09 04,Volige sapin 22 mm,Spruce boarding 22 mm,Schalung Fichte 22 mm,Tablón de pino 22 mm,Tavolato abete 22 mm,m2,Couverture,Support ardoises et zinc
+EU-C 09 04,Volige sapin 22 mm,Spruce boarding 22 mm,Schalung Fichte 22 mm,Tablón de pino 22 mm,Tavolato abete 22 mm,m2,Couverture,
+Support ardoises et zinc
 EU-C 09 05,Bac acier laqué 0,63 mm,Lacquered steel sheet 0,63 mm,Stahltrapezblech 0,63 mm,Chapa acero lacada 0,63 mm,Lamiera acciaio 0,63 mm,m2,Couverture,Couverture bac acier
 EU-C 09 06,Faîtière ventilée,Ventilated ridge,Lüfterfirst,Cumbrera ventilada,Colmo ventilato,ml,Couverture,Faîtage tuiles et bac acier
 EU-C 09 07,Gouttière aluminium développé 100,Aluminium gutter dev. 100,Aluminiumrinne 100,Canalón aluminio 100,Grondaia alluminio 100,ml,Couverture,Évacuation EP toiture
@@ -57,7 +61,8 @@ EU-C 10 04,Primaire bitumineux d'accrochage,Bituminous primer,Bitumenanstrich,Im
 EU-C 11 01,Carrelage grès cérame 60x60,Porcelain tile 60x60,Feinsteinzeug 60x60,Gres porcelánico 60x60,Gres porcellanato 60x60,m2,Revêtements,Sols intérieurs et extérieurs
 EU-C 11 02,Colle carrelage C2,Tile adhesive C2,Fliesenkleber C2,Adhesivo C2,Colla C2,kg,Revêtements,Collage carrelage et faïence
 EU-C 11 03,Joint de carrelage,Tile grout,Fugenmörtel,Junta para alicatar,Stucco fughe,kg,Revêtements,Jointoiement carrelage
-EU-C 11 04,Parquet contrecollé chêne,Engineered oak flooring,Fertigparkett Eiche,Parquet multicapa roble,Parquet prefinito rovere,m2,Revêtements,Sols séjour et chambres
+EU-C 11 04,Parquet contrecollé chêne,Engineered oak flooring,Fertigparkett Eiche,Parquet multicapa roble,Parquet prefinito rovere,m2,Revêteme
+nts,Sols séjour et chambres
 EU-C 11 05,Sous-couche acoustique,Acoustic underlay,Trittschall-Dämmung,Capa acústica,Sottostrato acustico,m2,Revêtements,Sous parquet et LVT clipsé
 EU-C 11 06,Ragréage autolissant,Self-levelling compound,Ausgleichsmasse,Autonivelante ausiliario,Rasante autolivellante,kg,Revêtements,Préparation support avant revêtement
 EU-C 11 07,Faïence murale 25x33,Wall tile 25x33,Wandfliese 25x33,Azulejo pared 25x33,Piastrella murale 25x33,m2,Revêtements,Faïence cuisines et salles d'eau
@@ -70,6 +75,31 @@ EU-C 12 05,Enduit hydraulique façade,Hydraulic render façade,Hydraulischer Put
 EU-C 12 06,Treillis de verre 4x4,Glass fibre mesh 4x4,Glasfasergewebe 4x4,Malla de fibra de vidrio,Rete in fibra di vetro,m2,Peintures,Armature enduit ITE
 EU-C 13 01,Mousse PU de calfeutrement,PU sealing foam,PU-Montageschaum,Espuma PU,Schiuma PU,u,Menuiserie,Calfeutrement blocs-portes et fenêtres
 EU-C 13 02,Silicone neutre,Neutral silicone,Neutral-Silikon,Silicona neutro,Silicone neutro,u,Menuiserie,Joint périphérique menuiseries
-EU-C 13 03,Patte de fixation menuiserie,Fixing bracket joinery,Befestigungswinkel,Pletina de fijación,Staffa di fissaggio,u,Menuiserie,Fixation dormants en feuillure
+EU-C 13 03,Patte de fixation menuiserie,Fixing bracket joinery,Befestigungswinkel,Pletina de fijación,Staffa di fissaggio,u,Menuiserie,Fixation dormants en fe
+uillure
 EU-C 15 01,Grillage soudé vert h. 1 m,Welded green fence 1 m,Zaungitter grün 1 m,Malla soldada verde 1 m,Rete saldata verde 1 m,m2,Extérieurs,Clôtures grillagées
 EU-C 15 02,Potelet métallique T vert,Green T fence post,Zaunpfosten T grün,Poste T verde,Paletto T verde,u,Extérieurs,Supports de clôture
+EU-C 16 01,Tube PER diam. 20 gainé,PEX pipe 20 sheathed,PER-Rohr 20 ummantelt,Tubo PER 20 enfundado,Tubo PEX 20 guainato,ml,Plomberie,Réseaux d'alimentation EF/EC
+EU-C 16 02,Tube PVC évacuation diam. 100,PVC drainage pipe 100,PVC-Abflussrohr 100,Tubo PVC evacuación 100,Tubo PVC scarico 100,ml,Plomberie,Chutes et évacuations EU
+EU-C 16 03,Tube cuivre écroui diam. 16,Copper pipe 16,Kupferrohr 16,Tubo cobre 16,Tubo rame 16,ml,Plomberie,Alimentations sanitaires
+EU-C 16 04,Collier de fixation PVC/cuivre,Pipe clip PVC/copper,Rohrschelle,Abrazadera,Collare di fissaggio,u,Plomberie,Fixation réseaux apparents
+EU-C 16 05,Robinet d'arrêt quart de tour,Quarter-turn stop valve,Absperrventil,Llave de paso,Valvola di arresto,u,Plomberie,Isolation des appareils
+EU-C 16 06,Syphon bouteille diam. 40,Bottle trap 40,Flaschensiphon 40,Sifón botella 40,Sifone bottiglia 40,u,Plomberie,Évacuation appareils
+"EU-C 17 01","Câble R2V 3G2,5 mm2","R2V cable 3G2.5","R2V-Kabel 3G2,5","Cable R2V 3G2,5","Cavo R2V 3G2,5",ml,Électricité,Circuits prises et éclairage
+"EU-C 17 02","Câble R2V 3G1,5 mm2","R2V cable 3G1.5","R2V-Kabel 3G1,5","Cable R2V 3G1,5","Cavo R2V 3G1,5",ml,Électricité,Circuits éclairage et commande
+EU-C 17 03,Conduit ICTA diam. 25 avec tire-fil,ICTA conduit 25 with wire,ICTA-Rohr 25 mit Zugdraht,Tubo ICTA 25 con guía,Tubo corrugato 25 con filo,ml,Électricité,Réseaux encastrés
+EU-C 17 04,Boîte d'encastrement,Flush box,Unterputzdose,Caja de empotrar,Scatola a incasso,u,Électricité,Points prises et interrupteurs
+EU-C 17 05,Disjoncteur 16 A,Breaker 16A,Leitungsschutzschalter 16A,Magnetotérmico 16A,Interruttore magnetotermico 16A,u,Électricité,Protection circuits prises
+EU-C 17 06,Disjoncteur différentiel 30 mA type A,RCD 30mA type A,FI-Schutzschalter 30mA,Diferencial 30mA tipo A,Differenziale 30mA tipo A,u,Électricité,Protection des personnes
+EU-C 17 07,Spot LED encastré 7 W,Recessed LED spot 7W,Einbauspot LED 7W,Spot LED empotrado 7W,Spot LED a incasso 7W,u,Électricité,Éclairage encastré
+EU-C 17 08,Douille DCL,DCL socket,DCL-Fassung,Portalámparas DCL,Portalampada DCL,u,Électricité,Points lumineux DCL
+EU-C 17 09,Rail PV avec crochets,PV rail with hooks,PV-Schiene mit Haken,Raíl FV con ganchos,Binario FV con ganci,ml,Électricité,Support panneaux photovoltaïques
+EU-C 17 10,Panneau PV 400 Wc,PV panel 400Wp,PV-Modul 400Wp,Panel FV 400Wc,Modulo FV 400Wp,u,Électricité,Production électrique
+EU-C 18 01,Gaine VMC souple isolée diam. 160,Insulated flexible duct 160,Isolierte Flexleitung 160,Conducto aislado 160,Condotta isolata 160,ml,Ventilation,Réseaux VMC double flux
+EU-C 18 02,Bouche d'extraction,Extraction grille,Abluftgitter,Rejilla de extracción,Griglia di estrazione,u,Ventilation,Bouches de service
+EU-C 18 03,Bouches de soufflage/extraction 150 mm,Supply/extract diffusers 150mm,Einblas-/Absaugdurchlässe 150mm,Difusores 150 mm,Bocchette 150 mm,u,Ventilation,Distribution VMC DF
+EU-C 18 04,Gaine rigide PPI diam. 125,Rigid PPI duct 125,PPI-Rohr 125,Conducto PPI 125,Condotta PPI 125,ml,Ventilation,Réseau VMC hygroréglable
+EU-C 19 01,Radiateur acier type 22,Steel panel radiator type 22,Stahlheizkörper Typ 22,Radiador acero tipo 22,Radiatore acciaio tipo 22,u,Chauffage,Émission chauffage central
+EU-C 19 02,Tube PER diam. 16 gainé,PEX pipe 16 sheathed,PER-Rohr 16,Tubo PER 16,Tubo PEX 16,ml,Chauffage,Boucles plancher chauffant
+EU-C 19 03,Collecteur plancher chauffant n circuits,UFH manifold n circuits,Verteiler n Heizkreise,Colector n circuitos,Collettore n circuiti,u,Chauffage,Distribution plancher chauffant
+"EU-C 19 04","Panneau diffuseur PEBD ép. 0,2 mm","LDPE spreading panel 0.2mm","PE-Folie 0,2 mm",Panel difusor PEAD,Pannello diffusore PE,m2,Chauffage,Sous béton plancher chauffant
