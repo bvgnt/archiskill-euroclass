@@ -1,21 +1,90 @@
 code;libelle_fr;libelle_de;unite;lot_fr;gewerk_de
+EU-O 01 01 01;Dépose de menuiseries existantes;Ausbau vorhandener Fenster/Türen;u;01 Démolition;Abbrucharbeiten (18459)
+EU-O 01 10 01;Déconstruction de cloisons;Rückbau von Trennwänden;m2;01 Démolition;Abbrucharbeiten (18459)
+EU-O 01 20 01;Déconstruction de dallage béton ép. 15 cm;Rückbau Betonestrich 15cm;m3;01 Démolition;Abbrucharbeiten (18459)
+EU-O 01 30 01;Évacuation gravats vers centre de tri tri-sélectif;Schuttentsorgung Sortieranlage;t;01 Démolition;Abbrucharbeiten (18459)
+EU-O 02 10 01;Décapage et stockage de terre végétale;Oberboden abtragen und lagern;m2;02 Terrassement/VRD;Erdarbeiten (18300)
+EU-O 02 20 01;Fouille en pleine masse;Aushub Baugrube;m3;02 Terrassement/VRD;Erdarbeiten (18300)
+EU-O 02 30 01;Remblai compacté par couches de 20 cm;Hinterfüllung verdichtet 20cm;m3;02 Terrassement/VRD;Erdarbeiten (18300)
+EU-O 02 40 01;Tout-venant compacté sous dallage ép. 20 cm;Schottertragsschicht 20cm;m3;02 Terrassement/VRD;Erdarbeiten (18300)
+EU-O 02 50 01;Bordure béton type A;Betonborde Typ A;ml;02 Terrassement/VRD;Erdarbeiten (18300)
+EU-O 02 60 01;Chaussée grave-bitume ép. 10 cm;Tragschicht Bituminös 10cm;m2;02 Terrassement/VRD;Strassenbau
 EU-O 10 10 01;Semelle filante béton armé (fouille comprise);Streifenfundament Stahlbeton (Aushub inkl.);m3;03 GO;Betonarbeiten (18331)
+EU-O 10 10 02;Semelle isolée béton armé;Einzelfundament Stahlbeton;m3;03 GO;Betonarbeiten (18331)
 EU-O 10 30 01;Pieu foré béton armé diam. 600;Bohrpfahl d600;ml;03 GO (fonda. spéciales);Sondergewerk
 EU-O 10 40 01;Radier ép. 25 cm avec treillis soudé;Fundamentplatte 25cm m. Bewehrung;m2;03 GO;Betonarbeiten (18331)
+EU-O 10 60 01;Longrine béton armé 20x40;Grundbalken Stahlbeton 20x40;ml;03 GO;Betonarbeiten (18331)
 EU-O 10 70 01;Mur de fondation blocs béton 20;Grundmauer Betonblöcke 20;m2;03 GO;Mauerarbeiten (18330)
+EU-O 15 10 01;Poteau ossature métallique IPE 200;Stahlstütze IPE 200;ml;03 GO;Stahlbau
 EU-O 21 05 01;Mur porteur blocs béton 20 (hourdage compris);Tragende Wand Betonblöcke 20 (mit Ringanker);m2;03 GO;Mauerarbeiten (18330)
 EU-O 21 05 02;Voile béton armé ép. 18;Stahlbetonwand 18;m2;03 GO;Betonarbeiten (18331)
+EU-O 21 05 03;Mur porteur briques 20 (hourdage compris);Tragendes Mauerwerk 20 (Verbund incl.);m2;03 GO;Mauerarbeiten (18330)
+EU-O 21 05 04;Poteau béton armé 30x30;Stahlbetonstütze 30x30;ml;03 GO;Beton-/Stahlbetonarb. (18331)
+EU-O 21 05 05;Chaînage horizontal de rive;Abmauerung Ringanker;ml;03 GO;Mauerarbeiten (18330)
 EU-O 21 10 01;Mur extérieur remplissage briques 20;Nichttragende Wand Ziegel 20;m2;06 Façades;Mauerarbeiten (18330)
+EU-O 21 10 05;Linteau béton armé sur baie;Stahlbetonsturz;ml;03 GO;Beton-/Mauerarbeiten
 EU-O 21 25 01;Cloison plaque de plâtre BA13 sur ossature (ép. 98);;;;
+EU-O 21 25 02;Doublage BA13 sur rail avec PSE 100;Trockenbau-Vorsatzschale mit EPS 100;m2;07 Second œuvre;Trockenbauarb. (18340)
+EU-O 21 40 01;Poutre béton armé 20x40;Stahlbetonbalken 20x40;ml;03 GO;Beton-/Stahlbetonarb. (18331)
 EU-O 22 10 01;Plancher poutrelles-hourdis + dalle compression 20+5;Decke mit Balken 20+5;m2;03 GO;Betonarbeiten (18331)
+EU-O 22 10 02;Dalle pleine béton armé ép. 15 cm;Massivplatte Stahlbeton 15cm;m2;03 GO;Beton-/Stahlbetonarb. (18331)
+EU-O 22 30 01;Dallage béton armé ép. 12 avec treillis soudé;Bodenplatte 12cm mit Bewehrung;m2;03 GO;Betonarbeiten (18331)
 EU-O 22 40 01;Chape ciment sculptée ép. 5 cm;Zementestrich 5cm;m2;14 Revêtements;Estricharbeiten (18353)
+EU-O 22 40 02;Chape fluide anhydrite ép. 5 cm;Anhydrit-Fließestrich 5cm;m2;14 Revêtements;Estricharb. (18353)
+EU-O 23 10 01;Charpente industrialisée fermettes;Fertigdachstühle;m2;04 Charpente;Zimmer-/Holzbauarb. (18334)
+EU-O 23 10 02;Charpente traditionnelle bois massif;Konstruktionsholz traditionell;m2;04 Charpente;Zimmer-/Holzbauarb. (18334)
 EU-O 23 20 01;Couverture tuiles terre cuite sur liteaux;Tondachziegel auf Lattung;m2;05 Couverture;Dachdeckungsarbeiten (18338)
+EU-O 23 20 02;Couverture ardoises naturelles sur voliges;Naturschiefer auf Schalung;m2;05 Couverture-étanchéité;Dachdeckungsarb. (18338)
+EU-O 23 20 03;Couverture bac acier laqué;Stahltrapezblech;m2;05 Couverture-étanchéité;Dachdeckungsarb. (18338)
 EU-O 23 30 01;Étanchéité bicouche SBS sur isolant;Dachabdichtung SBS zweilagig;m2;05 Étanchéité;Dachabdichtung
+EU-O 23 30 02;Étanchéité bicouche sur terrasse accessible;Doppelte Abdichtung begehbare Terrasse;m2;05 Couverture-étanchéité;Dachabdichtung
+EU-O 23 40 02;Gouttière aluminium développé 100;Aluminiumrinne 100;ml;05 Couverture-étanchéité;Klempnerarb. (18339)
+EU-O 23 40 03;Descente EP diam. 100;Fallrohr PVC 100;ml;05 Couverture-étanchéité;Klempnerarb. (18339)
+EU-O 24 10 01;Escalier béton deux volées avec palier;Massivtreppe zwei Läufe;u;03 GO;Beton-/Treppenbau
+EU-O 25 10 01;Bardage bois MTH sur tasseaux;Holzbekleidung auf Lattung;m2;06 Façades;Zimmer-/Holzbauarb.
+EU-O 25 10 02;Bardage zinc à joint debout double peau;Zinkbekleidung Stehfalz doppelte Haut;m2;06 Façades;Klempner-/Metallbauarb.
 EU-O 25 20 01;Fenêtre alu coulissante double vitrage;Schiebefenster Aluminium;m2;06 Menuiseries ext.;Tischlerarbeiten (18355)
+EU-O 25 20 02;Fenêtre PVC 2 vantaux oscillo-battante;PVC-Fenster 2-flügelig Kipp-Dreh;u;06 Façades;Fensterbau (Tischlerarb.)
+EU-O 25 20 03;Porte d'entrée aluminium à rupture de pont thermique;Aluminium-Haustür mit thermischer Trennung;u;06 Façades;Metallbau
+EU-O 25 20 04;Remplacement vitrage isolant 4/16/4 FE;Austausch Isolierverglasung 4/16/4;m2;06 Façades;Glaserei
+EU-O 25 30 01;Volet roulant aluminium motorisé;Aluminium-Rollladen elektrisch;u;06 Façades;Sonnenschutzgewerk
 EU-O 25 40 01;ITE enduit mince sur polystyrène 140;WDVS Dünnputz auf EPS 140;m2;06 Façades;WDVS (18345)
+EU-O 25 40 02;Enduit hydraulique 3 couches sur maçonnerie;Mineralischer Putz 3 Lagen;m2;06 Façade / 05;Putzarbeiten (18350)
+EU-O 25 40 03;ITE enduit mince sur laine de roche 140;WDVS Dünputz auf Steinwolle 140;m2;06 Façade;WDVS (18345)
 EU-O 26 30 01;Faux plafond dalles 60x60 sur ossature;Abgehängte Decke 60x60;m2;07 Plâtrerie;Trockenbauarbeiten (18340)
+EU-O 26 30 02;Faux plafond BA13 sur fourrure;Abgehängte Decke Gipsplatten;m2;07 Second œuvre;Trockenbauarb. (18340)
 EU-O 27 10 01;Carrelage grès cérame 60x60 collé;fliesen 60x60 k;;;
+EU-O 27 10 02;Parquet contrecollé chêne collé plein surface;Fertigparkett Eiche vollflächig verklebt;m2;14 Revêtements;Bodenbelagsarb.
+EU-O 27 10 03;Revêtement de sol LVT clipsé;Klick-Vinylboden;m2;14 Revêtements;Bodenbelagsarb.
+EU-O 27 10 04;Faïence murale 25x33 collée;Wandfliesen 25x33 verklebt;m2;14 Revêtements;Fliesenarb. (18352)
+EU-O 27 20 01;Moquette tuftée posée collée;Tufting-Teppich verklebt;m2;14 Revêtements;Bodenbelagsarb.
+EU-O 27 30 01;Revêtement mural papier peint intissé;Vlies-Tapete;m2;15 Peinture;Malerarb. (18363)
 EU-O 27 40 01;Peinture acrylique mate 2 couches sur enduit;Dispersionsfarbe 2 Anstriche;m2;15 Peinture;Malerarbeiten (18363)
+EU-O 27 40 02;Enduit de finition à la chaux 2 mm;Kalkfinishputz 2mm;m2;15 Peinture;Putz-/Stuckarb. (18350)
 EU-O 28 10 01;Porte intérieure âme alvéolée boisée + bâti;Innentüre Röhrenspan + Zarge;u;07 Menuiseries int.;Tischlerarbeiten (18355)
+EU-O 28 10 02;Porte intérieure à âme pleine + bâti;Innentür Massivkern + Zarge;u;07 Second œuvre;Tischlerarb. (18355)
+EU-O 28 10 03;Bloc-porte pare-flammes 1/2 h;T30 Türabschluss;u;07 Second œuvre / SSI;Tischler-/Metallbauarb.
+EU-O 28 20 01;Placard 2 vantaux mélaminé;Einbauschrank 2-türig Melamin;u;07 Second œuvre;Tischlerarb. (18355)
+EU-O 29 01 01;Main courante inox;Edelstahlhandlauf;ml;07 Second œuvre;Metallbauarb.
+EU-O 29 01 02;Garde-corps verre feuilleté sur potelets;Glasbrüstung auf Pfosten;ml;07 Second œuvre;Metall-/Glasbauarb.
+EU-O 31 10 01;Réseau d'alimentation PER diam. 20;PEX-Trinkwasserleitung 20;ml;16 Plomberie;SHK (18381)
+EU-O 31 20 01;Réseau d'évacuation PVC diam. 100;PVC-Abwasserleitung 100;ml;16 Plomberie;SHK (18381)
 EU-O 31 30 01;WC suspendu avec bâti-support;WC hängend mit Vorwandelement;u;16 Plomberie;Gas-/Wasserarb. (18381)
+EU-O 31 30 02;Douche à l'italienne (receveur extra-plat + robinetterie);Bodengleiche Dusche (Duschwanne + Armatur);u;16 Plomberie;SHK (18381)
+EU-O 31 30 03;Lavabo sur colonne + mitigeur;Waschbecken mit Fuß + Mischbatterie;u;16 Plomberie;SHK (18381)
+EU-O 31 30 04;Évier inox 2 bacs encastré + mitigeur;Edelstahlspüle 2 Becken + Batterie;u;16 Plomberie;SHK (18381)
+EU-O 32 10 01;Chaudière gaz à condensation 24 kW;Gas-Brennwertkessel 24 kW;u;17 CVC;SHK
+EU-O 32 10 02;Pompe à chaleur air/eau 8 kW;Luft-Wasser-Wärmepumpe 8 kW;u;17 CVC;SHK
+EU-O 32 20 01;Radiateur acier type 22 avec robinet thermostatique;Stahlheizkörper Typ 22 mit Thermostatventil;u;17 CVC;SHK
+EU-O 32 20 02;Plancher chauffant hydraulique;Warmwasser-Fußbodenheizung;m2;17 CVC;SHK
+EU-O 32 30 02;VMC simple flux hygroréglable;Dezentrale Lüftung feuchteregelt;u;17 CVC;SHK / Lüftung
 EU-O 33 10 01;Circuit éclairage (point lumineux);Beleuchtungsstromkreis;u;18 Électricité;Elektroinstallationen
+EU-O 33 10 02;Tableau électrique avec disjoncteurs;Zählerschrank mit Schützen;u;18 Électricité;Elektroinstallationen
+EU-O 33 10 03;Point lumineux DCL;Lichtauslass DCL;u;18 Électricité;Elektroinstallationen
+EU-O 33 20 01;Réseau ICTA diam. 25 avec tire-fil;Leerrohr ICTA 25 mit Zugdraht;ml;18 Électricité;Elektroinstallationen
+EU-O 33 30 02;Réglette LED encastrée 1200 mm 36 W;Einbauleuchte LED 1200mm 36W;u;18 Électricité;Elektroinstallationen
+EU-O 34 01 01;Ascenseur 6 personnes / 4 arrêts;Aufzug 6 Personen / 4 Halte;u;Ascenseurs;Aufzugsarbeiten
+EU-O 35 01 01;Point de détection incendie (détecteur + boucle);Brandmeldepunkt (Melder + Schleife);u;SSI;Brandschutz
+EU-O 40 01 01;Clôture grillagée sur potelets;Zaun auf Pfosten;ml;40 Aménagements ext.;Aussenanlagen
+EU-O 40 10 01;Dalle extérieure grès cérame 60x60 sur lit de sable;Bodenbelag Feinsteinzeug auf Sandbett;m2;40 Aménagements ext.;Aussenanlagen
+EU-O 40 20 01;Engazonnement avec préparation de sol;Rasenansaat mit Bodenvorbereitung;m2;40 Aménagements ext.;Aussenanlagen / Gartenbau
