@@ -1,122 +1,122 @@
-﻿10	Fondations et infrastructure	
-10 10	Semelles filantes	10
-10 20	Semelles isolées	10
-10 30	Pieux et micropieux	10
-10 40	Radier général	10
-10 50	Parois moulées et soutènements	10
-10 60	Longrines	10
-10 70	Murs de fondation	10
-10 80	Cuvelage (bassin enterré)	10
-15	Élévations et superstructure	
-15 10	Ossatures	15
-15 20	Structures massives	15
-21	Murs	
-21 10	Murs extérieurs	21
-21 10 5	Murs extérieurs porteurs	21 10
-21 10 10	Murs extérieurs de remplissage	21 10
-21 10 15	Murs rideaux	21 10
-21 10 20	Refends intérieurs porteurs	21 10
-21 10 25	Cloisons intérieures	21 10
-21 30	Poteaux	21
-21 40	Poutres et linteaux	21
-21 50	Chaînages et renforts	21
-22	Planchers et dalles	
-22 10	Planchers béton armé	22
-22 20	Planchers poutrelles/hourdis	22
-22 30	Dallages	22
-22 40	Chapes	22
-23	Toitures	
-23 10	Charpentes	23
-23 20	Couvertures (revêtement)	23
-23 30	Étanchéité toiture-terrasse	23
-23 40	Zinguerie (gouttières descentes)	23
-24	Escaliers et rampes	
-24 10	Escaliers principaux	24
-24 20	Rampes	24
-25	Façades et enveloppe	
-25 10	Bardages et façades ventilées	25
-25 20	Menuiseries extérieures	25
-25 30	Volets et protections solaires	25
-25 40	Enduits et ITE	25
-26	Cloisons et doublages	
-26 10	Cloisons sèches	26
-26 20	Doublages et isolation intérieure	26
-26 30	Faux plafonds	26
-27	Revêtements et finitions	
-27 10	Revêtements de sol durs	27
-27 20	Revêtements de sol souples	27
-27 30	Revêtements muraux	27
-27 40	Peintures et laques	27
-28	Menuiseries intérieures et agencement	
-28 10	Portes intérieures	28
-28 20	Placards et agencements fixes	28
-29	Ouvrages métalliques (serrurerie)	
-30	Vitrerie et miroiterie	
-31	Plomberie et sanitaire	
-31 10	Réseaux d'eau potable	31
-31 20	Réseaux d'évacuation	31
-31 30	Appareils sanitaires	31
-32	Chauffage ventilation climatisation	
-32 10	Production de chaleur	32
-32 20	Distribution et émission	32
-32 30	Ventilation et désenfumage	32
-33	Électricité	
-33 10	Courant fort	33
-33 20	Courant faible et ICTA	33
-33 30	Éclairage	33
-34	Ascenseurs et élévateurs	
-35	Sécurité incendie (SSI)	
-51	Démolition - déposes	
-51 1	Démolition - déposes	51
+﻿10	Cimentación e infraestructura	
+10 10	Zapatas corridas	10
+10 20	Zapatas aisladas	10
+10 30	Pilotes y micropilotes	10
+10 40	Losa de cimentación	10
+10 50	Pantallas y contención	10
+10 60	Vigas de cimentación	10
+10 70	Muros de cimentación	10
+10 80	Vasco estanco	10
+15	Estructura elevada	
+15 10	Estructuras aporticadas	15
+15 20	Estructuras masivas	15
+21	Muros	
+21 10	Muros exteriores	21
+21 10 5	Muros exteriores portantes	21 10
+21 10 10	Muros exteriores de relleno	21 10
+21 10 15	Muros cortina	21 10
+21 10 20	Tabiques interiores portantes	21 10
+21 10 25	Tabiques interiores	21 10
+21 30	Pilares	21
+21 40	Vigas y dinteles	21
+21 50	Riostras y refuerzos	21
+22	Forjados y soleras	
+22 10	Forjados de hormigón armado	22
+22 20	Forjados de viguetas y bovedillas	22
+22 30	Soleras	22
+22 40	Capas de nivelación	22
+23	Cubiertas	
+23 10	Estructuras de cubierta	23
+23 20	Cubiertas (revestimiento)	23
+23 30	Impermeabilización de cubierta	23
+23 40	Canalones y bajantes	23
+24	Escaleras y rampas	
+24 10	Escaleras principales	24
+24 20	Rampas	24
+25	Fachada y envolvente	
+25 10	Revestimientos y fachadas ventiladas	25
+25 20	Carpintería exterior	25
+25 30	Persianas y protección solar	25
+25 40	Revocos y ETICS	25
+26	Tabiques y trasdosados	
+26 10	Tabiques de placa	26
+26 20	Trasdosados y aislamiento interior	26
+26 30	Falsos techos	26
+27	Revestimientos y acabados	
+27 10	Revestimientos de suelo duros	27
+27 20	Revestimientos de suelo flexibles	27
+27 30	Revestimientos murales	27
+27 40	Pinturas y barnices	27
+28	Carpintería interior y equipamiento	
+28 10	Puertas interiores	28
+28 20	Armarios y carpintería fija	28
+29	Trabajos metálicos y cerrajería	
+30	Vitreria y espejería	
+31	Fontanería y saneamiento	
+31 10	Redes de agua potable	31
+31 20	Redes de evacuación	31
+31 30	Aparatos sanitarios	31
+32	Climatización (HVAC)	
+32 10	Producción de calor	32
+32 20	Distribución y emisión	32
+32 30	Ventilación y extracción de humos	32
+33	Electricidad	
+33 10	Electricidad de potencia	33
+33 20	Corriente débil y canalización	33
+33 30	Alumbrado	33
+34	Ascensores y elevadores	
+35	Seguridad contra incendios (SSI)	
+51	Demolición - retiros	
+51 1	Demolición - retiros	51
 51 1 1	Dépose de menuiseries existantes [u]	51 1
-51 10	Démolition - déposes	51
+51 10	Demolición - retiros	51
 51 10 1	Déconstruction de cloisons [m2]	51 10
-51 20	Démolition - déposes	51
+51 20	Demolición - retiros	51
 51 20 1	Déconstruction de dallage béton ép. 15 cm [m3]	51 20
-51 30	Démolition - déposes	51
+51 30	Demolición - retiros	51
 51 30 1	Évacuation gravats vers centre de tri tri-sélectif [t]	51 30
-51 40	Démolition - déposes	51
+51 40	Demolición - retiros	51
 51 40 1	Curage complet de bâtiment [m2]	51 40
-52	Terrassement - VRD	
-52 10	Terrassement - VRD	52
+52	Movimiento de tierras - urbanización	
+52 10	Movimiento de tierras - urbanización	52
 52 10 1	Décapage et stockage de terre végétale [m2]	52 10
-52 20	Terrassement - VRD	52
+52 20	Movimiento de tierras - urbanización	52
 52 20 1	Fouille en pleine masse [m3]	52 20
-52 30	Terrassement - VRD	52
+52 30	Movimiento de tierras - urbanización	52
 52 30 1	Remblai compacté par couches de 20 cm [m3]	52 30
-52 40	Terrassement - VRD	52
+52 40	Movimiento de tierras - urbanización	52
 52 40 1	Tout-venant compacté sous dallage ép. 20 cm [m3]	52 40
-52 50	Terrassement - VRD	52
+52 50	Movimiento de tierras - urbanización	52
 52 50 1	Bordure béton type A [ml]	52 50
-52 60	Terrassement - VRD	52
+52 60	Movimiento de tierras - urbanización	52
 52 60 1	Chaussée grave-bitume ép. 10 cm [m2]	52 60
-52 70	Terrassement - VRD	52
+52 70	Movimiento de tierras - urbanización	52
 52 70 1	Caniveau à grille fonte [ml]	52 70
-52 80	Terrassement - VRD	52
+52 80	Movimiento de tierras - urbanización	52
 52 80 1	Avaloir et raccordement au réseau EU [u]	52 80
-60	Fondations	
-60 10	Fondations	60
+60	Cimentación	
+60 10	Cimentación	60
 60 10 1	Semelle filante béton armé (fouille comprise) [m3]	60 10
 60 10 2	Semelle isolée béton armé [m3]	60 10
-60 30	Fondations	60
+60 30	Cimentación	60
 60 30 1	Pieu foré béton armé diam. 600 [ml]	60 30
-60 40	Fondations	60
+60 40	Cimentación	60
 60 40 1	Radier ép. 25 cm avec treillis soudé [m2]	60 40
-60 50	Fondations	60
+60 50	Cimentación	60
 60 50 1	Mur de soutènement béton armé ép. 30 [m2]	60 50
-60 60	Fondations	60
+60 60	Cimentación	60
 60 60 1	Longrine béton armé 20x40 [ml]	60 60
-60 70	Fondations	60
+60 70	Cimentación	60
 60 70 1	Mur de fondation blocs béton 20 [m2]	60 70
-60 80	Fondations	60
+60 80	Cimentación	60
 60 80 1	Cuvelage étanche bicouche en sous-sol [m2]	60 80
-65	Structure - ossature	
-65 10	Structure - ossature	65
+65	Estructura - esqueleto	
+65 10	Estructura - esqueleto	65
 65 10 1	Poteau ossature métallique IPE 200 [ml]	65 10
-65 20	Structure - ossature	65
+65 20	Estructura - esqueleto	65
 65 20 1	Poutre métallique IPE 300 [ml]	65 20
-71	Murs	
-71 5	Murs	71
+71	Muros	
+71 5	Muros	71
 71 5 1	Mur porteur blocs béton 20 (hourdage compris) [m2]	71 5
 71 5 2	Voile béton armé ép. 18 [m2]	71 5
 71 5 3	Mur porteur briques 20 (hourdage compris) [m2]	71 5
@@ -124,197 +124,197 @@
 71 5 5	Chaînage horizontal de rive [ml]	71 5
 71 5 6	Poteau bois lamellé-collé 20x40 [ml]	71 5
 71 5 7	Mur ossature bois avec isolation 140 mm [m2]	71 5
-71 10	Murs	71
+71 10	Muros	71
 71 10 1	Mur extérieur remplissage briques 20 [m2]	71 10
 71 10 5	Linteau béton armé sur baie [ml]	71 10
-71 25	Murs	71
+71 25	Muros	71
 71 25 1	Cloison plaque de plâtre BA13 sur ossature (ép. 98) [m2]	71 25
 71 25 3	Cloison hydrofuge BA13 sur ossature (locaux humides) [m2]	71 25
-71 40	Murs	71
+71 40	Muros	71
 71 40 1	Poutre béton armé 20x40 [ml]	71 40
-72	Planchers	
-72 10	Planchers	72
+72	Forjados	
+72 10	Forjados	72
 72 10 1	Plancher poutrelles-hourdis + dalle compression 20+5 [m2]	72 10
 72 10 2	Dalle pleine béton armé ép. 15 cm [m2]	72 10
 72 10 3	Plancher collaborant acier-béton sur bac [m2]	72 10
-72 20	Planchers	72
+72 20	Forjados	72
 72 20 2	Plancher prédalles précontraintes ép. 15+5 [m2]	72 20
-72 30	Planchers	72
+72 30	Forjados	72
 72 30 1	Dallage béton armé ép. 12 avec treillis soudé [m2]	72 30
-72 40	Planchers	72
+72 40	Forjados	72
 72 40 1	Chape ciment sculptée ép. 5 cm [m2]	72 40
 72 40 2	Chape fluide anhydrite ép. 5 cm [m2]	72 40
 72 40 3	Isolation sous chape PSE ép. 30 [m2]	72 40
-73	Toitures	
-73 10	Toitures	73
+73	Cubiertas	
+73 10	Cubiertas	73
 73 10 1	Charpente industrialisée fermettes [m2]	73 10
 73 10 2	Charpente traditionnelle bois massif [m2]	73 10
-73 20	Toitures	73
+73 20	Cubiertas	73
 73 20 1	Couverture tuiles terre cuite sur liteaux [m2]	73 20
 73 20 2	Couverture ardoises naturelles sur voliges [m2]	73 20
 73 20 3	Couverture bac acier laqué [m2]	73 20
 73 20 4	Faîtage et rives en tuiles spéciales [ml]	73 20
-73 30	Toitures	73
+73 30	Cubiertas	73
 73 30 1	Étanchéité bicouche SBS sur isolant [m2]	73 30
 73 30 2	Étanchéité bicouche sur terrasse accessible [m2]	73 30
 73 30 3	Isolation sous étanchéité PIR ép. 120 [m2]	73 30
-73 40	Toitures	73
+73 40	Cubiertas	73
 73 40 2	Gouttière aluminium développé 100 [ml]	73 40
 73 40 3	Descente EP diam. 100 [ml]	73 40
-74	Escaliers	
-74 10	Escaliers	74
+74	Escaleras	
+74 10	Escaleras	74
 74 10 1	Escalier béton deux volées avec palier [u]	74 10
 74 10 2	Escalier hélicoïdal métal-bois [u]	74 10
-74 20	Escaliers	74
+74 20	Escaleras	74
 74 20 1	Main courante double PMR [ml]	74 20
-75	Façades	
-75 10	Façades	75
+75	Fachadas	
+75 10	Fachadas	75
 75 10 1	Bardage bois MTH sur tasseaux [m2]	75 10
 75 10 2	Bardage zinc à joint debout double peau [m2]	75 10
 75 10 3	Façade ventilée cassettes aluminium sur montants [m2]	75 10
-75 20	Façades	75
+75 20	Fachadas	75
 75 20 1	Fenêtre alu coulissante double vitrage [m2]	75 20
 75 20 2	Fenêtre PVC 2 vantaux oscillo-battante [u]	75 20
 75 20 3	Porte d'entrée aluminium à rupture de pont thermique [u]	75 20
 75 20 5	Fenêtre de toit VR 78x118 rotation [u]	75 20
 75 20 6	Porte de garage sectionnelle motorisée 240x200 [u]	75 20
 75 20 7	Baie vitrée coulissante alu 2 vantaux grand format [m2]	75 20
-75 30	Façades	75
+75 30	Fachadas	75
 75 30 1	Volet roulant aluminium motorisé [u]	75 30
 75 30 2	Store banne motorisé 4,0 x 2,0 m [u]	75 30
 75 30 3	Brise-soleil orientables lames aluminium [m2]	75 30
-75 40	Façades	75
+75 40	Fachadas	75
 75 40 1	ITE enduit mince sur polystyrène 140 [m2]	75 40
 75 40 2	Enduit hydraulique 3 couches sur maçonnerie [m2]	75 40
 75 40 3	ITE enduit mince sur laine de roche 140 [m2]	75 40
 75 40 4	Lasure façade 2 couches sur bois [m2]	75 40
-76	Cloisons - isolation	
-76 20	Cloisons - isolation	76
+76	Tabiques - aislamiento	
+76 20	Tabiques - aislamiento	76
 76 20 1	Isolation combles perdus ouate de cellulose ép. 300 [m2]	76 20
 76 20 2	Doublage BA13 sur rail avec PSE 100 [m2]	76 20
-76 30	Cloisons - isolation	76
+76 30	Tabiques - aislamiento	76
 76 30 1	Faux plafond dalles 60x60 sur ossature [m2]	76 30
 76 30 2	Faux plafond BA13 sur fourrure [m2]	76 30
 76 30 3	Faux plafond acoustique perforé [m2]	76 30
-77	Finitions	
-77 10	Finitions	77
+77	Acabados	
+77 10	Acabados	77
 77 10 1	Carrelage grès cérame 60x60 collé [m2]	77 10
 77 10 2	Parquet contrecollé chêne collé plein surface [m2]	77 10
 77 10 3	Revêtement de sol LVT clipsé [m2]	77 10
 77 10 4	Faïence murale 25x33 collée [m2]	77 10
 77 10 5	Marche d'escalier chêne + contremarche [u]	77 10
-77 20	Finitions	77
+77 20	Acabados	77
 77 20 1	Moquette tuftée posée collée [m2]	77 20
 77 20 2	Sol PVC en lés soudés [m2]	77 20
 77 20 3	Revêtement résine époxy 2 mm [m2]	77 20
-77 30	Finitions	77
+77 30	Acabados	77
 77 30 1	Revêtement mural papier peint intissé [m2]	77 30
 77 30 2	Lambris bois mur sur tasseaux [m2]	77 30
-77 40	Finitions	77
+77 40	Acabados	77
 77 40 1	Peinture acrylique mate 2 couches sur enduit [m2]	77 40
 77 40 2	Enduit de finition à la chaux 2 mm [m2]	77 40
 77 40 3	Peinture de finition sur radiateur [u]	77 40
-78	Menuiseries intérieures	
-78 10	Menuiseries intérieures	78
+78	Carpintería interior	
+78 10	Carpintería interior	78
 78 10 1	Porte intérieure âme alvéolée boisée + bâti [u]	78 10
 78 10 2	Porte intérieure à âme pleine + bâti [u]	78 10
 78 10 3	Bloc-porte pare-flammes 1/2 h [u]	78 10
 78 10 4	Bloc-porte coupe-feu EI 60 [u]	78 10
-78 20	Menuiseries intérieures	78
+78 20	Carpintería interior	78
 78 20 1	Placard 2 vantaux mélaminé [u]	78 20
 78 20 2	Cuisine équipée (meubles + plan de travail + façades) [ml]	78 20
 78 20 3	Plan de travail stratifié ép. 38 post-formé [ml]	78 20
-79	Métallerie	
-79 1	Métallerie	79
+79	Metalistería	
+79 1	Metalistería	79
 79 1 1	Main courante inox [ml]	79 1
 79 1 2	Garde-corps verre feuilleté sur potelets [ml]	79 1
-80	Vitrerie	
-80 1	Vitrerie	80
+80	Vitreria	
+80 1	Vitreria	80
 80 1 1	Miroir ép. 6 mm collé sur panneau [m2]	80 1
 80 1 2	Remplacement vitrage isolant 4/16/4 FE [m2]	80 1
-81	Plomberie - sanitaire	
-81 10	Plomberie - sanitaire	81
+81	Fontanería - sanitarios	
+81 10	Fontanería - sanitarios	81
 81 10 1	Réseau d'alimentation PER diam. 20 [ml]	81 10
-81 20	Plomberie - sanitaire	81
+81 20	Fontanería - sanitarios	81
 81 20 1	Réseau d'évacuation PVC diam. 100 [ml]	81 20
-81 30	Plomberie - sanitaire	81
+81 30	Fontanería - sanitarios	81
 81 30 1	WC suspendu avec bâti-support [u]	81 30
 81 30 2	Douche à l'italienne (receveur extra-plat + robinetterie) [u]	81 30
 81 30 3	Lavabo sur colonne + mitigeur [u]	81 30
 81 30 4	Évier inox 2 bacs encastré + mitigeur [u]	81 30
 81 30 5	Baignoire acrylique + mitigeur thermostatique [u]	81 30
 81 30 6	Colonne de douche thermostatique encastrée [u]	81 30
-82	CVC	
-82 10	CVC	82
+82	HVAC	
+82 10	HVAC	82
 82 10 1	Chaudière gaz à condensation 24 kW [u]	82 10
 82 10 2	Pompe à chaleur air/eau 8 kW [u]	82 10
 82 10 3	Ballon ECS accumulé 300 L [u]	82 10
 82 10 4	Chauffe-eau thermodynamique 200 L [u]	82 10
-82 20	CVC	82
+82 20	HVAC	82
 82 20 1	Radiateur acier type 22 avec robinet thermostatique [u]	82 20
 82 20 2	Plancher chauffant hydraulique [m2]	82 20
 82 20 3	Radiateur électrique à inertie 1500 W [u]	82 20
 82 20 4	Radiateur sèche-serviettes mixte [u]	82 20
-82 30	CVC	82
+82 30	HVAC	82
 82 30 1	VMC double flux avec récupération de chaleur [u]	82 30
 82 30 2	VMC simple flux hygroréglable [u]	82 30
 82 30 3	Gaine souple isolée diam. 160 [ml]	82 30
-83	Électricité	
-83 10	Électricité	83
+83	Electricidad	
+83 10	Electricidad	83
 83 10 1	Circuit éclairage (point lumineux) [u]	83 10
 83 10 2	Tableau électrique avec disjoncteurs [u]	83 10
 83 10 3	Point lumineux DCL [u]	83 10
 83 10 4	Prise 16 A + conduit et boîte [u]	83 10
 83 10 5	Interrupteur va-et-vient [u]	83 10
 83 10 6	Spot LED encastré 7 W dimmable [u]	83 10
-83 20	Électricité	83
+83 20	Electricidad	83
 83 20 1	Réseau ICTA diam. 25 avec tire-fil [ml]	83 20
 83 20 2	Prise RJ45 Cat 6 + coffret de communication [u]	83 20
-83 30	Électricité	83
+83 30	Electricidad	83
 83 30 2	Réglette LED encastrée 1200 mm 36 W [u]	83 30
 83 30 3	Applique extérieure IP65 avec détection [u]	83 30
-83 40	Électricité	83
+83 40	Electricidad	83
 83 40 1	Panneau photovoltaïque 400 Wc sur rails [u]	83 40
-84	Ascenseurs	
-84 1	Ascenseurs	84
+84	Ascensores	
+84 1	Ascensores	84
 84 1 1	Ascenseur 6 personnes / 4 arrêts [u]	84 1
-85	SSI - sécurité incendie	
-85 1	SSI - sécurité incendie	85
+85	SSI - seguridad contra incendios	
+85 1	SSI - seguridad contra incendios	85
 85 1 1	Point de détection incendie (détecteur + boucle) [u]	85 1
 85 1 2	Extincteur portatif 6 L ABC [u]	85 1
-90	Abords - clôtures	
-90 1	Abords - clôtures	90
+90	Entorno - vallados	
+90 1	Entorno - vallados	90
 90 1 1	Clôture grillagée sur potelets [ml]	90 1
-90 2	Abords - clôtures	90
+90 2	Entorno - vallados	90
 90 2 1	Portail coulissant motorisé 4 m [u]	90 2
-90 3	Fondations spéciales	90
-90 10	Abords - clôtures	90
+90 3	Cimentaciones especiales	90
+90 10	Entorno - vallados	90
 90 10 1	Dalle extérieure grès cérame 60x60 sur lit de sable [m2]	90 10
-90 11	Charpente	90
-90 12	Couverture	90
-90 13	Étanchéité	90
-90 14	Façades / bardages	90
-90 15	Menuiseries extérieures	90
-90 16	Isolation	90
-90 20	Abords - clôtures	90
+90 11	Estructura de madera	90
+90 12	Cubierta	90
+90 13	Impermeabilización	90
+90 14	Fachadas / revestimientos	90
+90 15	Carpintería exterior	90
+90 16	Aislamiento	90
+90 20	Entorno - vallados	90
 90 20 1	Engazonnement avec préparation de sol [m2]	90 20
-90 21	Plâtrerie / cloisons / doublages	90
-90 22	Revêtements sols et murs	90
-90 23	Peinture	90
-90 24	Serrurerie / métallerie	90
-90 30	Abords - clôtures	90
+90 21	Pladur / tabiques / trasdosados	90
+90 22	Revestimientos de suelos y paredes	90
+90 23	Pintura	90
+90 24	Cerrajería / metalistería	90
+90 30	Entorno - vallados	90
 90 30 1	Plantation arbre 8-10 cm de circonférence [u]	90 30
-90 31	CVC / chauffage-ventilation	90
-90 32	Électricité CFO/CFA	90
-90 33	Ascenseurs / élévateurs	90
-90 34	SSI / sécurité incendie	90
-90 40	Abords - clôtures	90
+90 31	HVAC / calefacción-ventilación	90
+90 32	Electricidad (fuerza/débil)	90
+90 33	Ascensores / elevadores	90
+90 34	SSI - seguridad contra incendios	90
+90 40	Entorno - vallados	90
 90 40 1	Muret de jardin blocs à bancher ép. 20 [m2]	90 40
-95	Ouvrages immatériels	
-95 10	Implantation et tracing	95
-95 20	Réservations	95
-95 30	Stocks et dépôts de matériaux	95
-95 30 10	Stock de terre réemployable	95 30
-95 40	Zones de chantier (base vie grues)	95
-95 50	Élément de démolition repérage	95
-95 60	Chantier provisoires (étaiement)	95
+95	Obra inmaterial	
+95 10	Replanteo y trazado	95
+95 20	Reservas	95
+95 30	Acopios y almacenes	95
+95 30 10	Acopio de tierra reutilizable	95 30
+95 40	Zonas de obra (base de vida, grúas)	95
+95 50	Elementos de demolición, señalización	95
+95 60	Provisionales de obra (apuntalamiento)	95

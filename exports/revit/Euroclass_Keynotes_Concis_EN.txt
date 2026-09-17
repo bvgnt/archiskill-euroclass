@@ -1,0 +1,320 @@
+﻿10	Foundations and substructure	
+10 10	Strip footings	10
+10 20	Pad footings	10
+10 30	Piles and micropiles	10
+10 40	Raft foundation	10
+10 50	Diaphragm walls and retaining	10
+10 60	Ground beams	10
+10 70	Foundation walls	10
+10 80	Tanked basement	10
+15	Superstructure	
+15 10	Framed structures	15
+15 20	Solid structures	15
+21	Walls	
+21 10	Exterior walls	21
+21 10 5	Loadbearing exterior walls	21 10
+21 10 10	Non-loadbearing exterior walls	21 10
+21 10 15	Curtain walls	21 10
+21 10 20	Interior loadbearing crosswalls	21 10
+21 10 25	Interior partitions	21 10
+21 30	Columns	21
+21 40	Beams and lintels	21
+21 50	Ring beams and stiffeners	21
+22	Floors and slabs	
+22 10	Reinforced concrete floors	22
+22 20	Beam-and-block floors	22
+22 30	Slab on grade	22
+22 40	Screeds	22
+23	Roofs	
+23 10	Roof framing	23
+23 20	Roof coverings	23
+23 30	Roof waterproofing	23
+23 40	Gutters and downpipes	23
+24	Stairs and ramps	
+24 10	Main stairs	24
+24 20	Ramps	24
+25	Facade and envelope	
+25 10	Cladding and rainscreen	25
+25 20	External windows and doors	25
+25 30	Shutters and solar shading	25
+25 40	Render and ETICS	25
+26	Partitions and linings	
+26 10	Drywall partitions	26
+26 20	Linings and internal insulation	26
+26 30	Suspended ceilings	26
+27	Finishes	
+27 10	Hard floor finishes	27
+27 20	Soft floor finishes	27
+27 30	Wall finishes	27
+27 40	Painting and coating	27
+28	Internal joinery and fit-out	
+28 10	Internal doors	28
+28 20	Fixed furniture and joinery	28
+29	Metalwork and ironmongery	
+30	Glazing	
+31	Plumbing and sanitary	
+31 10	Potable water networks	31
+31 20	Drainage networks	31
+31 30	Sanitary fixtures	31
+32	HVAC	
+32 10	Heat generation	32
+32 20	Distribution and emission	32
+32 30	Ventilation and smoke extract	32
+33	Electrical	
+33 10	Power installation	33
+33 20	Low current and containment	33
+33 30	Lighting	33
+34	Lifts and vertical transport	
+35	Fire safety systems	
+51	Demolition - removals	
+51 1	Demolition - removals	51
+51 1 1	Removal of existing joinery [u]	51 1
+51 10	Demolition - removals	51
+51 10 1	Demolition of partitions [m2]	51 10
+51 20	Demolition - removals	51
+51 20 1	Demolition of concrete slab on grade, 15 cm [m3]	51 20
+51 30	Demolition - removals	51
+51 30 1	Rubble removal to sorting centre [t]	51 30
+51 40	Demolition - removals	51
+51 40 1	Full building strip-out [m2]	51 40
+52	Earthworks - external works	
+52 10	Earthworks - external works	52
+52 10 1	Topsoil strip and stockpile [m2]	52 10
+52 20	Earthworks - external works	52
+52 20 1	Bulk excavation [m3]	52 20
+52 30	Earthworks - external works	52
+52 30 1	Compacted backfill in 20 cm layers [m3]	52 30
+52 40	Earthworks - external works	52
+52 40 1	Compacted subbase under slab, 20 cm [m3]	52 40
+52 50	Earthworks - external works	52
+52 50 1	Concrete kerb, type A [ml]	52 50
+52 60	Earthworks - external works	52
+52 60 1	Bituminous pavement, 10 cm [m2]	52 60
+52 70	Earthworks - external works	52
+52 70 1	Cast-iron gully channel [ml]	52 70
+52 80	Earthworks - external works	52
+52 80 1	Gully pot and connection to drainage [u]	52 80
+60	Foundations	
+60 10	Foundations	60
+60 10 1	RC strip footing (excavation incl.) [m3]	60 10
+60 10 2	RC pad footing [m3]	60 10
+60 30	Foundations	60
+60 30 1	Bored RC pile, dia. 600 [ml]	60 30
+60 40	Foundations	60
+60 40 1	Raft, 25 cm, with welded mesh [m2]	60 40
+60 50	Foundations	60
+60 50 1	RC retaining wall, 30 cm [m2]	60 50
+60 60	Foundations	60
+60 60 1	RC ground beam 20x40 [ml]	60 60
+60 70	Foundations	60
+60 70 1	Foundation wall, 20 cm concrete blocks [m2]	60 70
+60 80	Foundations	60
+60 80 1	Two-coat basement tanking [m2]	60 80
+65	Structure - framing	
+65 10	Structure - framing	65
+65 10 1	Steel column IPE 200 [ml]	65 10
+65 20	Structure - framing	65
+65 20 1	Steel beam IPE 300 [ml]	65 20
+71	Walls	
+71 5	Walls	71
+71 5 1	Loadbearing block wall, 20 cm (bedding incl.) [m2]	71 5
+71 5 2	RC wall, 18 cm [m2]	71 5
+71 5 3	Loadbearing brick wall, 20 cm (bedding incl.) [m2]	71 5
+71 5 4	RC column 30x30 [ml]	71 5
+71 5 5	Horizontal edge ring beam [ml]	71 5
+71 5 6	Glulam column 20x40 [ml]	71 5
+71 5 7	Timber-frame wall with 140 mm insulation [m2]	71 5
+71 10	Walls	71
+71 10 1	External infill brick wall, 20 cm [m2]	71 10
+71 10 5	RC lintel over opening [ml]	71 10
+71 25	Walls	71
+71 25 1	Plasterboard stud partition (98 mm) [m2]	71 25
+71 25 3	Moisture-resistant plasterboard partition (wet rooms) [m2]	71 25
+71 40	Walls	71
+71 40 1	RC beam 20x40 [ml]	71 40
+72	Floors	
+72 10	Floors	72
+72 10 1	Beam-and-block floor + 20+5 topping [m2]	72 10
+72 10 2	Solid RC slab, 15 cm [m2]	72 10
+72 10 3	Composite steel-concrete floor on deck [m2]	72 10
+72 20	Floors	72
+72 20 2	Prestressed precast floor, 15+5 [m2]	72 20
+72 30	Floors	72
+72 30 1	Ground slab, 12 cm, with welded mesh [m2]	72 30
+72 40	Floors	72
+72 40 1	Cement screed, 5 cm [m2]	72 40
+72 40 2	Flowing anhydrite screed, 5 cm [m2]	72 40
+72 40 3	EPS insulation under screed, th. 30 [m2]	72 40
+73	Roofs	
+73 10	Roofs	73
+73 10 1	Trussed-rafter roof [m2]	73 10
+73 10 2	Traditional solid-timber roof [m2]	73 10
+73 20	Roofs	73
+73 20 1	Clay-tile roof on battens [m2]	73 20
+73 20 2	Natural-slate roof on sarking [m2]	73 20
+73 20 3	Lacquered steel-sheet roofing [m2]	73 20
+73 20 4	Ridge and verges in special tiles [ml]	73 20
+73 30	Roofs	73
+73 30 1	SBS two-ply waterproofing on insulation [m2]	73 30
+73 30 2	Two-ply waterproofing, accessible terrace [m2]	73 30
+73 30 3	PIR insulation under waterproofing, th. 120 [m2]	73 30
+73 40	Roofs	73
+73 40 2	Aluminium gutter, 100 developed width [ml]	73 40
+73 40 3	Rainwater downpipe, dia. 100 [ml]	73 40
+74	Stairs	
+74 10	Stairs	74
+74 10 1	Two-flight concrete stair with landing [u]	74 10
+74 10 2	Spiral steel-and-timber stair [u]	74 10
+74 20	Stairs	74
+74 20 1	Double handrail (accessible) [ml]	74 20
+75	Facades	
+75 10	Facades	75
+75 10 1	Timber cladding (MTH) on battens [m2]	75 10
+75 10 2	Zinc standing-seam cladding, double skin [m2]	75 10
+75 10 3	Ventilated aluminium-cassette facade on rails [m2]	75 10
+75 20	Facades	75
+75 20 1	Sliding aluminium double-glazed window [m2]	75 20
+75 20 2	PVC window, 2 sashes, tilt-and-turn [u]	75 20
+75 20 3	Aluminium entrance door with thermal break [u]	75 20
+75 20 5	Roof window, pivot, 78x118 [u]	75 20
+75 20 6	Motorised sectional garage door 240x200 [u]	75 20
+75 20 7	Large-format 2-sash sliding aluminium glazing [m2]	75 20
+75 30	Facades	75
+75 30 1	Motorised aluminium roller shutter [u]	75 30
+75 30 2	Motorised awning 4.0 x 2.0 m [u]	75 30
+75 30 3	Adjustable aluminium-louvre brise-soleil [m2]	75 30
+75 40	Facades	75
+75 40 1	ETICS thin render on EPS 140 [m2]	75 40
+75 40 2	Three-coat render on masonry [m2]	75 40
+75 40 3	ETICS thin render on rock wool 140 [m2]	75 40
+75 40 4	Two-coat wood stain, external [m2]	75 40
+76	Partitions - insulation	
+76 20	Partitions - insulation	76
+76 20 1	Lost-loft insulation, blown cellulose, th. 300 [m2]	76 20
+76 20 2	Plasterboard lining on studs with EPS 100 [m2]	76 20
+76 30	Partitions - insulation	76
+76 30 1	Suspended ceiling, 60x60 tiles on grid [m2]	76 30
+76 30 2	Plasterboard suspended ceiling on furring [m2]	76 30
+76 30 3	Perforated acoustic suspended ceiling [m2]	76 30
+77	Finishes	
+77 10	Finishes	77
+77 10 1	Bonded porcelain tiles 60x60 [m2]	77 10
+77 10 2	Fully-bonded engineered oak parquet [m2]	77 10
+77 10 3	Click-system LVT flooring [m2]	77 10
+77 10 4	Bonded wall tiles 25x33 [m2]	77 10
+77 10 5	Oak stair tread + riser [u]	77 10
+77 20	Finishes	77
+77 20 1	Bonded tufted carpet [m2]	77 20
+77 20 2	PVC flooring in welded sheets [m2]	77 20
+77 20 3	Epoxy resin floor coating, 2 mm [m2]	77 20
+77 30	Finishes	77
+77 30 1	Non-woven wall covering [m2]	77 30
+77 30 2	Timber wall panelling on battens [m2]	77 30
+77 40	Finishes	77
+77 40 1	Two-coat matt acrylic paint on render [m2]	77 40
+77 40 2	Lime finishing render, 2 mm [m2]	77 40
+77 40 3	Radiator finishing paint [u]	77 40
+78	Internal joinery	
+78 10	Internal joinery	78
+78 10 1	Internal door, honeycomb core, with frame [u]	78 10
+78 10 2	Internal door, solid core, with frame [u]	78 10
+78 10 3	Fire-door set, 1/2 h [u]	78 10
+78 10 4	Fire-door set, EI 60 [u]	78 10
+78 20	Internal joinery	78
+78 20 1	Two-sash melamine wardrobe [u]	78 20
+78 20 2	Fitted kitchen (units + worktop + fronts) [ml]	78 20
+78 20 3	Postformed laminate worktop, th. 38 [ml]	78 20
+79	Metalwork	
+79 1	Metalwork	79
+79 1 1	Stainless-steel handrail [ml]	79 1
+79 1 2	Laminated-glass balustrade on posts [ml]	79 1
+80	Glazing	
+80 1	Glazing	80
+80 1 1	Mirror, 6 mm, bonded to panel [m2]	80 1
+80 1 2	Replacement double glazing 4/16/4 low-E [m2]	80 1
+81	Plumbing - sanitary	
+81 10	Plumbing - sanitary	81
+81 10 1	PEX water-supply pipe, dia. 20 [ml]	81 10
+81 20	Plumbing - sanitary	81
+81 20 1	PVC drainage pipe, dia. 100 [ml]	81 20
+81 30	Plumbing - sanitary	81
+81 30 1	Wall-hung WC with support frame [u]	81 30
+81 30 2	Walk-in shower (extra-flat tray + taps) [u]	81 30
+81 30 3	Pedestal basin + mixer tap [u]	81 30
+81 30 4	Built-in twin-bowl stainless sink + mixer [u]	81 30
+81 30 5	Acrylic bathtub + thermostatic mixer [u]	81 30
+81 30 6	Concealed thermostatic shower column [u]	81 30
+82	HVAC	
+82 10	HVAC	82
+82 10 1	Condensing gas boiler, 24 kW [u]	82 10
+82 10 2	Air/water heat pump, 8 kW [u]	82 10
+82 10 3	DHW storage cylinder, 300 L [u]	82 10
+82 10 4	Heat-pump water heater, 200 L [u]	82 10
+82 20	HVAC	82
+82 20 1	Steel radiator type 22 with TRV [u]	82 20
+82 20 2	Hydraulic underfloor heating [m2]	82 20
+82 20 3	Electric storage radiator, 1500 W [u]	82 20
+82 20 4	Dual-fuel towel rail [u]	82 20
+82 30	HVAC	82
+82 30 1	MVHR unit (dual-flow) [u]	82 30
+82 30 2	Humidity-controlled single-flow MVHR [u]	82 30
+82 30 3	Insulated flexible duct, dia. 160 [ml]	82 30
+83	Electrical	
+83 10	Electrical	83
+83 10 1	Lighting circuit (light point) [u]	83 10
+83 10 2	Consumer unit with circuit breakers [u]	83 10
+83 10 3	DCL light point [u]	83 10
+83 10 4	16 A socket + conduit and box [u]	83 10
+83 10 5	Two-way switch [u]	83 10
+83 10 6	Recessed dimmable LED spot, 7 W [u]	83 10
+83 20	Electrical	83
+83 20 1	ICTA conduit, dia. 25, with draw-wire [ml]	83 20
+83 20 2	RJ45 Cat 6 socket + comms cabinet [u]	83 20
+83 30	Electrical	83
+83 30 2	Recessed LED batten, 1200 mm, 36 W [u]	83 30
+83 30 3	Outdoor IP65 wall light with sensor [u]	83 30
+83 40	Electrical	83
+83 40 1	PV panel, 400 Wp, on rails [u]	83 40
+84	Lifts	
+84 1	Lifts	84
+84 1 1	Lift, 6 persons / 4 stops [u]	84 1
+85	Fire safety (SSI)	
+85 1	Fire safety (SSI)	85
+85 1 1	Fire-detector point (detector + loop) [u]	85 1
+85 1 2	Portable extinguisher, 6 L ABC [u]	85 1
+90	External works - fencing	
+90 1	External works - fencing	90
+90 1 1	Chain-link fence on posts [ml]	90 1
+90 2	External works - fencing	90
+90 2 1	Motorised sliding gate, 4 m [u]	90 2
+90 3	Special foundations	90
+90 10	External works - fencing	90
+90 10 1	External porcelain paving 60x60 on sand bed [m2]	90 10
+90 11	Timber framing	90
+90 12	Roofing	90
+90 13	Waterproofing	90
+90 14	Facades / cladding	90
+90 15	External windows and doors	90
+90 16	Insulation	90
+90 20	External works - fencing	90
+90 20 1	Grassing with soil preparation [m2]	90 20
+90 21	Plasterwork / partitions / linings	90
+90 22	Floor and wall finishes	90
+90 23	Painting	90
+90 24	Locksmith / metalwork	90
+90 30	External works - fencing	90
+90 30 1	Tree planting, 8-10 cm girth [u]	90 30
+90 31	HVAC / heating-ventilation	90
+90 32	Electrical (HV/LV)	90
+90 33	Lifts / elevators	90
+90 34	Fire safety (SSI)	90
+90 40	External works - fencing	90
+90 40 1	Garden wall in shuttering blocks, 20 cm [m2]	90 40
+95	Intangible works	
+95 10	Setting out and marking	95
+95 20	Reservations (blockouts)	95
+95 30	Material stocks and storage	95
+95 30 10	Reusable topsoil stock	95 30
+95 40	Site zones (welfare, cranes)	95
+95 50	Demolition elements, survey	95
+95 60	Temporary works (shoring)	95
